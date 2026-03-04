@@ -4,7 +4,7 @@
 ---
 ## I. The First Axiom
 
-> **The fundamental unit of logic is a fractal entity spanned by three mutually orthogonal axes: Push/Pull, Time/Space, and Dependency/Injection.**
+> **A Logic Unit (LU) is a fractal topology spanned by three orthogonal axes: Push/Pull, Time/Space, and Dependency/Injection.**
 ---
 ## II. Description
 
