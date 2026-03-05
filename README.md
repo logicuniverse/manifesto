@@ -16,10 +16,10 @@ The universe of logic is defined by a three-dimensional coordinate system. Every
 
 - **X-Axis (Push/Pull - Data Direction):** Determines the causality of data flow.
 - **Y-Axis (Time/Space - Execution Domain):** Defines the operational reality.
-- **Z-Axis (Dependency/Injection - Logic Transmission):** Acts as the conduit for pure logic transmission, passing external dependencies, interfaces, and higher-order functions into the unit.
+- **Z-Axis (Dependency/Injection - Logic Transmission):** Acts as the conduit for pure logic. It injects external dependencies, service implementations, and logic closures (such as nested sub-LUs communicating with their parent) into the unit, akin to higher-order functions.
 
 **The Principle of Fractality:**
-The Z-axis serves as the core mechanism for fractality. It acts as the "depth" axis, injecting necessary logic into nested structures. Through this Z-axis channel, a macro-topology encapsulates a universe of micro-topologies. A complex system assembled from thousands of units behaves externally as a single standard Logic Unit, perfectly self-similar across all scales.
+Logic topology is inherently self-similar. A complex macro-system assembled from a network of micro-topologies encapsulates its own internal universe, yet behaves externally as a single, standard Logic Unit. The macro-architecture and the micro-node share the exact same dimensional properties across all scales.
 
 ---
 
@@ -30,7 +30,7 @@ While the three axes provide the absolute mathematical space, their intersection
 - **X-Axis (Push/Pull):** Can it respond to pushed signals? (Yes: `+X` / No: `-X`)
 - **Y-Axis (Time/Space):** Is it time-dependent? (Yes: `+Y` / No: `-Y`)
 
-As an opinionated implementation of this pure topology, the current LogicUniverse framework utilizes these coordinates to define four primary Logic Units (LUs):
+As a canonical implementation of this pure topology, the current LogicUniverse framework utilizes these coordinates to define four primary Logic Units (LUs):
 
 - **Combinational LU (-X, -Y):** Does not respond to push signals (lazy evaluation) and has no temporal state (pure spatial computation).
 - **Sequential LU (-X, +Y):** Does not respond to push signals, but executes step-by-step strictly governed by the temporal axis.
@@ -65,7 +65,7 @@ In this universe, **logic is represented mathematically as pure data**. Because 
 
 ## VI. The Call to Architects
 
-The flatland of plain-text strings is ending. The future belongs to the full topology of logic—its geometry, its physics, and its biology. We call upon developers, AI researchers, and system designers to join this dimensional shift:
+The flatland of plain-text strings is ending. For decades, software engineering has been constrained to the one-dimensional tape of the Turing machine—a linear sequence of instructions. The future belongs to the full spatial topology of logic—its geometry, its physics, and its biology. We call upon developers, AI researchers, and system designers to step off the tape and join this dimensional shift:
 
 - **Implement the Specification:** Build parsers, compilers, and visualizers that treat code not as text, but as mathematical topology.
 - **Transcend the LLM Bottleneck:** Use Logic Units to transition AI models from generating stochastic tokens to orchestrating deterministic structures.
