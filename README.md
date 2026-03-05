@@ -25,7 +25,11 @@ Logic topology is inherently self-similar. A complex macro-system assembled from
 
 ## III. The Primary Quadrants: Standard Primitives
 
-While the three axes provide the absolute mathematical space, their intersection yields foundational archetypes. The execution plane formed by the X and Y axes maps the operational reality into four standard quadrants, strictly defined by two binary conditions:
+While the three axes provide the absolute mathematical space, their intersection yields foundational archetypes.
+
+The Z-axis is omitted from this type-classification because it represents a universal capability: every Logic Unit, regardless of its specific behaviors, inherently possesses the power to inject dependencies and host logic closures.
+
+The execution plane formed by the X and Y axes maps the operational reality into four standard quadrants, strictly defined by two binary conditions:
 
 - **X-Axis (Push/Pull):** Can it respond to pushed signals? (Yes: `+X` / No: `-X`)
 - **Y-Axis (Time/Space):** Is it time-dependent? (Yes: `+Y` / No: `-Y`)
