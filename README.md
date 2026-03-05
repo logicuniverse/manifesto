@@ -35,7 +35,7 @@ As a canonical implementation of this pure topology, the current LogicUniverse f
 - **Combinational LU (-X, -Y):** Does not respond to push signals (lazy evaluation) and has no temporal state (pure spatial computation).
 - **Sequential LU (-X, +Y):** Does not respond to push signals, but executes step-by-step strictly governed by the temporal axis.
 - **Stateful LU (+X, +Y):** Actively reacts to external push signals while maintaining an internal state machine across time.
-- **Composable LU (+X, -Y):** Actively reacts to push signals but operates purely in space. It serves as a structural scaffold for spatial wiring and concurrent execution, independent of the temporal axis.
+- **Composable LU (+X, -Y):** Actively reacts to push signals but operates purely in space. It serves as a structural scaffold for spatial wiring, providing mounting slots where nested logic coexists and reacts autonomously, completely decoupled from a central timeline.
 
 ---
 
