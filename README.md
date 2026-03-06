@@ -52,7 +52,8 @@ As a canonical implementation of this pure topology, the current LogicUniverse f
 
 The fundamental crisis of computer science is a **dimensional collapse**. Because traditional programming is confined to a one-dimensional instruction stream (The Turing Tape), it is forced to collapse the three-dimensional logic topology into a series of distorted, lower-dimensional vectors.
 
-**The Illusion of Decoupling:**
+**The Illusion of Decoupling**
+
 For decades, the industry has failed to achieve true decoupling because traditional paradigms **entangle the three axes**. In a non-orthogonal space, the act of "calling a function" is a composite vector: it simultaneously triggers execution (Y), defines a synchronization step (X), and resolves a dependency (Z). Because these dimensions are not independent, changing any single aspect of a logic's behavior inevitably ripples through the others, leading to the "hidden coupling" that plagues modern software.
 
 By providing a unified coordinate system, LogicUniverse re-separates these entangled dimensions and recognizes existing paradigms as mere projections:
