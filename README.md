@@ -1,5 +1,7 @@
 # LogicUniverse
 
+### Beyond the Tape: A Tri-Axial Fractal Topology for Deterministic Logic as Data
+
 **_Logic is not a sequence of instructions, but a spatial topology of existence._**
 
 ---
