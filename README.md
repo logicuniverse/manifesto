@@ -19,7 +19,12 @@ The universe of logic is defined by a three-dimensional coordinate system. Every
 - **Z-Axis (Dependency/Injection - Logic Transmission):** Acts as the conduit for pure logic. It injects external dependencies, service implementations, and logic closures (such as nested sub-LUs communicating with their parent) into the unit, akin to higher-order functions.
 
 **The Principle of Fractality:**
-Logic topology is inherently self-similar. A complex macro-system assembled from a network of micro-topologies encapsulates its own internal universe, yet behaves externally as a single, standard Logic Unit. The macro-architecture and the micro-node share the exact same dimensional properties across all scales.
+
+Logic topology is inherently self-similar. A complex macro-system assembled from a network of micro-topologies encapsulates its own internal universe, yet behaves externally as a single, standard Logic Unit. When a Logic Unit is manifested within another LU topology to perform its function, it is defined as a **Logic Unit Instance (LUI)**. The macro-architecture and the micro-node share the exact same dimensional properties across all scales.
+
+**The Observer's Symmetry:**
+
+To implement a logic is to define a new LU; to invoke that logic is to manifest an LUI. The distinction between a "system" and a "component" is not a difference in nature, but a shift in the observer’s coordinate origin.
 
 ---
 
@@ -27,7 +32,7 @@ Logic topology is inherently self-similar. A complex macro-system assembled from
 
 While the three axes provide the absolute mathematical space, their intersection yields foundational archetypes.
 
-The Z-axis is omitted from this type-classification because it represents a universal capability: every Logic Unit, regardless of its specific behaviors, inherently possesses the power to inject dependencies and host logic closures.
+The Z-axis is omitted from this type classification because it represents a universal capability: every Logic Unit, regardless of its specific behaviors, inherently possesses the power to inject dependencies and host logic closures.
 
 The execution plane formed by the X and Y axes maps the operational reality into four standard quadrants, strictly defined by two binary conditions:
 
@@ -92,7 +97,7 @@ The flatland of plain-text strings is ending. For decades, software engineering 
 ## Legal & Attribution
 
 The conceptual framework defined in this manifesto—specifically the **Logic Unit (LU)** as a fractal topology spanned by the three orthogonal axes: **Push/Pull**, **Time/Space**, and **Dependency/Injection**—constitutes the core original expression of the **LogicUniverse**.
-Any functional implementation, derivative work, or architectural subset that adopts this specific tripartite logical structure is recognized as an implementation of the **LogicUniverse Specification**. We establish it as a core community standard that such implementations honor the attribution requirements of the **Creative Commons Attribution 4.0 International (CC-BY-4.0) License**.
+Any functional implementation, derivative work, or architectural subset that adopts this specific tripartite logical structure is recognized as an implementation of the LogicUniverse Specification. We establish it as a core community standard that such implementations honor the attribution requirements of the **Creative Commons Attribution 4.0 International (CC-BY-4.0) License**.
 
 Recommended Attribution:
 "This implementation leverages the LogicUniverse Specification created by [Zhang, Yang](https://logicuniverse.org), licensed under CC-BY-4.0."
