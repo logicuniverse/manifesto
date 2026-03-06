@@ -18,7 +18,7 @@ The universe of logic is defined by a three-dimensional coordinate system. Every
 
 - **X-Axis (Push/Pull - Data Direction):** Determines the causality of data flow.
 - **Y-Axis (Time/Space - Execution Domain):** Defines the operational reality.
-- **Z-Axis (Dependency/Injection - Logic Transmission):** Acts as the conduit for pure logic. It injects external dependencies, service implementations, and logic closures (such as nested sub-LUs communicating with their parent) into the unit, akin to higher-order functions.
+- **Z-Axis (Dependency/Injection - Logic Transmission):** Acts as the conduit for pure logic. It injects external dependencies, service implementations, and logic closures (such as nested sub-LUs communicating with their parent) into the unit, akin to, but physically orthogonal to, higher-order functions.
 
 **The Principle of Fractality:**
 
@@ -48,9 +48,20 @@ As a canonical implementation of this pure topology, the current LogicUniverse f
 - **Stateful LU (+X, +Y):** Actively reacts to external push signals while maintaining an internal state machine across time.
 - **Composable LU (+X, -Y):** Actively reacts to push signals but operates purely in space. It serves as a structural scaffold for spatial wiring, providing mounting slots where nested logic coexists and reacts autonomously, completely decoupled from a central timeline.
 
+## IV. The Unified Field: Paradigms as Projections
+
+The fundamental crisis of computer science is a **dimensional collapse**. Because traditional programming is confined to a one-dimensional instruction stream (The Turing Tape), it is forced to collapse the three-dimensional logic topology into a series of distorted, lower-dimensional vectors:
+
+- **Functional Programming** is a projection onto the **(-X, -Y)** quadrant (Pull-based Space).
+- **Procedural Programming** is a projection onto the **(-X, +Y)** quadrant (Pull-based Time).
+- **Reactive Paradigms (RP/FRP)** are projections focused on the **(+X)** axis (Causality-driven), attempting to bridge event propagation with either temporal streams (+Y) or spatial combinators (-Y).
+- **Object-Oriented Programming (Original Vision)** is a projection of **Stateful Autonomy (+X, +Y)** combined with **Extreme Late-binding (Z-Axis)**, characterized by messaging, local state-processes, and dynamic injection.
+
+By recognizing these as mere slices of a singular, fractal topology, LogicUniverse provides a unified coordinate system to integrate them into a deterministic whole.
+
 ---
 
-## IV. The Evolutionary Roadmap: Geometry, Physics, Biology
+## V. The Evolutionary Roadmap: Geometry, Physics, Biology
 
 In this universe, **logic is represented mathematically as pure data**. Because logic itself is data, it can be decoupled, independently operated upon, and evolved across three progressive dimensions:
 
@@ -63,7 +74,7 @@ In this universe, **logic is represented mathematically as pure data**. Because 
 
 ---
 
-## V. Philosophy of Action
+## VI. Philosophy of Action
 
 - **Construct, not write**  
   For Humans: Logic is a geometric construction. We move beyond character-stream manipulation into the realm of structured assembly.
@@ -74,7 +85,7 @@ In this universe, **logic is represented mathematically as pure data**. Because 
 
 ---
 
-## VI. The Call to Architects
+## VII. The Call to Architects
 
 The flatland of plain-text strings is ending. For decades, software engineering has been constrained to the one-dimensional tape of the Turing machine—a linear sequence of instructions. The future belongs to the full spatial topology of logic—its geometry, its physics, and its biology. We call upon developers, AI researchers, and system designers to step off the tape and join this dimensional shift:
 
@@ -84,7 +95,7 @@ The flatland of plain-text strings is ending. For decades, software engineering 
 
 ---
 
-## VII. Origins & Current State
+## VIII. Origins & Current State
 
 **Origin:** LogicUniverse is deeply inspired by electronic engineering constraints. It translates the deterministic, decoupled nature of physical hardware circuitry into the realm of software.
 
@@ -103,6 +114,14 @@ Any functional implementation, derivative work, or architectural subset that ado
 
 Recommended Attribution:
 "This implementation leverages the LogicUniverse Specification created by [Zhang, Yang](https://logicuniverse.org), licensed under CC-BY-4.0."
+
+---
+
+### Note: The ZYModel
+
+For the sake of brevity in both academic discourse and technical implementation, this **Tri-Axial Fractal Topology** is formally referred to as the **ZYModel**.
+
+The name serves as a dual tribute: to the **Z** and **Y** axes that expand the one-dimensional Turing Tape (**X**) into a full-dimensional operational domain, and to the foundational pursuit of a deterministic, biological logic.
 
 ---
 
