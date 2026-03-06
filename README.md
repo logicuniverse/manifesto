@@ -20,11 +20,11 @@ The universe of logic is defined by a three-dimensional coordinate system. Every
 - **Y-Axis (Time/Space - Execution Domain):** Defines the operational reality—the duality between **Temporal** governance (existence or execution governed by the time axis) and **Spatial** immediate mapping (stateless transformation).
 - **Z-Axis (Dependency/Injection - Logic Transmission):** Acts as the **conduit** for pure logic. It enables the vertical injection of external dependencies and higher-order closures, acting physically orthogonal to the execution plane formed by the X and Y axes.
 
-**The Principle of Fractality:**
+**The Principle of Fractality**
 
 Logic topology is inherently self-similar. A complex macro-system assembled from a network of micro-topologies encapsulates its own internal universe, yet behaves externally as a single, standard Logic Unit. When a Logic Unit is manifested within another LU topology to perform its function, it is defined as a **Logic Unit Instance (LUI)**. The macro-architecture and the micro-node share the exact same dimensional properties across all scales.
 
-**The Observer's Symmetry:**
+**The Observer's Symmetry**
 
 To implement a logic is to define a new LU; to invoke that logic is to manifest an LUI. The distinction between a "system" and a "component" is not a difference in nature, but a shift in the observer’s coordinate origin.
 
