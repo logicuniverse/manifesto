@@ -14,11 +14,11 @@
 
 ## II. The Topology of Logic: Axes & Fractality
 
-The universe of logic is defined by a three-dimensional coordinate system. Every logic entity, regardless of its scale, exists within this orthogonal space:
+The universe of logic is defined by a three-dimensional coordinate system. Every **Logic Unit (LU)**, regardless of its scale, exists within this orthogonal space, where each axis is defined by a fundamental duality:
 
-- **X-Axis (Push/Pull - Data Direction):** Determines the causality of data flow.
-- **Y-Axis (Time/Space - Execution Domain):** Defines the operational reality.
-- **Z-Axis (Dependency/Injection - Logic Transmission):** Acts as the conduit for pure logic. It injects external dependencies, service implementations, and logic closures (such as nested sub-LUs communicating with their parent) into the unit, akin to, but physically orthogonal to, higher-order functions.
+- **X-Axis (Push/Pull - Interaction Polarity):** Defines the **synchronization modality** of the boundary between internal and external states—the duality between **Proactive Push** (active subscription to external changes) and **Lazy Pull** (on-demand sampling of internal state).
+- **Y-Axis (Time/Space - Execution Domain):** Defines the operational reality—the duality between **Temporal** governance (existence or execution governed by the time axis) and **Spatial** immediate mapping (stateless transformation).
+- **Z-Axis (Dependency/Injection - Logic Transmission):** Acts as the **conduit** for pure logic. It enables the vertical injection of external dependencies and higher-order closures, acting physically orthogonal to the execution plane formed by the X and Y axes.
 
 **The Principle of Fractality:**
 
@@ -38,26 +38,36 @@ The Z-axis is omitted from this type classification because it represents a univ
 
 The execution plane formed by the X and Y axes maps the operational reality into four standard quadrants, strictly defined by two binary conditions:
 
-- **X-Axis (Push/Pull):** Can it respond to pushed signals? (Yes: `+X` / No: `-X`)
-- **Y-Axis (Time/Space):** Is it time-dependent? (Yes: `+Y` / No: `-Y`)
+- **X-Axis (Interaction Polarity):** Is there an **Active Subscription** to external changes? (Yes: `+X` / No: `-X`)
+- **Y-Axis (Execution Domain):** Is its existence/operation governed by the **Temporal Axis**? (Yes: `+Y` / No: `-Y`)
 
-As a canonical implementation of this pure topology, the current LogicUniverse framework utilizes these coordinates to define four primary Logic Units (LUs):
+As a canonical implementation of this pure topology, the current LogicUniverse framework utilizes these coordinates to define four primary Logic Units:
 
-- **Combinational LU (-X, -Y):** Does not respond to push signals (lazy evaluation) and has no temporal state (pure spatial computation).
-- **Sequential LU (-X, +Y):** Does not respond to push signals, but executes step-by-step strictly governed by the temporal axis.
-- **Stateful LU (+X, +Y):** Actively reacts to external push signals while maintaining an internal state machine across time.
-- **Composable LU (+X, -Y):** Actively reacts to push signals but operates purely in space. It serves as a structural scaffold for spatial wiring, providing mounting slots where nested logic coexists and reacts autonomously, completely decoupled from a central timeline.
+- **Combinational LU (-X, -Y):** Does not subscribe to push signals (Lazy Pull) and has no temporal governance (Pure Spatial Mapping).
+- **Sequential LU (-X, +Y):** Does not subscribe to push signals, but its execution is gated by the temporal axis, with per-cycle results latched by the runtime.
+- **Stateful LU (+X, +Y):** A persistent temporal existence that evolves across time, actively subscribing to external push signals.
+- **Composable LU (+X, -Y):** A proactive spatial scaffold that reacts to push signals to trigger its mapping logic and coordinate nested LUI data without temporal persistence.
 
 ## IV. The Unified Field: Paradigms as Projections
 
-The fundamental crisis of computer science is a **dimensional collapse**. Because traditional programming is confined to a one-dimensional instruction stream (The Turing Tape), it is forced to collapse the three-dimensional logic topology into a series of distorted, lower-dimensional vectors:
+The fundamental crisis of computer science is a **dimensional collapse**. Because traditional programming is confined to a one-dimensional instruction stream (The Turing Tape), it is forced to collapse the three-dimensional logic topology into a series of distorted, lower-dimensional vectors.
 
-- **Functional Programming** is a projection onto the **(-X, -Y)** quadrant (Pull-based Space).
-- **Procedural Programming** is a projection onto the **(-X, +Y)** quadrant (Pull-based Time).
-- **Reactive Paradigms (RP/FRP)** are projections focused on the **(+X)** axis (Causality-driven), attempting to bridge event propagation with either temporal streams (+Y) or spatial combinators (-Y).
-- **Object-Oriented Programming (Original Vision)** is a projection of **Stateful Autonomy (+X, +Y)** combined with **Extreme Late-binding (Z-Axis)**, characterized by messaging, local state-processes, and dynamic injection.
+**The Illusion of Decoupling:**
+For decades, the industry has failed to achieve true decoupling because traditional paradigms **entangle the three axes**. In a non-orthogonal space, the act of "calling a function" is a composite vector: it simultaneously triggers execution (Y), defines a synchronization step (X), and resolves a dependency (Z). Because these dimensions are not independent, changing any single aspect of a logic's behavior inevitably ripples through the others, leading to the "hidden coupling" that plagues modern software.
 
-By recognizing these as mere slices of a singular, fractal topology, LogicUniverse provides a unified coordinate system to integrate them into a deterministic whole.
+By providing a unified coordinate system, LogicUniverse re-separates these entangled dimensions and recognizes existing paradigms as mere projections:
+
+- **Functional Programming:** A projection onto the **(-X, -Y)** quadrant (Pull-based Space), excelling in spatial mapping but struggling with temporal evolution.
+- **Procedural Programming:** A projection onto the **(-X, +Y)** quadrant (Pull-based Time), focusing on stepping through the temporal axis via manual sampling.
+- **Reactive Paradigms (RP/FRP):** Projections focused on the **(+X)** axis (Proactive Interaction), attempting to bridge event propagation with either temporal streams (+Y) or spatial combinators (-Y).
+- **Object-Oriented Programming (Original Vision):** A projection of **Stateful Autonomy (+X, +Y)** combined with **Dynamic Z-Axis Injection (commonly known as Late-binding)**, facilitating encapsulated state-evolution and logic decoupling.
+
+True decoupling is only possible in a **Fractal Topology** governed by two principles:
+
+1. **Dimensional Orthogonality:** By isolating synchronization (+X/-X), temporal governance (+Y/-Y), and vertical logic injection (Z-axis), we ensure that a shift in one dimension does not propagate unintended side effects into others.
+2. **Scale Invariance:** By enforcing the same tri-axial signature for both a single gate and a global cluster, we eliminate the structural friction between "macro" and "micro" architectures.
+
+The decoupling problem was never about better "interfaces"; it was about the lack of a **Universal Coordinate System** for logic.
 
 ---
 
