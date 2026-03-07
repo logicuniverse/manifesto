@@ -4,8 +4,6 @@
 
 **_Logic is not a sequence of instructions, but a spatial topology of existence._**
 
----
-
 ## I. The Prime Axiom
 
 > **A Logic Unit (LU) is a fractal topology spanned by three orthogonal axes: Push/Pull, Time/Space, and Provide/Inject.**
@@ -15,6 +13,27 @@
 ## II. The Topology of Logic: Axes & Fractality
 
 The universe of logic is defined by a three-dimensional coordinate system. Every **Logic Unit (LU)**, regardless of its scale, exists within this orthogonal space, where each axis represents a pure, independent dimension of digital reality, governed by its own internal duality:
+
+**The Tri-Axial Topology**
+
+```text
+                    +Z (Provide)
+                     ^
+                     |    +Y (Time)
+                     |   ^
+                     |  /
+                     | /
+                     |/
+   -X <--------------O--------------> +X
+ (Pull)             /|              (Push)
+                   / |
+                  /  |
+                 /   |
+                v    v
+       -Y (Space)   -Z (Inject)
+```
+
+> **Note on Scale Invariance:** The diagram above is universal. Whether it represents a sub-atomic NAND gate or a macro-scale clearing system, the tri-axial protocol remains constant. Fractality is achieved not through the complexity of the drawing, but through the infinite recursion of this coordinate system within every manifested node.
 
 - **X-Axis (Push/Pull):** The domain of **Pure Data**. It defines the reconciliation mechanism between **Internal and External states** at the boundary of the LU—the duality between **Asynchronous Reactive Logic** (+X: _Push: Emit/Subscribe_) and **Synchronous Latching Logic** (-X: _Pull: Sampling/Latch_).
 - **Y-Axis (Time/Space):** The domain of **Existence**. It defines the operational reality—the duality between **Temporal Governance** (+Y: _Time: Stateful evolution_) and **Spatial Mapping** (-Y: _Space: Stateless transformation_).
@@ -35,8 +54,9 @@ This bi-axial symmetry ensures that the tri-axial protocol remains invariant acr
 
 ## III. The Tragedy of the Tape: The Dimensional Collapse
 
-The fundamental crisis of modern software engineering is a **dimensional collapse**. For decades, we have been confined to the **Turing Tape**—a one-dimensional instruction stream (1D). This linear constraint forces a complex, multi-dimensional logic topology to be flattened into a fragile string of text.
+The fundamental crisis of modern software engineering is a **dimensional collapse**. For decades, we have been confined to the **Turing Tape**—a one-dimensional instruction stream (1D). This linear constraint, further calcified by the **von Neumann Architecture**, forces a complex, multi-dimensional logic topology to be flattened into a fragile string of hex and text.
 
+- **The von Neumann Bottleneck of Logic:** While the von Neumann architecture separated CPU from Memory, it inadvertently unified **Logic** with **Sequence**. By forcing logic to exist only as a series of instructions fetched from a linear heap, we lost the ability to express the concurrent, multi-axial nature of digital reality.
 - **The Entanglement of Axes:** In a non-orthogonal 1D space, every action is a composite vector. "Calling a function" is a tangled mess: it simultaneously triggers execution (Y), defines a synchronization step (X), and resolves a logic source (Z). Because these dimensions are not independent, changing any aspect of a logic's behavior inevitably ripples through others, leading to "hidden coupling."
 - **The Fragility of Mutation:** In a continuous stream, every character is critical. A single typo or misplaced semicolon can mutate the entire sequence downstream. This **"Linear Text Gap"** is the primary barrier to both human maintainability and autonomous machine reasoning.
 - **The Context Overflow:** Because traditional code is flat and non-local, an observer must ingest the entire "tape" to reconstruct the intended topology. This leads to the inevitable exhaustion of context windows and cognitive capacity as systems scale.
@@ -45,7 +65,7 @@ The fundamental crisis of modern software engineering is a **dimensional collaps
 
 The industry's failure to achieve true decoupling stems from attempting to solve 3D problems with 1D tools. By providing a **Universal Coordinate System**, LogicUniverse recognizes existing paradigms as partial **Projections** onto our tri-axial space:
 
-- **Functional Programming:** A projection onto the **(-X, -Y)** quadrant. It excels in pure spatial mapping but often lacks the native vocabulary for proactive interaction (+X), leading to complex "Effect" wrappers to bridge the gap.
+- **Functional Programming (FP):** A projection onto the **(-X, -Y)** quadrant. It excels in pure spatial mapping but often lacks the native vocabulary for proactive interaction (+X), leading to complex "Effect" wrappers to bridge the gap.
 - **Procedural Programming:** A projection onto the **(-X, +Y)** quadrant. It focuses on stepping through the temporal axis via manual sampling and gated execution, treating logic as a sequence of state transitions.
 - **Reactive Programming (RP):** A projection primarily in the **(+X, +Y)** space. It solves push-based interaction but, without an orthogonal Z-axis, it collapses into "Stream Entanglement" as it tries to manage stateful event sequences within a linear flow.
 - **Functional Reactive Programming (FRP):** An ambitious attempt at the **(+X, -Y)** space. It tries to treat time as a continuous mathematical coordinate (Spatial Time), but the 1D tape forces its implementation to collapse back into stateful, buffered streams (**+Y**) to manage history.
