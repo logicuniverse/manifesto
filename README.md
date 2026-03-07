@@ -14,11 +14,11 @@
 
 ## II. The Topology of Logic: Axes & Fractality
 
-The universe of logic is defined by a three-dimensional coordinate system. Every **Logic Unit (LU)**, regardless of its scale, exists within this orthogonal space, where each axis is defined by a fundamental duality:
+The universe of logic is defined by a three-dimensional coordinate system. Every **Logic Unit (LU)**, regardless of its scale, exists within this orthogonal space, where each axis represents a pure, independent dimension of digital reality:
 
-- **X-Axis (Push/Pull - Interaction Polarity):** Defines the **synchronization modality** of the boundary between internal and external states—the duality between **Proactive Push** (active subscription to external changes) and **Lazy Pull** (on-demand sampling of internal state).
-- **Y-Axis (Time/Space - Execution Domain):** Defines the operational reality—the duality between **Temporal** governance (existence or execution governed by the time axis) and **Spatial** immediate mapping (stateless transformation).
-- **Z-Axis (Dependency/Injection - Logic Transmission):** Acts as the **conduit** for pure logic. It enables the vertical injection of external dependencies and higher-order closures, acting physically orthogonal to the execution plane formed by the X and Y axes.
+- **X-Axis (Push/Pull):** The domain of **Pure Data**. It defines the reconciliation mechanism between **Internal and External states** at the boundary of the LU—the duality between **Asynchronous Reactive Logic** (+X: _Push: Emit/Subscribe_) and **Synchronous Latching Logic** (-X: _Pull: Sampling/Latch_).
+- **Y-Axis (Time/Space):** The domain of **Existence**. It defines the operational reality—the duality between **Temporal Governance** (+Y: _Time: Stateful evolution_) and **Spatial Mapping** (-Y: _Space: Stateless transformation_).
+- **Z-Axis (Dependency/Injection):** The domain of **Runnables**. It acts as the vertical conduit for injecting logic closures and external dependencies, piercing physically orthogonal to the **Execution Plane** formed by the X and Y axes.
 
 **The Principle of Fractality**
 
@@ -30,23 +30,23 @@ To implement a logic is to define a new LU; to invoke that logic is to manifest 
 
 ---
 
-## III. The Primary Quadrants: Standard Primitives
+## III. The Execution Plane: The Four Quadrants of Logic
 
-While the three axes provide the absolute mathematical space, their intersection yields foundational archetypes.
+The **Execution Plane** is the operational surface defined by the intersection of the **X-Axis (Push/Pull)** and the **Y-Axis (Time/Space)**. Every LU manifests its behavior on this plane through a specific combination of its interaction polarity and its existence modality.
 
-The Z-axis is omitted from this type classification because it represents a universal capability: every Logic Unit, regardless of its specific behaviors, inherently possesses the power to inject dependencies and host logic closures.
+By mapping these two orthogonal dimensions, we define the four fundamental archetypes of logic existence:
 
-The execution plane formed by the X and Y axes maps the operational reality into four standard quadrants, strictly defined by two binary conditions:
+- **Combinational LU (-X, -Y):** Pure **Spatial** mapping. It operates in a Pull-based mode (-X) and has no temporal governance (-Y). It represents immediate, stateless transformation—where the output is a synchronous reflection of the sampled input.
+- **Sequential LU (-X, +Y):** Gated **Temporal** execution. While it operates in a Pull-based mode (-X), its execution is governed by the temporal axis (+Y). It defines a transient logic transition within a discrete cycle, with its **resulting output** latched by the runtime to persist into the next temporal coordinate.
 
-- **X-Axis (Interaction Polarity):** Is there an **Active Subscription** to external changes? (Yes: `+X` / No: `-X`)
-- **Y-Axis (Execution Domain):** Is its existence/operation governed by the **Temporal Axis**? (Yes: `+Y` / No: `-Y`)
+- **Stateful LU (+X, +Y):** Persistent **Temporal** existence. It evolves across time (+Y) and actively subscribes to external Push signals (+X). It is a proactive entity within the topology that drives its internal state evolution through asynchronous triggers.
 
-As a canonical implementation of this pure topology, the current LogicUniverse framework utilizes these coordinates to define four primary Logic Units:
+- **Composable LU (+X, -Y):** Proactive **Spatial** scaffold. It reacts to Push signals (+X) to trigger its mapping logic but maintains no temporal persistence (-Y). It acts as an immediate reactive relay, coordinating and transforming data across the topology without anchoring it in time.
 
-- **Combinational LU (-X, -Y):** Does not subscribe to push signals (Lazy Pull) and has no temporal governance (Pure Spatial Mapping).
-- **Sequential LU (-X, +Y):** Does not subscribe to push signals, but its execution is gated by the temporal axis, with per-cycle results latched by the runtime.
-- **Stateful LU (+X, +Y):** A persistent temporal existence that evolves across time, actively subscribing to external push signals.
-- **Composable LU (+X, -Y):** A proactive spatial scaffold that reacts to push signals to trigger its mapping logic and coordinate nested LUI data without temporal persistence.
+**The Operational Landscape**
+The Execution Plane provides the "flesh" of logic. Every LUI occupies a definitive territory within these four quadrants, determining how it reconciles data at its boundary and how it persists in the operational realm. This plane defines the totality of a system's **behavioral footprint**.
+
+However, while these four quadrants define _how_ logic behaves, they do not define _what_ logic is. To achieve true sovereignty and decouple the structure from its implementation, we must look upward—to the vertical axis that pierces this plane.
 
 ---
 
