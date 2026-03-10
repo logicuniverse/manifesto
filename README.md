@@ -1,6 +1,6 @@
 # LogicUniverse
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.2-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.3-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 
@@ -282,6 +282,10 @@ Recommended Attribution:
 ---
 
 ## Release History
+
+### v1.0.0-alpha.3 (2026-03-10)
+
+Update formatting.
 
 ### v1.0.0-alpha.2 (2026-03-10)
 
