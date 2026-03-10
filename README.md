@@ -1,6 +1,6 @@
 # LogicUniverse
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.3-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.4-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 
@@ -39,7 +39,7 @@ The universe of logic is defined by a three-dimensional coordinate system. Every
 
 > **Note on Scale Invariance:** The diagram above is universal. Whether it represents a sub-atomic NAND gate or a macro-scale clearing system, the tri-axial protocol remains constant. Fractality is achieved not through the complexity of the drawing, but through the infinite recursion of this coordinate system within every manifested node.
 
-- **X-Axis (Push/Pull):** The domain of **Pure Data**. It defines the reconciliation mechanism between **Internal and External states** at the boundary of the LU—the duality between **Asynchronous Reactive Logic** (+X: _Push: Emit/Subscribe_) and **Synchronous Latching Logic** (-X: _Pull: Sampling/Latch_).
+- **X-Axis (Push/Pull):** The domain of **Pure Data**. It defines the reconciliation mechanism between **Internal and External states** at the boundary of the LU—the duality between **Asynchronous Reactive Logic** (+X: _Push: Emit/Subscribe_) and **Synchronous Latching Logic** (-X: _Pull: Sample/Latch_).
 - **Y-Axis (Time/Space):** The domain of **Existence**. It defines the operational reality—the duality between **Temporal Governance** (+Y: _Time: Stateful evolution_) and **Spatial Mapping** (-Y: _Space: Stateless transformation_).
 - **Z-Axis (Provide/Inject):** The domain of **Logic Essence**. It acts as the vertical conduit for the bi-directional exchange of sovereign logic—piercing physically orthogonal to the **Execution Plane (formed by the X and Y axes)** to serve as both the Source (+Z: _Provide: Source of essence_) and the Sink (-Z: _Inject: Filling of slots_).
 
@@ -65,9 +65,9 @@ The fundamental crisis of modern software engineering is a **dimensional collaps
 - **The Fragility of Mutation:** In a continuous stream, every character is critical. A single typo or misplaced semicolon can mutate the entire sequence downstream. This **"Linear Text Gap"** is the primary barrier to both human maintainability and autonomous machine reasoning.
 - **The Context Overflow:** Because traditional code is flat and non-local, an observer must ingest the entire "tape" to reconstruct the intended topology. This leads to the inevitable exhaustion of context windows and cognitive capacity as systems scale.
 - **The Nominal Burden:** The classic computer science struggle of "naming things" is a symptom of 1D linear constraints. In a text-based stream, we invent variable names to bridge the gap between non-local fragments. Within a **Logic Universe**, identity is defined by **Connection and Coordinate Proximity**. Like a high-fidelity circuit diagram, logic exists through **NETs**—physical or virtual conduction paths between coordinates. Logic does not require a "name" to function; it only requires position and parity. We have spent decades naming "variables" that should have simply been "nets" connecting points in space.
-- **The Meta-Programming Illusion:** Traditional macros and meta-programming are fragile 1D text-manipulation hacks, often requiring a separate, opaque "meta-language." In **LogicUniverse**, there is no structural difference between "compile-time" and "run-time" logic. A **Macro** is simply a Standard Logic Unit executed during the **Pre-Manifestation Stage** to resolve invariants and structural constants. By reusing the same LU protocol across different temporal stages, we achieve massive, seamless logic reuse without the cognitive tax of traditional macros.
+- **The Meta-Programming Illusion:** Traditional macros and meta-programming are fragile 1D text-manipulation hacks, often requiring a separate, opaque "meta-language." In **LogicUniverse**, there is no structural difference between "compile-time" and "run-time" logic. A **Macro** is simply a Standard Logic Unit executed during the **Transformation Pipeline** to resolve invariants and structural constants. By reusing the same LU protocol across different pipeline stages, we achieve massive, seamless logic reuse without the cognitive tax of traditional macros.
 - **The Side-Effect Paradox:** Modern paradigms either treat side effects as a chaotic nuisance or hide them behind complex, opaque abstractions. In **LogicUniverse**, side effects are stripped of their "accidental" nature. They are strictly channeled and governed through the **Z-Axis (Provide/Inject)**. By declaratively defining the vertical boundaries of these conduits, we isolate the **Execution Plane (X/Y)** from unintended ripples, transforming side effects into observable, intentional logic injections.
-- **The Distributed Illusion:** Traditional systems treat "distributed" as a complex layer of networking and synchronization. In reality, a distributed system is just a single Logic Unit physically split across locations. Because the **X-Axis** is Pure Data, distribution is not a feature; it is the default shape of a topology whose parts are not co-located. Distribution is not a layer; it is just the Y-Axis, exposed.
+- **The Distributed Illusion:** Traditional systems treat "distributed" as a complex layer of networking and synchronization. In reality, a distributed system is just a single Logic Unit physically split across locations. Because the **X-Axis** is Pure Data, distribution is not a feature; it is the default shape of a topology whose parts are not co-located. Distribution is not a layer; it is a Topological Slice of the axes manifested across physical boundaries.
 - **The Observability Crisis:** Debugging in 1D text relies on lossy logs or intrusive breakpoints. In the **LogicUniverse**, observability is not a feature, but a geometric property. Each **Logic Unit** is a deterministic, pulse-governed entity. Every data exchange on the **X/Y Plane** is captured as a discrete structural event, rendering traditional "logging" obsolete. The runtime is, by design, a **Native Logic Analyzer**, recording every topological transition for perfect time-traveling reconstruction at zero observer overhead.
 
 **The Unified Field: Existing Paradigms as Projections**
@@ -125,15 +125,20 @@ In the **LogicUniverse**, logic essence is organized into **Services**—soverei
 An **Abstract Logic Unit Template (Abstract LUT)** is the formal definition of a logic requirement within a host LU. Crucially, these templates are not empty "voids"—they manifest as **LUI Sets** at their designated **Geometric Coordinates** upon the host’s creation.
 
 - **Coordinate Pre-Allocation:** At the moment of an LU's inception, its Abstract LUTs exist as manifested entities on the Execution Plane. They define the _where_ and _when_ (X/Y) of a logic's behavior, while their _what_ (Z) remains a geometric variable.
-- **Topological Inversion (Fulfillment):** The host LU does not "invoke" logic. Instead, it maintains a **Topological Slot** that expects essence. This fulfillment is bi-directional:
-  - **Internal Provide (+Z):** A **Sub-LU Closure** can fulfill the coordinate, acting as the primary or default essence.
-  - **External Inject (-Z):** An **Injected Service** can fulfill or **Shadow** the coordinate, substituting the logic essence at that specific Geometric Coordinate while preserving the host's overall topology.
+- **Topological Inversion (Fulfillment):** The host LU does not "invoke" logic. Instead, it maintains a **Topological Slot** that expects essence. This fulfillment is bi-directional and policy-driven:
+  - **Internal Provide (+Z):** A **Sub-LU Closure** can fulfill the coordinate, acting as the **Innate Essence**.
+  - **External Inject (-Z):** An **Injected Service (sourced from the external environment or parent LU)** can fulfill the coordinate, acting as the **Exogenous Essence**.
+- **Sovereignty Selection (Shadowing):** The Z-Axis allows for **Bi-directional Shadowing**. The final manifested logic is a result of **Topological Occupancy Priority**, governed by the system's sovereignty policy:
+  - **Exogenous Dominance (Injection):** The External Inject overrides the Internal Provide (Standard Dependency Injection).
+  - **Innate Dominance (Hard-coding):** The Internal Provide guards against and rejects external injection, ensuring local architectural integrity.
+  - **Dynamic Arbitration:** The runtime decides the winner based on environmental triggers (e.g., A/B testing, hot-patching, or hierarchical priority overrides).
 - **Sovereign Grouping:** Abstract LUTs are grouped by the **Services** they represent. Fulfilling a Service means simultaneously occupying a coordinated group of LUI Sets, ensuring the atomic integrity of the domain's manifestation.
 
 **Fractal Provide/Inject: Vertical Symmetry**
 
 **Fractality** is the recursive application of this vertical mounting. In this tri-axial space, the Z-Axis acts as a bi-directional conduit, maintaining absolute symmetry:
 
+- **Perspective Symmetry:** Inherently, **Provide (+Z)** and **Inject (-Z)** are the same physical phenomenon viewed from opposite sides of the Execution Plane. What the parent LU "Provides" (+Z) is experienced by the child LU as an "Injection" (-Z).
 - **Inject (-Z):** From the host's perspective, the Z-Axis is a **Sink**, allowing external essence to pierce through its coordinates and substitute or fulfill its topology.
 - **Provide (+Z):** From the logic essence's perspective, the Z-Axis is a **Source**, allowing it to project its sovereignty (either internally from a Sub-LU or externally from a Service) to fulfill an Abstract LUT.
 - **Coordinate Transformation:** Coupling logic is reframed as a transformation of the Z-coordinate. By substituting the Z-Axis source, the observer changes the "What" (Essence) while maintaining the absolute structural and temporal determinacy of the "How/When" (X/Y).
@@ -166,7 +171,7 @@ Once logic enters the Logic-IR state, its origin becomes irrelevant. It exists a
 
 Logic-IR is a deterministic, closed-world data structure (e.g., JSON, schema, or binary format) that encodes:
 
-- **Topology:** The spatial arrangement and connectivity of Logic Units across the tri-axial coordinate system.
+- **Topology:** The spatial arrangement and connectivity (via globally unique **Net IDs**) of Logic Units across the tri-axial coordinate system.
 - **Behavior:** The operational modes, invariants, and state transitions of each LU.
 - **Essence:** The vertical sovereignty and injection/provide relationships (Z-axis).
 - **Constants & Invariants:** Compile-time logic, resolved and embedded as immutable data.
@@ -194,9 +199,9 @@ Because Logic-IR is a fully serializable data structure, it is inherently **Coll
 
 The geometric nature of Logic-IR naturally enforces a **Spatial Access Control** model. Permissions are not assigned to "files," but to **Topological Zones**, creating a secure environment for Human-AI co-creation:
 
-- **Axial Isolation:** An agent (e.g., an optimization AI) can be restricted to only modifying the **-Y Axis (Stateless Mapping)** while being barred from touching the **+Y Axis (Stateful Evolution)** or **Z-Axis (Sovereignty)**.
+- **Axial Isolation:** An agent (e.g., an optimization AI) can be restricted to modifying logic within the Spatial domain (-Y) while being barred from the Temporal domain (+Y).
 - **Fractal Containment:** Access can be scoped to a specific **LUI (Logic Unit Instance)** subtree. A contributor can have full sovereignty within their assigned logic node but remain a "black box" to the rest of the macro-topology.
-- **Coordinate-Based Auditing (The Logic Black Box):** Every modification is signed with a coordinate-based timestamp, creating an immutable ledger of topological evolution. This forms a **"Logic Black Box"**: because every state transition is tied to a deterministic coordinate path, any logic failure can be perfectly reconstructed and debugged by traversing the exact spatial-temporal trajectory of the fault. We no longer ask "who changed line 42," but "which agent altered the Z-Axis injection at Coordinate [A, B, C] at Time T."
+- **Coordinate-Based Auditing (The Logic Black Box):** Every modification is signed with a coordinate-based timestamp, creating an immutable ledger of topological evolution. This forms a **"Logic Black Box"**: because every state transition is tied to a deterministic coordinate path, any logic failure can be perfectly reconstructed and debugged by traversing the exact spatial-temporal trajectory of the fault. We no longer ask "who changed line 42," but "which agent altered the Z-Axis injection at Coordinate [A, B, C] at **Engineering Time T**."
 
 **Fractal Regression & Deterministic Testing**
 
@@ -219,7 +224,38 @@ In this paradigm, there is no "Binary" in the traditional, lossy sense—only th
 
 ---
 
-## VII. AI-Native Architecture: From Tokens to Topology
+## VII. Distributed Manifestation: Axial Slicing & Projection
+
+In the **LogicUniverse**, a distributed system is not an additional architectural layer or a network engineering problem; it is a **Topological Slice** of a unified Logic-IR. Distribution is the operational act of partitioning a macro-topology across physical boundaries by projecting internal Nets into boundary interfaces.
+
+**Spatial Distribution: Partitioning across Nodes**
+
+Spatial distribution occurs when a macro-LU is split across different physical environments (processes, containers, or hardware nodes). This is achieved through a **Spatial Cut** of the topology:
+
+- **Automatic Interface Projection:** Any internal Net that crosses the physical boundary is automatically transformed into a pair of **Push-based (+X) Ports**: an **Emit** port on the source slice and a **Subscribe** port on the target slice.
+- **Spatial-Blind Logic:** The logic inside each slice remains entirely unaware of the physical separation. It interacts with these projected ports as if they were local, continuous Nets, ensuring that the logic remains invariant regardless of the deployment scale.
+
+**Temporal Distribution: Partitioning across Time**
+
+Temporal distribution occurs when logic execution is interrupted and resumed (e.g., persistence, long-running sagas, or system hibernation). This is a **Temporal Cut** along the **+Y Axis**:
+
+- **Axial Interception:** The Transformation Pipeline "freezes" the state of a Net at a specific temporal coordinate.
+- **State-as-Interface:** This cut is projected as a **Sync/Latch (-X)** or **Emit/Subscribe (+X)** interface for state restoration. To the Logic Unit, "Persistence" is simply another form of boundary communication where the "receiver" is its own future self.
+- **Time-Blind Continuity:** The LU remains **"Temporal-Blind."** From its perspective, the transition between $T_n$ and $T_{n+1}$ is logically continuous, even if biologically or physically separated by days of storage in a database.
+
+**Topological Linkage & Ontological Unity**
+
+The **LogicUniverse** provides the slices, but the **Architect** (Human or AI) defines the **Carrier**:
+
+- **Explicit Interconnect:** The architect is responsible for connecting the projected boundary ports (the "Nerves"). Since these are standard +X/+Y interfaces, the underlying transport—whether it is **gRPC, TCP/IP, PCIe, or a Key-Value Store**—is a detail of the execution environment, not the logic.
+- **Ghost-Nets:** Despite being fragmented across space or interrupted across time, the system maintains its **Unity**. Net IDs remain logically identical across slices, ensuring that the **"Total Existence"** of the logic fabric is preserved.
+- **Deterministic Reconstruction:** Because the Net IDs are preserved, any failure in a distributed slice can be perfectly reconstructed in a local debugger by "re-weaving" the slices back into a single Logic-IR.
+
+**The Pipeline is the Scalpel (slicing the axes). The Projected Port is the Nerve (the boundary). The Architect is the Weaver (connecting reality).**
+
+---
+
+## VIII. AI-Native Architecture: From Tokens to Topology
 
 LogicUniverse is the native habitat for Artificial Intelligence. By moving beyond human-centric text, it shifts AI from a "Predictive Writer" to an **"Atomic Architect."** It replaces the volatile guesswork of sequence prediction with the deterministic orchestration of logic units within a 3-axis coordinate system.
 
@@ -250,7 +286,7 @@ By equipping the environment with an Algebraic Type System, we provide AI with a
 
 ---
 
-## VIII. The Evolutionary Roadmap: Geometry, Dynamics, Evolution
+## IX. The Evolutionary Roadmap: Geometry, Dynamics, Evolution
 
 In this universe, **logic is represented mathematically as pure data**. Because logic itself is data, it can be decoupled, independently operated upon, and evolved across three progressive dimensions:
 
@@ -268,7 +304,7 @@ In this universe, **logic is represented mathematically as pure data**. Because 
 
 ---
 
-## IX. The Call to Architects
+## X. The Call to Architects
 
 The flatland of plain-text strings is ending. For decades, software engineering has been constrained to the one-dimensional tape of the Turing machine—a linear sequence of instructions. The future belongs to the full spatial topology of logic—its geometry, its dynamics, and its evolution. We call upon developers, AI researchers, and system designers to step off the tape and join this dimensional shift:
 
@@ -278,7 +314,7 @@ The flatland of plain-text strings is ending. For decades, software engineering 
 
 ---
 
-## X. Inspiration & Scientific Roots: The Physics of Logic
+## XI. Inspiration & Scientific Roots: The Physics of Logic
 
 The original vision for **LogicUniverse** was born from a radical synthesis: bringing **hardware thinking** into the fluid realm of software. The modularity of circuit design and the deterministic nature of signal flow are not just engineering constraints—they are the dormant language of computation.
 
@@ -296,7 +332,7 @@ These scientific roots anchor the design in both mathematical rigor and physical
 
 ---
 
-## XI. Current State
+## XII. Current State
 
 We are currently pioneering the **Logic Geometry** phase:
 
@@ -306,7 +342,7 @@ We are currently pioneering the **Logic Geometry** phase:
 
 ---
 
-## XII. The "No Silver Bullet" Mandate
+## XIII. The "No Silver Bullet" Mandate
 
 This theory is not a silver bullet—there is no silver bullet.
 
@@ -318,7 +354,7 @@ By moving to a tri-axial fractal topology, we seek to fundamentally eliminate th
 
 ---
 
-## XIII. The ZYModel: Naming & Formulation
+## XIV. The ZYModel: Naming & Formulation
 
 For the sake of brevity in both academic discourse and technical implementation, the **Tri-Axial Fractal Topology** defined in this manifesto is formally referred to as the **ZYModel**.
 
@@ -326,13 +362,13 @@ The name serves as a dual tribute: to the **Z** and **Y** axes that expand the o
 
 ---
 
-## XIV. The Bridge: Hybrid Coexistence
+## XV. The Bridge: Hybrid Coexistence
 
 The transition from a 1D Tape to a 3D Topology does not require the destruction of existing software ecosystems. LogicUniverse recognizes the decades of engineering excellence embedded in linear code and provides a bi-directional bridge for seamless integration:
 
 ### A. Legacy as LU (Native Ingestion)
 
-Any function, library, or API from existing 1D ecosystems (C, Python, JS, etc.) can be encapsulated as a **Combinational (-X, -Y)** or **Sequential (-X, +Y)** Logic Unit. By mapping its native signature to the **Tri-Axial coordinates via a zero-cost shim**, the legacy "black box" is assigned a geometric identity. Once wrapped, it becomes a first-class citizen of the topology, allowing the logic universe to leverage decades of established industry assets without re-writing a single line of implementation.
+Any function, library, or API from existing 1D ecosystems (C, Python, JS, etc.) can be encapsulated as a Logic Unit. By mapping its native signature to the **Tri-Axial coordinates via a zero-cost shim**, the legacy "black box" is assigned a geometric identity, effectively acting as an **Exogenous Essence (-Z)** fulfilling a designated coordinate. Once wrapped, it becomes a first-class citizen of the topology, allowing the logic universe to leverage decades of established industry assets without re-writing a single line of implementation.
 
 ### B. LU as Legacy (The Micro-Kernel)
 
@@ -360,6 +396,10 @@ Recommended Attribution:
 ---
 
 ## Release History
+
+### v1.0.0-alpha.4 (2026-03-10)
+
+Major update to Section VI (Logic-IR) and Section VII (Distributed Manifestation).
 
 ### v1.0.0-alpha.3 (2026-03-10)
 
