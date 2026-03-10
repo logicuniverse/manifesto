@@ -171,7 +171,7 @@ Once logic enters the Logic-IR state, its origin becomes irrelevant. It exists a
 
 Logic-IR is a deterministic, closed-world data structure (e.g., JSON, schema, or binary format) that encodes:
 
-- **Topology:** The spatial arrangement and connectivity (via globally unique **Net IDs**) of Logic Units across the tri-axial coordinate system.
+- **Topology:** The spatial arrangement and **Connectivity**. Connection is defined by **Nets**—the logical conduction paths between coordinates. Within each Logic Unit, every Net is assigned a **locally unique Net ID** (scoped to the LU) which serves as the definitive address for its data flow.
 - **Behavior:** The operational modes, invariants, and state transitions of each LU.
 - **Essence:** The vertical sovereignty and injection/provide relationships (Z-axis).
 - **Constants & Invariants:** Compile-time logic, resolved and embedded as immutable data.
@@ -257,32 +257,34 @@ The **LogicUniverse** provides the slices, but the **Architect** (Human or AI) d
 
 ## VIII. AI-Native Architecture: From Tokens to Topology
 
-LogicUniverse is the native habitat for Artificial Intelligence. By moving beyond human-centric text, it shifts AI from a "Predictive Writer" to an **"Atomic Architect."** It replaces the volatile guesswork of sequence prediction with the deterministic orchestration of logic units within a 3-axis coordinate system.
+LogicUniverse is the native habitat for Artificial Intelligence. By shifting from human-centric text to a 3-axis coordinate system, it transforms AI into an **"Atomic Architect" (for Edit-time Logic Evolution)** and a **"Reactive Intelligence Node" (for Runtime Signal Orchestration).**
 
-**The Failure of the Stream**
+**The Atomic Architect: Hierarchical Context Mastery (Edit-time)**
 
-Traditional programming is a continuous instruction stream (1D). In this fragile medium, every character change—even a single typo—mutates the entire sequence downstream. Large Language Models (LLMs) struggle with correctness because they must predict tokens across this one-dimensional tape, where a localized error leads to a global collapse of logic. The "Linear Text Gap" is the primary barrier to autonomous machine reasoning.
+In LogicUniverse, AI ceases to "hallucinate" across 1D streams. It operates as an architect traversing the **Logic-IR** where context is physically bounded by the topology.
 
-**Coordinate-Based Precision: Mastering Context**
+- **Hierarchical Context Isolation:** Every **Logic Unit (LU)** is a fully encapsulated, self-descriptive entity. AI agents only need to ingest the **Logic-IR** of a single level at a time, ensuring the relevant context always fits within the **AI's Context Window**. AI can "roam" the topology—optimizing sub-LUs or orchestrating macro-LUs—in stateless, independent steps.
+- **Topological RBAC & Guided Sovereignty:** Safety is enforced at the structural level. By leveraging **Topological RBAC**, an AI agent's agency is physically bounded during the design phase. A host LU can grant "Sandbox Sovereignty" over specific axes (e.g., allowing optimization of **Spatial Domain -Y** while barring access to **Temporal Invariants +Y**).
+- **Algebraic Metric & Deterministic Patching:** The **Algebraic Type System** serves as the AI's **"Logic Metric."** AI proposes mutations as precise **Topological Patches** within the **Logic-IR**. Much like units of measure in physics, this guarantees:
+  - **Essence Compatibility:** Only compatible **Logic Essence** can fulfill a **Geometric Coordinate**.
+  - **Axial Connectivity Verification:** The system automatically verifies that the **Push (+X) Signal** emitted by a patch correctly mates with the downstream coordinate's input, preventing "Topological Fractures" where logic flow would otherwise be severed.
+  - **Dimensional Consistency:** This ensures structural changes never trigger unintended regressions across the tri-axial fabric.
 
-In a linear text file, a change to one line can have non-local side effects that are difficult for AI to track. In the **LogicUniverse**, every logic intent is anchored to a unique **Geometric Coordinate**:
+**The Reactive Neural Fabric: AI as Signal Processors (Runtime)**
 
-- **Spatial Indexing:** AI no longer navigates folders or files; it navigates a **Logical Point Cloud**. The context overflow crisis is resolved because the AI only needs to perceive the immediate **Topological Neighborhood** of a coordinate.
-- **Fractal Containment:** By leveraging **Abstract LUTs**, complex sub-systems are folded into single points on the Z-axis. AI can architect massive systems by only interacting with high-level **Topological Apertures**, keeping complexity manageable at every scale.
+As a **Reactive Intelligence Node**, AI is integrated directly into the **Execution Plane (+X)**, functioning as a stateless, live component of the system's pulse.
 
-**Atomic Transformation: From Mutation to Topology**
+- **AI Signal Networks & Routing:** AI units function as **Stateless Processing Nodes** within a live, intent-driven signal network. One or more **AI Agent Instances**—acting as **AI Service Providers** sourced via the **Z-Axis**—are injected into the execution plane to drive hundreds or thousands of these AI units simultaneously.
+- **Topological Context Management:** Memory is an inherent property of the **LU** itself, not the model. The AI node remains stateless; it simply processes the **Topological Neighborhood** of its current runtime coordinate. This ensures context is always mathematically localized, relevant, and invariant.
+- **Sub-LU as the Perfect Function Tool:** The **Sub-LU Closure** is the ultimate tool. It is inherently **Self-Descriptive** and **Self-Executable**, allowing an AI agent to "introspect" its own capabilities and communicate its functional interface directly to the Parent LU, creating a high-fidelity bridge between agent intent and topological execution.
 
-Every interaction in LogicUniverse is Atomic. AI no longer manages a "script"; it manipulates a **Topological Snapshot**.
+**Logic-Native Models: Training on the Latent Geometry**
 
-- **Transformation vs. Mutation:** Modifying a logic is a targeted **Essence Substitution** at a discrete coordinate, not a volatile mutation of a text flow. This ensures that local changes never trigger unintended global regressions.
-- **Topological Operators:** Traditional AI predicts the next character; a Logic-Native AI predicts the next **Topological Operator**. By training on structured logic transformations, AI begins to perceive the **Latent Space of Geometry**, learning to manipulate the Physics of Causality rather than the syntax of strings.
+The ultimate evolution is the development of models trained directly on the **Logic-IR** fabric.
 
-**Algebraic Type System as Logic Metric**
-
-By equipping the environment with an Algebraic Type System, we provide AI with a **"Logic Metric."**
-
-- **Dimensional Analysis:** Much like units of measure in physics (meters, seconds), this guarantees that only compatible **Logic Essence** can fulfill a **Geometric Coordinate**.
-- **Topological Matching:** AI does not "guess" a valid call; it performs topological matching. This enforces a level of structural integrity that is mathematically impossible to achieve in the unconstrained reality of plain-text code.
+- **Cross-Axial Optimization:** AI can detect structural inefficiencies by analyzing the convergence of Data (X) and Time (Y) across the Z-axis. It identifies "Topological Deadlocks" or "Logic Gaps" invisible in 1D code but manifest as geometric anomalies in the Logic-IR.
+- **From Syntax to Causality:** By training on structured logic transformations, AI begins to perceive the **Latent Space of Geometry**. It learns to predict the next **Topological Operator** instead of the next character, effectively mastering the **Physics of Causality**.
+- **The Universal Logic Metric:** Using the **Algebraic Type System** as a loss function, AI-generated logic is formally verified during inference. This ensures every "thought" is topologically valid and dimensionally consistent, making the **LogicUniverse** the first truly verifiable foundation for autonomous machine reasoning.
 
 ---
 
@@ -324,7 +326,7 @@ In crafting this **Tri-axial Fractal Topology**, we move beyond modern programmi
 - **Newton (The X-Axis of Force):** Classical mechanics and the dynamics of action/reaction inspired the **Push/Pull** duality. Data is treated as a dynamic force interacting across boundaries.
 - **Einstein (The Y-Axis of Spacetime):** Relativity’s unification of time and space informed the **Temporal/Spatial** axis—treating stateful evolution and stateless mapping as two observers of the same continuum.
 - **Maxwell (The Execution Plane):** Just as Maxwell's equations unified electricity and magnetism, this **four-quadrant geometry** maps disparate logical behaviors into a single, unified operational surface.
-- **Quantum Mechanics (The Z-Axis of Essence):** Beyond mere superposition, this model draws from the mystery of Quantum Entanglement. Our hypothesis is that entanglement exists because of a third dimension (The Z-Axis) that is fundamentally independent of the execution plane (X-Y). In this architecture, what appear as "spooky" correlations between distant nodes on the execution plane are simply vertical projections of the same Sovereign Essence piercing through the Z-Axis. Entanglement is not an effect of connectivity, but a manifestation of High-Dimensional Unity.
+- **Quantum Mechanics (The Z-Axis of Essence):** While Quantum Entanglement remains one of the most elusive mysteries in physics, it provided a profound structural inspiration for this model. In traditional software engineering, the "Distributed State Problem" is often treated as a synchronization struggle over a 1D tape. By observing how entangled particles maintain unity without direct connectivity, we hypothesized that such "spooky" correlations are actually vertical projections of a single, higher-dimensional entity. This insight led to the birth of the **Z-Axis**: a dimension fundamentally independent of the execution plane (X-Y). We do not claim to solve the mystery of physical entanglement; instead, we apply its logical signature to solve **Shared Essence** in digital systems. In this architecture, distant nodes on the execution plane do not "synchronize"—they are simply multi-point manifestations of the same Sovereign Essence piercing through the Z-Axis. Entanglement is redefined here not as an effect of data transmission, but as a manifestation of **High-Dimensional Unity**.
 
 These scientific roots anchor the design in both mathematical rigor and physical intuition. We are not inventing a new complexity; we are rediscovering the inherent geometry of logic.
 
