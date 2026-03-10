@@ -285,7 +285,7 @@ Recommended Attribution:
 
 ### v1.0.0-alpha.2 (2026-03-10)
 
-- **The Bridge**: Established the bi-directional compatibility layer between 1D ecosystems and 3D Topology.
+Established the bi-directional compatibility layer between 1D ecosystems and 3D Topology.
 
 ### v1.0.0-alpha.1 (2026-03-08)
 
