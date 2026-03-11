@@ -93,7 +93,7 @@ This bi-axial symmetry ensures that the tri-axial protocol remains invariant acr
 
 **Terminology: The ZYModel**
 
-For the sake of technical brevity, this tri-axial framework is formally designated as the **ZYModel**. The name characterizes the integration of the **Z** and **Y** axes—the dimensions of Essence and Time—which expand the one-dimensional Turing Tape (**X**) into a full-dimensional, deterministic logic topology.
+For the sake of technical brevity, this tri-axial framework is formally designated as the **ZYModel**. The name characterizes the integration of the **Z** and **Y** axes—the dimensions of **Sovereignty** (the root of Logic Essence) and **Manifestation** (the canvas of Existence)—which expand the one-dimensional Turing Tape (**X**) into a full-dimensional, deterministic logic topology.
 
 ## IV. The Execution Plane: The Four Quadrants of Logic
 
