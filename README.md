@@ -1,6 +1,6 @@
 # LogicUniverse
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.5-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.6-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 
@@ -54,7 +54,7 @@ Logic topology is inherently self-similar. A complex macro-system assembled from
 
 The distinction between a "system" and a "component" is not a difference in nature, but a shift in the observer’s coordinate origin. This symmetry operates across two dimensions:
 
-- **Horizontal Symmetry (Execution Plane):** To implement a logic is to define a new LU (a macro-topology); to invoke that logic is to manifest an LUI (a micro-node). A node within one coordinate system is itself the origin of its own internal X/Y plane.
+- **Horizontal Symmetry (Execution Plane):** To implement a logic is to define a new LU (a macro-topology); to invoke that logic is to manifest an LUI. An LUI within one coordinate system is itself the origin of its own internal X/Y plane.
 - **Vertical Symmetry (Z-Axis):** On the Z-Axis, **Provide (+Z)** and **Inject (-Z)** are the same physical phenomenon. Whether a logic essence is being "offered" or "consumed" depends entirely on the direction of the observer's gaze relative to the Execution Plane.
 
 This bi-axial symmetry ensures that the tri-axial protocol remains invariant across all fractal scales.
@@ -182,7 +182,10 @@ Once logic enters the LogicIR state, its origin becomes irrelevant. It exists as
 
 LogicIR is a deterministic, closed-world data structure (e.g., JSON, schema, or binary format) that encodes:
 
-- **Topology:** The spatial arrangement and **Connectivity**. Connection is defined by **Nets**—the logical conduction paths between coordinates. Within each Logic Unit, every Net is assigned a **locally unique Net ID** (scoped to the LU) which serves as the definitive address for its data flow.
+- **Topology (The Netlist Architecture):** The spatial arrangement and **Connectivity**. In LogicUniverse, interactions move beyond "Method Calls" to a physical Netlist:
+  - **Pins:** Each LUI manifests its logic through physical **Pins** with specific polarities: **-X (Pull/Sink)** for environment sampling and **+X (Push/Source)** for state broadcasting.
+  - **Nets:** These pins are interconnected by deterministic **Nets**—immutable topological constraints defined by a **locally unique Net ID** (scoped to the LU) which serves as the definitive address for its data flow.
+  - **Ports:** Structural groups of pins forming a coherent geometric interface for higher-order LU integration.
 - **Behavior:** The operational modes, invariants, and state transitions of each LU.
 - **Essence:** The vertical sovereignty and injection/provide relationships (Z-axis).
 - **Constants & Invariants:** Compile-time logic, resolved and embedded as immutable data.
@@ -211,7 +214,7 @@ Because LogicIR is a fully serializable data structure, it is inherently **Colla
 The geometric nature of LogicIR naturally enforces a **Spatial Access Control** model. Permissions are not assigned to "files," but to **Topological Zones**, creating a secure environment for Human-AI co-creation:
 
 - **Axial Isolation:** An agent (e.g., an optimization AI) can be restricted to modifying logic within the Spatial domain (-Y) while being barred from the Temporal domain (+Y).
-- **Fractal Containment:** Access can be scoped to a specific **LUI (Logic Unit Instance)** subtree. A contributor can have full sovereignty within their assigned logic node but remain a "black box" to the rest of the macro-topology.
+- **Fractal Containment:** Access can be scoped to a specific **LUI** subtree. A contributor can have full sovereignty within their assigned logic unit but remain a "black box" to the rest of the macro-topology.
 - **Coordinate-Based Auditing (The Logic Black Box):** Every modification is signed with a coordinate-based timestamp, creating an immutable ledger of topological evolution. This forms a **"Logic Black Box"**: because every state transition is tied to a deterministic coordinate path, any logic failure can be perfectly reconstructed and debugged by traversing the exact spatial-temporal trajectory of the fault. We no longer ask "who changed line 42," but "which agent altered the Z-Axis injection at Coordinate [A, B, C] at **Engineering Time T**."
 
 **Fractal Regression & Deterministic Testing**
@@ -339,13 +342,15 @@ In this universe, **logic is represented mathematically as pure data**. Because 
 
 ---
 
-## XI. Current State
+## XI. Current State (Q1 2026)
 
-We are currently pioneering the **Logic Geometry** phase:
+The **LogicUniverse** is currently in its active alpha phase, centering its efforts on the **Logic Geometry** stage of the roadmap—the formalization of static topological assembly.
 
-- **LogicIR:** Defining a pure data structure to describe LU architecture.
-- **Runtimes Built:** Functional engines are actively running across JavaScript, Python, and MicroPython.
-- **Visual Logic IDE:** Developing a coordinate-based design environment equipped with a design-time algebraic type system (erased at runtime).
+- **LogicIR:** Defining the pure data structure to describe LU architecture.
+- **Core Implementations (Logic Engines):**
+  - LogicIR-JS: https://github.com/logicuniverse/LogicIR-JS (Reference Engine for Web/Cloud Runtime).
+  - LogicIR-PY: https://github.com/logicuniverse/LogicIR-PY (Optimized for Python & MicroPython/Embedded Systems).
+- **Visual Logic IDE:** Developing a coordinate-based design environment (Visual Composer) equipped with a design-time algebraic type system.
 
 ---
 
@@ -436,6 +441,12 @@ Any functional implementation, derivative work, or architectural subset that ado
 ---
 
 ## Release History
+
+### v1.0.0-alpha.6
+
+- **Reference Engine Deployment:** Integrated direct links to the cross-platform reference implementations (**LogicIR-JS** and **LogicIR-PY**).
+- **Netlist Formalization:** Refined LogicIR semantics to include Pins, Nets, and Ports for physical-grade connectivity.
+  TODO
 
 ### v1.0.0-alpha.5 (2026-03-12)
 
