@@ -166,7 +166,7 @@ By anchoring logic to fixed topological coordinates, we decouple structural desi
 
 ## VI. LogicIR: The Universal Logic Fabric
 
-In the **LogicUniverse**, all logic—regardless of its origin—is ultimately expressed as a single, deterministic data structure: the **Logic Intermediate Representation (LogicIR)**. Serving as the **single source of truth**, LogicIR is the definitive, closed-world description of a Tri-Axial Topology, encoding the "Shape, Motion, and Essence" of every Logic Unit.
+In the **LogicUniverse**, all logic—regardless of its origin—is ultimately expressed as a single, deterministic data structure: the **Logic Intermediate Representation (LogicIR)**. Serving as the **single source of truth**, LogicIR is the definitive, closed-world description of a Tri-Axial Fractal Topology, encoding the "Shape, Motion, and Essence" of every Logic Unit.
 
 **Unified Origin**
 
@@ -183,7 +183,7 @@ Once logic enters the LogicIR state, its origin becomes irrelevant. It exists as
 LogicIR is a deterministic, closed-world data structure (e.g., JSON, schema, or binary format) that encodes:
 
 - **Topology (The Netlist Architecture):** The spatial arrangement and **Connectivity**. In LogicUniverse, interactions move beyond "Method Calls" to a physical Netlist:
-  - **Pins:** Each LUI manifests its logic through physical **Pins** with specific polarities: **-X (Pull/Sink)** for environment sampling and **+X (Push/Source)** for state broadcasting.
+  - **Pins:** Each LUI manifests its logic through physical **Pins**.
   - **Nets:** These pins are interconnected by deterministic **Nets**—immutable topological constraints defined by a **locally unique Net ID** (scoped to the LU) which serves as the definitive address for its data flow.
   - **Ports:** Structural groups of pins forming a coherent geometric interface for higher-order LU integration.
 - **Behavior:** The operational modes, invariants, and state transitions of each LU.
@@ -227,10 +227,11 @@ The data-centric nature of LogicIR transforms Quality Assurance from "writing te
 
 **Execution: Topological Projection**
 
-Execution is the act of **Projecting** LogicIR onto a physical or virtual medium. Because LogicIR contains the totality of logical intent, it offers two primary modes of manifestation:
+Execution is the act of **Projecting** LogicIR onto a physical or virtual medium. Because LogicIR contains the totality of logical intent, it offers three primary modes of manifestation:
 
-- **Native Interpretation:** LogicIR can be directly interpreted by a LogicUniverse-compliant engine. The exact same logic topology remains invariant whether it is projected onto **JavaScript** (Web/Cloud), **Python** (Scientific Computing), or **MicroPython** (Embedded Systems). The engine simply "renders" the universal logic fabric in real-time within the host environment.
-- **Universal Compilation:** Because LogicIR is a complete, original description of logic, it serves as a "Master Source." It can be deterministically compiled into high-performance binary executables or transpiled into source code for any traditional language, preserving the structural integrity of the topology while optimizing for specific platform constraints.
+- **Native Interpretation:** LogicIR can be directly interpreted by a LogicIR-compliant engine. The exact same logic topology remains invariant whether it is projected onto **JavaScript** (Web/Cloud), **Python** (Scientific Computing), or **MicroPython** (Embedded Systems). The engine simply "renders" the universal logic fabric in real-time within the host environment.
+- **Universal Compilation & Transpilation:** Because LogicIR is a complete, original description of logic, it serves as a "Master Source." It can be deterministically compiled into high-performance binary executables or transpiled into source code for any traditional language (C, Rust, Go, etc.), preserving the structural integrity of the topology while optimizing for specific platform constraints. Unlike 1D code with unpredictable heap allocations, LogicIR’s closed-world topology allows the compiler to perfectly calculate the memory lifecycle of every Net and State. This enables Zero-GC (Garbage Collection) execution, precise stack allocation, and static buffer reuse, often resulting in higher performance and lower resource footprints than manually optimized traditional code.
+- **Hardware Synthesis (FPGA/ASIC):** Beyond software, LogicIR’s netlist-based architecture allows it to describe hardware logic directly. This enables the same universal logic tools to be used for designing both software systems and physical hardware circuits, providing a unified design language for **FPGA** and **ASIC** development.
 
 In this paradigm, there is no "Binary" in the traditional, lossy sense—only the **deterministic projection** of LogicIR into a specific execution environment.
 
@@ -349,7 +350,7 @@ The **LogicUniverse** is currently in its active alpha phase, centering its effo
 - **LogicIR:** Defining the pure data structure to describe LU architecture.
 - **Core Implementations (Logic Engines):**
   - LogicIR-JS: https://github.com/logicuniverse/LogicIR-JS (Reference Engine for Web/Cloud Runtime).
-  - LogicIR-PY: https://github.com/logicuniverse/LogicIR-PY (Optimized for Python & MicroPython/Embedded Systems).
+  - LogicIR-PY: https://github.com/logicuniverse/LogicIR-PY (**In Active Development** — Targeting Python & MicroPython/Embedded Systems).
 - **Visual Logic IDE:** Developing a coordinate-based design environment (Visual Composer) equipped with a design-time algebraic type system.
 
 ---
@@ -442,11 +443,12 @@ Any functional implementation, derivative work, or architectural subset that ado
 
 ## Release History
 
-### v1.0.0-alpha.6
+### v1.0.0-alpha.6 (2026-03-12)
 
+- **Phase Ignition (Logic Geometry):** Formally entered the "Logic Geometry" stage, focusing on the static assembly of LUI topologies and deterministic shape-definition.
 - **Reference Engine Deployment:** Integrated direct links to the cross-platform reference implementations (**LogicIR-JS** and **LogicIR-PY**).
-- **Netlist Formalization:** Refined LogicIR semantics to include Pins, Nets, and Ports for physical-grade connectivity.
-  TODO
+- **Netlist Architecture:** Refined LogicIR specification to include **Pins**, **Nets**, and **Ports**, enabling physical-grade connectivity and visual logic tracing.
+- **Topological Projection:** Expanded the execution model to include **Zero-GC** deterministic compilation, stack-allocation optimization, and hardware synthesis (FPGA/ASIC) capabilities.
 
 ### v1.0.0-alpha.5 (2026-03-12)
 
