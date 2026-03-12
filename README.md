@@ -73,7 +73,7 @@ The fundamental crisis of modern software engineering is a **dimensional collaps
 - **The Entanglement of Axes:** In a non-orthogonal 1D space, every action is a composite vector. "Calling a function" is a tangled mess: it simultaneously triggers execution (Y), defines a synchronization step (X), and resolves a logic source (Z). Because these dimensions are not independent, changing any aspect of a logic's behavior inevitably ripples through others, leading to "hidden coupling."
 - **The Fragility of Mutation:** In a continuous stream, every character is critical. A single typo or misplaced semicolon can mutate the entire sequence downstream. This **"Linear Text Gap"** is the primary barrier to both human maintainability and autonomous machine reasoning.
 - **The Context Overflow:** Because traditional code is flat and non-local, an observer must ingest the entire "tape" to reconstruct the intended topology. This leads to the inevitable exhaustion of context windows and cognitive capacity as systems scale.
-- **The Nominal Burden:** The classic computer science struggle of "naming things" is a symptom of 1D linear constraints. In a text-based stream, we invent variable names to bridge the gap between non-local fragments. Within a **Logic Universe**, identity is defined by **Connection and Coordinate Proximity**. Like a high-fidelity circuit diagram, logic exists through **NETs**—physical or virtual conduction paths between coordinates. Logic does not require a "name" to function; it only requires position and parity. We have spent decades naming "variables" that should have simply been "nets" connecting points in space.
+- **The Nominal Burden:** The classic computer science struggle of "naming things" is a symptom of 1D linear constraints. In a text-based stream, we invent variable names to bridge the gap between non-local fragments. Within a **LogicUniverse**, identity is defined by **Connection and Coordinate Proximity**. Like a high-fidelity circuit diagram, logic exists through nets—physical or virtual conduction paths between coordinates. Logic does not require a "name" to function; it only requires position and parity. We have spent decades naming "variables" that should have simply been "nets" connecting points in space.
 - **The Meta-Programming Illusion:** Traditional macros and meta-programming are fragile 1D text-manipulation hacks, often requiring a separate, opaque "meta-language." In **LogicUniverse**, there is no structural difference between "compile-time" and "run-time" logic. A **Macro** is simply a Standard Logic Unit executed during the **Transformation Pipeline** to resolve invariants and structural constants. By reusing the same LU protocol across different pipeline stages, we achieve massive, seamless logic reuse without the cognitive tax of traditional macros.
 - **The Side-Effect Paradox:** Modern paradigms either treat side effects as a chaotic nuisance or hide them behind complex, opaque abstractions. In **LogicUniverse**, side effects are stripped of their "accidental" nature. They are strictly channeled and governed through the **Z-Axis (Provide/Inject)**. By declaratively defining the vertical boundaries of these conduits, we isolate the **Execution Plane (X/Y)** from unintended ripples, transforming side effects into observable, intentional logic injections.
 - **The Distributed Illusion:** Traditional systems treat "distributed" as a complex layer of networking and synchronization. In reality, a distributed system is just a single Logic Unit physically split across locations. Because the **X-Axis** is Pure Data, distribution is not a feature; it is the default shape of a topology whose parts are not co-located. Distribution is not a layer; it is a Topological Slice of the axes manifested across physical boundaries.
@@ -164,23 +164,23 @@ By anchoring logic to fixed topological coordinates, we decouple structural desi
 
 ---
 
-## VI. Logic-IR: The Universal Logic Fabric
+## VI. LogicIR: The Universal Logic Fabric
 
-In the **LogicUniverse**, all logic—regardless of its origin—is ultimately expressed as a single, deterministic data structure: the **Logic Intermediate Representation (Logic-IR)**. Serving as the **single source of truth**, Logic-IR is the definitive, closed-world description of a Tri-Axial Topology, encoding the "Shape, Motion, and Essence" of every Logic Unit.
+In the **LogicUniverse**, all logic—regardless of its origin—is ultimately expressed as a single, deterministic data structure: the **Logic Intermediate Representation (LogicIR)**. Serving as the **single source of truth**, LogicIR is the definitive, closed-world description of a Tri-Axial Topology, encoding the "Shape, Motion, and Essence" of every Logic Unit.
 
 **Unified Origin**
 
-Logic-IR can be generated through multiple pathways:
+LogicIR can be generated through multiple pathways:
 
 - **Manual Assembly:** Human architects designing via visual IDEs or topological DSLs.
 - **Programmatic Generation:** High-level scripts or "Macros" (Standard LUs) that output sub-topologies.
 - **AI Synthesis:** Neural models generating atomic logic coordinates, not volatile text tokens.
 
-Once logic enters the Logic-IR state, its origin becomes irrelevant. It exists as a pure, mathematical description—a "Topological Blueprint" ready for deterministic transformation and execution.
+Once logic enters the LogicIR state, its origin becomes irrelevant. It exists as a pure, mathematical description—a "Topological Blueprint" ready for deterministic transformation and execution.
 
 **Structure & Semantics**
 
-Logic-IR is a deterministic, closed-world data structure (e.g., JSON, schema, or binary format) that encodes:
+LogicIR is a deterministic, closed-world data structure (e.g., JSON, schema, or binary format) that encodes:
 
 - **Topology:** The spatial arrangement and **Connectivity**. Connection is defined by **Nets**—the logical conduction paths between coordinates. Within each Logic Unit, every Net is assigned a **locally unique Net ID** (scoped to the LU) which serves as the definitive address for its data flow.
 - **Behavior:** The operational modes, invariants, and state transitions of each LU.
@@ -189,18 +189,18 @@ Logic-IR is a deterministic, closed-world data structure (e.g., JSON, schema, or
 
 **Transformation Pipeline**
 
-Logic-IR is not static—it evolves through a series of modular **passes**. Each pass is a **Topological Transform** that refines the logic without altering its intent:
+LogicIR is not static—it evolves through a series of modular **passes**. Each pass is a **Topological Transform** that refines the logic without altering its intent:
 
 - **Algebraic Optimization:** Simplifies redundant topologies and resolves invariants.
 - **Logic Folding:** Compresses fractal layers for performance, inlining sub-LUs where appropriate.
 - **Static Analysis & Verification:** Formally proves safety and correctness by traversing X/Y/Z coordinates.
 - **Custom Plugins:** Extend the pipeline for domain-specific validation, metrics, or transformation.
 
-Each pass takes Logic-IR as input and produces a transformed Logic-IR as output, ensuring a uniform and composable refinement process.
+Each pass takes LogicIR as input and produces a transformed LogicIR as output, ensuring a uniform and composable refinement process.
 
 **Real-time Collaboration & Synchronization**
 
-Because Logic-IR is a fully serializable data structure, it is inherently **Collaboration-First**. Unlike 1D text which suffers from "merge conflicts" and "line-order dependency," the LogicUniverse utilizes **Topological CRDT (Conflict-free Replicated Data Types)**:
+Because LogicIR is a fully serializable data structure, it is inherently **Collaboration-First**. Unlike 1D text which suffers from "merge conflicts" and "line-order dependency," the LogicUniverse utilizes **Topological CRDT (Conflict-free Replicated Data Types)**:
 
 - **Incremental Fractal Updates:** Changes are captured as granular patches tied to unique topological coordinates. If an architect modifies a Z-axis injection or a Y-axis timing constraint, only that specific coordinate is updated.
 - **Multi-Agent Convergence:** Multiple human architects and AI agents can manipulate the same logic fabric simultaneously. The CRDT layer ensures that all participants converge on the same deterministic state without the need for a central lock or complex "git merges."
@@ -208,7 +208,7 @@ Because Logic-IR is a fully serializable data structure, it is inherently **Coll
 
 **Topological RBAC (Spatial Permissions)**
 
-The geometric nature of Logic-IR naturally enforces a **Spatial Access Control** model. Permissions are not assigned to "files," but to **Topological Zones**, creating a secure environment for Human-AI co-creation:
+The geometric nature of LogicIR naturally enforces a **Spatial Access Control** model. Permissions are not assigned to "files," but to **Topological Zones**, creating a secure environment for Human-AI co-creation:
 
 - **Axial Isolation:** An agent (e.g., an optimization AI) can be restricted to modifying logic within the Spatial domain (-Y) while being barred from the Temporal domain (+Y).
 - **Fractal Containment:** Access can be scoped to a specific **LUI (Logic Unit Instance)** subtree. A contributor can have full sovereignty within their assigned logic node but remain a "black box" to the rest of the macro-topology.
@@ -216,20 +216,20 @@ The geometric nature of Logic-IR naturally enforces a **Spatial Access Control**
 
 **Fractal Regression & Deterministic Testing**
 
-The data-centric nature of Logic-IR transforms Quality Assurance from "writing test code" to **"Topological Snapshotting"**:
+The data-centric nature of LogicIR transforms Quality Assurance from "writing test code" to **"Topological Snapshotting"**:
 
-- **Logic-as-Data, Test-as-Data:** Since Logic-IR is deterministic, the input/output vectors and internal state transitions of any Logic Unit can be fully serialized and persisted. These "Logic Snapshots" serve as immutable ground truth for regression testing.
+- **Logic-as-Data, Test-as-Data:** Since LogicIR is deterministic, the input/output vectors and internal state transitions of any Logic Unit can be fully serialized and persisted. These "Logic Snapshots" serve as immutable ground truth for regression testing.
 - **Any-Level Validation:** Due to the fractal nature of the system, testing can be performed at any scale—from a single atomic gates to a massive macro-topology. An architect can capture the behavior of a sub-LUI and use it as a benchmark to ensure that macro-scale changes (e.g., a Z-axis swap) haven't corrupted local invariants.
-- **Instant Error Detection:** During the **Transformation Pipeline**, new Logic-IR versions can be automatically projected against historical snapshots. Any deviation in the topological output is flagged immediately, providing a "Zero-Lag" feedback loop for both human developers and AI agents.
+- **Instant Error Detection:** During the **Transformation Pipeline**, new LogicIR versions can be automatically projected against historical snapshots. Any deviation in the topological output is flagged immediately, providing a "Zero-Lag" feedback loop for both human developers and AI agents.
 
 **Execution: Topological Projection**
 
-Execution is the act of **Projecting** Logic-IR onto a physical or virtual medium. Because Logic-IR contains the totality of logical intent, it offers two primary modes of manifestation:
+Execution is the act of **Projecting** LogicIR onto a physical or virtual medium. Because LogicIR contains the totality of logical intent, it offers two primary modes of manifestation:
 
-- **Native Interpretation:** Logic-IR can be directly interpreted by a LogicUniverse-compliant engine. The exact same logic topology remains invariant whether it is projected onto **JavaScript** (Web/Cloud), **Python** (Scientific Computing), or **MicroPython** (Embedded Systems). The engine simply "renders" the universal logic fabric in real-time within the host environment.
-- **Universal Compilation:** Because Logic-IR is a complete, original description of logic, it serves as a "Master Source." It can be deterministically compiled into high-performance binary executables or transpiled into source code for any traditional language, preserving the structural integrity of the topology while optimizing for specific platform constraints.
+- **Native Interpretation:** LogicIR can be directly interpreted by a LogicUniverse-compliant engine. The exact same logic topology remains invariant whether it is projected onto **JavaScript** (Web/Cloud), **Python** (Scientific Computing), or **MicroPython** (Embedded Systems). The engine simply "renders" the universal logic fabric in real-time within the host environment.
+- **Universal Compilation:** Because LogicIR is a complete, original description of logic, it serves as a "Master Source." It can be deterministically compiled into high-performance binary executables or transpiled into source code for any traditional language, preserving the structural integrity of the topology while optimizing for specific platform constraints.
 
-In this paradigm, there is no "Binary" in the traditional, lossy sense—only the **deterministic projection** of Logic-IR into a specific execution environment.
+In this paradigm, there is no "Binary" in the traditional, lossy sense—only the **deterministic projection** of LogicIR into a specific execution environment.
 
 **Everything is LU. Everything is data. Everything is a pipeline stage.**
 
@@ -237,7 +237,7 @@ In this paradigm, there is no "Binary" in the traditional, lossy sense—only th
 
 ## VII. Distributed Manifestation: Axial Slicing & Projection
 
-In the **LogicUniverse**, a distributed system is not an additional architectural layer or a network engineering problem; it is a **Topological Slice** of a unified Logic-IR. Distribution is the operational act of partitioning a macro-topology across physical boundaries by projecting internal Nets into boundary interfaces.
+In the **LogicUniverse**, a distributed system is not an additional architectural layer or a network engineering problem; it is a **Topological Slice** of a unified LogicIR. Distribution is the operational act of partitioning a macro-topology across physical boundaries by projecting internal Nets into boundary interfaces.
 
 **Spatial Distribution: Partitioning across Nodes**
 
@@ -260,7 +260,7 @@ The **LogicUniverse** provides the slices, but the **Architect** (Human or AI) d
 
 - **Explicit Interconnect:** The architect is responsible for connecting the projected boundary ports (the "Nerves"). Since these are standard +X/+Y interfaces, the underlying transport—whether it is **gRPC, TCP/IP, PCIe, or a Key-Value Store**—is a detail of the execution environment, not the logic.
 - **Ghost-Nets:** Despite being fragmented across space or interrupted across time, the system maintains its **Unity**. Net IDs remain logically identical across slices, ensuring that the **"Total Existence"** of the logic fabric is preserved.
-- **Deterministic Reconstruction:** Because the Net IDs are preserved, any failure in a distributed slice can be perfectly reconstructed in a local debugger by "re-weaving" the slices back into a single Logic-IR.
+- **Deterministic Reconstruction:** Because the Net IDs are preserved, any failure in a distributed slice can be perfectly reconstructed in a local debugger by "re-weaving" the slices back into a single LogicIR.
 
 **The Pipeline is the Scalpel (slicing the axes). The Projected Port is the Nerve (the boundary). The Architect is the Weaver (connecting reality).**
 
@@ -272,11 +272,11 @@ LogicUniverse is the native habitat for Artificial Intelligence. By shifting fro
 
 **The Atomic Architect: Hierarchical Context Mastery (Edit-time)**
 
-In LogicUniverse, AI ceases to "hallucinate" across 1D streams. It operates as an architect traversing the **Logic-IR** where context is physically bounded by the topology.
+In LogicUniverse, AI ceases to "hallucinate" across 1D streams. It operates as an architect traversing the **LogicIR** where context is physically bounded by the topology.
 
-- **Hierarchical Context Isolation:** Every **Logic Unit (LU)** is a fully encapsulated, self-descriptive entity. AI agents only need to ingest the **Logic-IR** of a single level at a time, ensuring the relevant context always fits within the **AI's Context Window**. AI can "roam" the topology—optimizing sub-LUs or orchestrating macro-LUs—in stateless, independent steps.
+- **Hierarchical Context Isolation:** Every **Logic Unit (LU)** is a fully encapsulated, self-descriptive entity. AI agents only need to ingest the **LogicIR** of a single level at a time, ensuring the relevant context always fits within the **AI's Context Window**. AI can "roam" the topology—optimizing sub-LUs or orchestrating macro-LUs—in stateless, independent steps.
 - **Topological RBAC & Guided Sovereignty:** Safety is enforced at the structural level. By leveraging **Topological RBAC**, an AI agent's agency is physically bounded during the design phase. A host LU can grant "Sandbox Sovereignty" over specific axes (e.g., allowing optimization of **Spatial Domain -Y** while barring access to **Temporal Invariants +Y**).
-- **Algebraic Metric & Deterministic Patching:** The **Algebraic Type System** serves as the AI's **"Logic Metric."** AI proposes mutations as precise **Topological Patches** within the **Logic-IR**. Much like units of measure in physics, this guarantees:
+- **Algebraic Metric & Deterministic Patching:** The **Algebraic Type System** serves as the AI's **"Logic Metric."** AI proposes mutations as precise **Topological Patches** within the **LogicIR**. Much like units of measure in physics, this guarantees:
   - **Essence Compatibility:** Only compatible **Logic Essence** can fulfill a **Geometric Coordinate**.
   - **Axial Connectivity Verification:** The system automatically verifies that the **Push (+X) Signal** emitted by a patch correctly mates with the downstream coordinate's input, preventing "Topological Fractures" where logic flow would otherwise be severed.
   - **Dimensional Consistency:** This ensures structural changes never trigger unintended regressions across the tri-axial fabric.
@@ -291,9 +291,9 @@ As a **Reactive Intelligence Node**, AI is integrated directly into the **Execut
 
 **Logic-Native Models: Training on the Latent Geometry**
 
-The ultimate evolution is the development of models trained directly on the **Logic-IR** fabric.
+The ultimate evolution is the development of models trained directly on the **LogicIR** fabric.
 
-- **Cross-Axial Optimization:** AI can detect structural inefficiencies by analyzing the convergence of Data (X) and Time (Y) across the Z-axis. It identifies "Topological Deadlocks" or "Logic Gaps" invisible in 1D code but manifest as geometric anomalies in the Logic-IR.
+- **Cross-Axial Optimization:** AI can detect structural inefficiencies by analyzing the convergence of Data (X) and Time (Y) across the Z-axis. It identifies "Topological Deadlocks" or "Logic Gaps" invisible in 1D code but manifest as geometric anomalies in the LogicIR.
 - **From Syntax to Causality:** By training on structured logic transformations, AI begins to perceive the **Latent Space of Geometry**. It learns to predict the next **Topological Operator** instead of the next character, effectively mastering the **Physics of Causality**.
 - **The Universal Logic Metric:** Using the **Algebraic Type System** as a loss function, AI-generated logic is formally verified during inference. This ensures every "thought" is topologically valid and dimensionally consistent, making the **LogicUniverse** the first truly verifiable foundation for autonomous machine reasoning.
 
@@ -305,7 +305,7 @@ The transition from a 1D Tape to a 3D Topology does not require the destruction 
 
 ### A. Legacy as LU (Native Ingestion)
 
-Any function, library, or API from existing 1D ecosystems (C, Python, JS, etc.) can be encapsulated as a Logic Unit. By mapping its native signature to the **Tri-Axial coordinates via a zero-cost shim**, the legacy "black box" is assigned a geometric identity, effectively acting as an **Exogenous Essence (-Z)** fulfilling a designated coordinate. Once wrapped, it becomes a first-class citizen of the topology, allowing the logic universe to leverage decades of established industry assets without re-writing a single line of implementation.
+Any function, library, or API from existing 1D ecosystems (C, Python, JS, etc.) can be encapsulated as a Logic Unit. By mapping its native signature to the **Tri-Axial coordinates via a zero-cost shim**, the legacy "black box" is assigned a geometric identity, effectively acting as an **Exogenous Essence (-Z)** fulfilling a designated coordinate. Once wrapped, it becomes a first-class citizen of the topology, allowing the LogicUniverse to leverage decades of established industry assets without re-writing a single line of implementation.
 
 ### B. LU as Legacy (The Micro-Kernel)
 
@@ -313,7 +313,7 @@ A standard Logic Unit can be channeled back into 1D environments through two pri
 
 - **The Encapsulated Bundle:** A Logic Unit, combined with an **embeddable execution engine**, can be exported as a standard function or object. This allows 1D environments to "call" a high-dimensional topology as if it were a local library, hiding the topological complexity behind a native interface.
 
-- **The Native Interpreter:** By integrating this engine as a lightweight dependency, legacy ecosystems can natively interpret **Logic-IR**. This allows existing platforms to dynamically load and execute topologies, enabling incremental migration and the injection of deterministic logic into brownfield projects.
+- **The Native Interpreter:** By integrating this engine as a lightweight dependency, legacy ecosystems can natively interpret **LogicIR**. This allows existing platforms to dynamically load and execute topologies, enabling incremental migration and the injection of deterministic logic into brownfield projects.
 
 This is the inherent compatibility and systemic power of a high-dimensional topology over a collapsed one-dimensional world.
 
@@ -343,7 +343,7 @@ In this universe, **logic is represented mathematically as pure data**. Because 
 
 We are currently pioneering the **Logic Geometry** phase:
 
-- **Logic-IR:** Defining a pure data structure to describe LU architecture.
+- **LogicIR:** Defining a pure data structure to describe LU architecture.
 - **Runtimes Built:** Functional engines are actively running across JavaScript, Python, and MicroPython.
 - **Visual Logic IDE:** Developing a coordinate-based design environment equipped with a design-time algebraic type system (erased at runtime).
 
@@ -385,8 +385,8 @@ This **Tri-Axial Fractal Topology** is not merely a design pattern for software;
 
 Our core premise is that if the physical universe is governed by consistent, deterministic laws, then Physics itself is the execution of an underlying Logical Topology. In this view, Software Engineering and Theoretical Physics are two observers of the same tri-axial reality.
 
-**The Role of Logic-IR**
-The transition from speculative philosophy to a **Computable Universe** is made possible by **Logic-IR**. By encoding physical laws—such as mass-energy equivalence or wave-particle duality—into this deterministic data structure, we can test whether the universe can be "re-run" as a topological simulation. Logic-IR turns the cosmos into a verifiable execution graph.
+**The Role of LogicIR**
+The transition from speculative philosophy to a **Computable Universe** is made possible by **LogicIR**. By encoding physical laws—such as mass-energy equivalence or wave-particle duality—into this deterministic data structure, we can test whether the universe can be "re-run" as a topological simulation. LogicIR turns the cosmos into a verifiable execution graph.
 
 #### 🌌 The Physics Exploration Sandbox
 
@@ -394,7 +394,7 @@ To separate industrial-grade logic from these ambitious cosmic inquiries, we mai
 
 **[logicuniverse/physics-exploration](https://github.com/logicuniverse/physics-exploration)**
 
-This is our sandbox for re-describing the laws of nature through the lens of **Logic-IR**. It is where we dare to be wrong, using the Tri-Axial model to discover how the logic of the universe might actually "compute" its own existence.
+This is our sandbox for re-describing the laws of nature through the lens of **LogicIR**. It is where we dare to be wrong, using the Tri-Axial model to discover how the logic of the universe might actually "compute" its own existence.
 
 ---
 
@@ -410,11 +410,21 @@ The flatland of plain-text strings is ending. For decades, software engineering 
 
 ## Legal & Attribution
 
-The conceptual framework defined in this manifesto—specifically the **Logic Unit (LU)** as a fractal topology spanned by the three orthogonal axes: **Push/Pull**, **Time/Space**, and **Provide/Inject**—constitutes the core original expression of the ZYModel Specification.
+**Intellectual Property Statement**
 
-Any functional implementation, derivative work, or architectural subset that adopts this specific tripartite logical structure is recognized as an implementation of the **ZYModel Specification**. We establish it as a core community standard that such implementations honor the attribution requirements of the **Creative Commons Attribution 4.0 International (CC-BY-4.0) License**.
+The conceptual framework defined in this manifesto—specifically the **Logic Unit (LU)** as a fractal topology spanned by the three orthogonal axes: **Push/Pull**, **Time/Space**, and **Provide/Inject**—constitutes the core original expression of the **ZYModel Specification**.
 
-Recommended Attribution:
+**`LogicUniverse™` and `LogicIR™` are trademarks of Zhang, Yang.**
+
+**Open Access & Prior Art**
+
+We believe logic essence should be a common heritage of digital reality. By publishing this specification, the ZYModel framework is dedicated as **Defensive Prior Art**, ensuring the core topological principles remain open and free from restrictive patenting by any party.
+
+**Licensing & Use**
+
+Any functional implementation, derivative work, or architectural subset that adopts this specific tripartite logical structure is recognized as an implementation of the **ZYModel Specification**. It is a core community standard that such implementations honor the attribution requirements of the **Creative Commons Attribution 4.0 International (CC-BY-4.0) License**.
+
+**Recommended Attribution:**  
 "This implementation leverages the ZYModel Specification created by [Zhang, Yang](https://logicuniverse.org), licensed under CC-BY-4.0."
 
 ---
@@ -429,7 +439,7 @@ TODO
 
 - **Structural Axiomatization:** Reordered entire manifesto to follow a "Problem (Tape) -> Solution (Topology) -> Implementation (IR)" logical flow.
 - **Nomenclature Consolidation:** Formally introduced **ZYModel** as the technical designation for the tri-axial framework, integrated into the core topology definition.
-- **Enhanced Logic-IR:** Expanded Section VI to include Transformation Pipelines, Topological CRDTs, and Spatial RBAC for human-AI co-creation.
+- **Enhanced LogicIR:** Expanded Section VI to include Transformation Pipelines, Topological CRDTs, and Spatial RBAC for human-AI co-creation.
 - **Distributed & AI Refinement:** Redefined Distributed systems as "Axial Slicing" and AI as "Reactive Intelligence Nodes," providing a clearer path for autonomous orchestration.
 - **Scientific Roots:** Added Section XIII to anchor the Z-axis and Execution Plane in classical and quantum physical intuitions.
 
