@@ -375,7 +375,11 @@ In crafting this **Tri-axial Fractal Topology**, we move beyond modern programmi
 
 These scientific roots anchor the design in both mathematical rigor and physical intuition. We are not inventing a new complexity; we are rediscovering the inherent geometry of logic.
 
-> _The pursuit of elegance and simplicity in this design is a tribute to the timeless work of the great minds who came before us. If this architecture resonates with you, it is because it reflects a universal order that was always there, waiting to be mapped._
+> The seeds of **LogicUniverse** were sown long before the current AI surge. While the world was digitizing surfaces, we spent over five years in a quiet obsession—iterating, refuting, and refining the topological essence of logic—a commitment formalized by its legal inception in 2021. This framework is not a reaction to the present; it is the manifestation of a multi-year architectural foresight.
+>
+> The perceived simplicity of the **ZYModel** is the result of a relentless process of subtraction. We labored to strip away every accidental complexity and every redundant dimension, carving the architecture down until nothing remained that could be removed without collapsing the universe itself. Only then did we feel it was ready to be manifested.
+>
+> The pursuit of elegance and simplicity in this design is a tribute to the timeless work of the great minds who came before us. If this architecture resonates with you, it is because it reflects a universal order that was always there, waiting to be mapped. We did not invent this logic; we simply labored until we were worthy of seeing it.
 
 ---
 
@@ -414,7 +418,9 @@ The flatland of plain-text strings is ending. For decades, software engineering 
 
 The conceptual framework defined in this manifesto—specifically the **Logic Unit (LU)** as a fractal topology spanned by the three orthogonal axes: **Push/Pull**, **Time/Space**, and **Provide/Inject**—constitutes the core original expression of the **ZYModel Specification**.
 
-**`LogicUniverse™` and `LogicIR™` are trademarks of Zhang, Yang.**
+**`LogicUniverse™` and `LogicIR™` are trademarks of Zhang, Yang (张洋).**
+
+_The localized trademark `逻辑宇宙®` (No. 60720711) has been formalized and protected since 2022._
 
 **Open Access & Prior Art**
 
@@ -431,9 +437,12 @@ Any functional implementation, derivative work, or architectural subset that ado
 
 ## Release History
 
-### v1.0.0-alpha.5
+### v1.0.0-alpha.5 (2026-03-12)
 
-TODO
+- **Legitimacy & Heritage:** Formalized the legal standing of **LogicUniverse™** and **LogicIR™**, documenting the 5-year R&D journey and the 2021 trademark foundations.
+- **Architectural Soul:** Enhanced Section XIII with a personal reflection on "Logic by Subtraction," articulating the pursuit of topological purity.
+- **Defensive Prior Art:** Clarified the Intellectual Property stance to ensure the **ZYModel** remains an open common heritage for digital reality.
+- **Structural Integrity:** Merged the Prime Axiom with the core topology definition to establish an immediate, unified geometric foundation.
 
 ### v1.0.0-alpha.4 (2026-03-11)
 
