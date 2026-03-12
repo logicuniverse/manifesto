@@ -1,6 +1,6 @@
 # LogicUniverse
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.4-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.5-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 
@@ -8,9 +8,60 @@
 
 **_Logic is not a sequence of instructions, but a spatial topology of existence._**
 
-## I. The Prime Axiom
+## I. The Topology of Logic: The Prime Axiom
 
-> **A Logic Unit (LU) is a fractal topology spanned by three orthogonal axes: Push/Pull, Time/Space, and Provide/Inject.**
+The universe of logic is defined by a three-dimensional coordinate system. Every **Logic Unit (LU)**, regardless of its scale, exists within this orthogonal space, where each axis represents a pure, independent dimension of digital reality, governed by its own internal duality:
+
+> ### **The Prime Axiom**
+>
+> **A Logic Unit (LU) is a fractal topology spanned by three orthogonal axes: Push/Pull (X), Time/Space (Y), and Provide/Inject (Z).**
+
+Every Logic Unit, regardless of its scale—from a sub-atomic NAND gate to a macro-scale clearing system—exists at the intersection of these three pure, independent dimensions:
+
+**The Universal Coordinate System**
+
+```text
+                    +Z (Sovereignty: Provide)
+                     ^
+                     |    +Y (Manifestation: Time)
+                     |   ^
+                     |  /
+                     | /
+                     |/
+   -X <--------------O--------------> +X
+ (Interaction: Pull)/|         (Interaction: Push)
+                   / |
+                  /  |
+                 /   |
+                v    v
+              -Y    -Z (Sovereignty: Inject)
+ (Manifestation: Space)
+```
+
+_Interaction (X) synchronizes reality, Manifestation (Y) anchors existence, and Sovereignty (Z) dictates essence. Together, they define the spatial destiny of logic._
+
+**The Three Dimensions of Digital Reality**
+
+- **X-Axis (Interaction: Push/Pull):** The domain of **Pure Data**. It defines the reconciliation mechanism between **Internal and External states** at the boundary of the LU—the duality between **Asynchronous Reactive Logic** (+X: _Push: Emit/Subscribe_) and **Synchronous Latching Logic** (-X: _Pull: Sample/Latch_).
+- **Y-Axis (Manifestation: Time/Space):** The domain of **Existence**. It defines the operational reality—the duality between **Temporal Governance** (+Y: _Time: Stateful evolution_) and **Spatial Mapping** (-Y: _Space: Stateless transformation_).
+- **Z-Axis (Sovereignty:Provide/Inject):** The domain of **Logic Essence**. It acts as the vertical conduit for the bi-directional exchange of sovereign logic—piercing physically orthogonal to the **Execution Plane (formed by the X and Y axes)** to serve as both the Source (+Z: _Provide: Source of essence_) and the Sink (-Z: _Inject: Filling of slots_).
+
+**The Principle of Fractality**
+
+Logic topology is inherently self-similar. A complex macro-system assembled from a network of micro-topologies encapsulates its own internal universe, yet behaves externally as a single, standard Logic Unit. When a Logic Unit is manifested within another LU topology to perform its function, it is defined as a **Logic Unit Instance (LUI)**. The macro-architecture and the micro-node share the exact same dimensional properties across all scales.
+
+**The Observer's Symmetry**
+
+The distinction between a "system" and a "component" is not a difference in nature, but a shift in the observer’s coordinate origin. This symmetry operates across two dimensions:
+
+- **Horizontal Symmetry (Execution Plane):** To implement a logic is to define a new LU (a macro-topology); to invoke that logic is to manifest an LUI (a micro-node). A node within one coordinate system is itself the origin of its own internal X/Y plane.
+- **Vertical Symmetry (Z-Axis):** On the Z-Axis, **Provide (+Z)** and **Inject (-Z)** are the same physical phenomenon. Whether a logic essence is being "offered" or "consumed" depends entirely on the direction of the observer's gaze relative to the Execution Plane.
+
+This bi-axial symmetry ensures that the tri-axial protocol remains invariant across all fractal scales.
+
+**Terminology: The ZYModel**
+
+For the sake of technical brevity, this tri-axial framework is formally designated as the **ZYModel**. The name characterizes the integration of the **Z** and **Y** axes—the dimensions of **Sovereignty** (the root of Logic Essence) and **Manifestation** (the canvas of Existence)—which expand the one-dimensional Turing Tape (**X**) into a full-dimensional, deterministic logic topology.
 
 ---
 
@@ -48,52 +99,6 @@ By ensuring **Dimensional Orthogonality** (isolating X, Y, and Z axes) and **Sca
 LogicUniverse does not seek to "solve" these ancient programming dilemmas; it seeks to **eliminate them through geometry**. By re-aligning digital reality with its inherent **tri-axial nature**, we realize that the complexity we once fought was merely a **shadow cast by a one-dimensional cage**. Logic was always meant to be this beautiful.
 
 ---
-
-## III. The Topology of Logic: Axes & Fractality
-
-The universe of logic is defined by a three-dimensional coordinate system. Every **Logic Unit (LU)**, regardless of its scale, exists within this orthogonal space, where each axis represents a pure, independent dimension of digital reality, governed by its own internal duality:
-
-**The Tri-Axial Topology**
-
-```text
-                    +Z (Provide)
-                     ^
-                     |    +Y (Time)
-                     |   ^
-                     |  /
-                     | /
-                     |/
-   -X <--------------O--------------> +X
- (Pull)             /|              (Push)
-                   / |
-                  /  |
-                 /   |
-                v    v
-       -Y (Space)   -Z (Inject)
-```
-
-> **Note on Scale Invariance:** The diagram above is universal. Whether it represents a sub-atomic NAND gate or a macro-scale clearing system, the tri-axial protocol remains constant. Fractality is achieved not through the complexity of the drawing, but through the infinite recursion of this coordinate system within every manifested node.
-
-- **X-Axis (Push/Pull):** The domain of **Pure Data**. It defines the reconciliation mechanism between **Internal and External states** at the boundary of the LU—the duality between **Asynchronous Reactive Logic** (+X: _Push: Emit/Subscribe_) and **Synchronous Latching Logic** (-X: _Pull: Sample/Latch_).
-- **Y-Axis (Time/Space):** The domain of **Existence**. It defines the operational reality—the duality between **Temporal Governance** (+Y: _Time: Stateful evolution_) and **Spatial Mapping** (-Y: _Space: Stateless transformation_).
-- **Z-Axis (Provide/Inject):** The domain of **Logic Essence**. It acts as the vertical conduit for the bi-directional exchange of sovereign logic—piercing physically orthogonal to the **Execution Plane (formed by the X and Y axes)** to serve as both the Source (+Z: _Provide: Source of essence_) and the Sink (-Z: _Inject: Filling of slots_).
-
-**The Principle of Fractality**
-
-Logic topology is inherently self-similar. A complex macro-system assembled from a network of micro-topologies encapsulates its own internal universe, yet behaves externally as a single, standard Logic Unit. When a Logic Unit is manifested within another LU topology to perform its function, it is defined as a **Logic Unit Instance (LUI)**. The macro-architecture and the micro-node share the exact same dimensional properties across all scales.
-
-**The Observer's Symmetry**
-
-The distinction between a "system" and a "component" is not a difference in nature, but a shift in the observer’s coordinate origin. This symmetry operates across two dimensions:
-
-- **Horizontal Symmetry (Execution Plane):** To implement a logic is to define a new LU (a macro-topology); to invoke that logic is to manifest an LUI (a micro-node). A node within one coordinate system is itself the origin of its own internal X/Y plane.
-- **Vertical Symmetry (Z-Axis):** On the Z-Axis, **Provide (+Z)** and **Inject (-Z)** are the same physical phenomenon. Whether a logic essence is being "offered" or "consumed" depends entirely on the direction of the observer's gaze relative to the Execution Plane.
-
-This bi-axial symmetry ensures that the tri-axial protocol remains invariant across all fractal scales.
-
-**Terminology: The ZYModel**
-
-For the sake of technical brevity, this tri-axial framework is formally designated as the **ZYModel**. The name characterizes the integration of the **Z** and **Y** axes—the dimensions of **Sovereignty** (the root of Logic Essence) and **Manifestation** (the canvas of Existence)—which expand the one-dimensional Turing Tape (**X**) into a full-dimensional, deterministic logic topology.
 
 ## IV. The Execution Plane: The Four Quadrants of Logic
 
@@ -415,6 +420,10 @@ Recommended Attribution:
 ---
 
 ## Release History
+
+### v1.0.0-alpha.5
+
+TODO
 
 ### v1.0.0-alpha.4 (2026-03-11)
 
