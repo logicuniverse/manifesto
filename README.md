@@ -14,14 +14,14 @@
 
       Visual Composer (IDE)  \                                /--> [ Interpreted ]
       Manual Coding (DSLs)    \      +---------------+       /      JavaScript
-      Programmatic Macros      >---> |    LogicIR™   | -----+---->  Python / MicroPython
+      Programmatic Macros      >---> |    LogicIR™   | -----+       Python / MicroPython
       AI Synthesis (Agents)   /      +---------------+       \      Rust / Go
                              /               |                \
                             /                |                 \--> [ Compiled ]
       [ The Architect's ]                    |                  \    C / C++ (Bare-metal)
          [ Intent ]                          |                   \
                                      [ The Sovereign ]            \--> [ Synthesized ]
-                                        [ Truth ]                     Verilog HDL (Silicon)
+                                         [ Truth ]                    Verilog HDL (Silicon)
                                                                       Schematic / Netlist
 
                     LogicUniverse™ powered by ZYModel Specification
