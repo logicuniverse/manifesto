@@ -1,6 +1,6 @@
 # LogicUniverse
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.6-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.7-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 
@@ -348,9 +348,11 @@ In this universe, **logic is represented mathematically as pure data**. Because 
 The **LogicUniverse** is currently in its active alpha phase, centering its efforts on the **Logic Geometry** stage of the roadmap—the formalization of static topological assembly.
 
 - **LogicIR:** Defining the pure data structure to describe LU architecture.
-- **Core Implementations (Logic Engines):**
-  - LogicIR-JS: https://github.com/logicuniverse/LogicIR-JS (Reference Engine for Web/Cloud Runtime).
-  - LogicIR-PY: https://github.com/logicuniverse/LogicIR-PY (**In Active Development** — Targeting Python & MicroPython/Embedded Systems).
+- **Engine Implementations (GitHub: `logicuniverse`):**
+  - **LogicIR-JS**: [Published on NPM](https://www.npmjs.com/package/@logicuniverse/logic-ir) — Reference Engine for Web/Cloud Runtime.
+  - **LogicIR-PY**: **In Active Development** — Targeting Python, AI Agents, and MicroPython/Embedded.
+  - **LogicIR-RS**: **In Planning** — High-performance core for system-level determinism.
+  - **LogicIR-GO**: **In Planning** — Distributed orchestration and Cloud-native logic slicing.
 - **Visual Logic IDE:** Developing a coordinate-based design environment (Visual Composer) equipped with a design-time algebraic type system.
 
 ---
@@ -442,6 +444,12 @@ Any functional implementation, derivative work, or architectural subset that ado
 ---
 
 ## Release History
+
+### v1.0.0-alpha.7
+
+- Synchronized cross-language package management and distribution under the unified LogicIR trademark.
+
+TODO
 
 ### v1.0.0-alpha.6 (2026-03-12)
 
