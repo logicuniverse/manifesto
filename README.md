@@ -1,6 +1,6 @@
 # LogicUniverse
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.7-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.8-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 
@@ -9,29 +9,36 @@
 **_Logic is not a sequence of instructions, but a spatial topology of existence._**
 
 ```text
-       [ INPUT SOURCES ]              [ CORE FABRIC ]            [ PROJECTION TARGETS ]
-      -------------------            -----------------          ------------------------
+   [ INPUT SOURCES ]              [ CORE FABRIC ]              [ PROJECTION TARGETS ]
+  -------------------            -----------------          ----------------------------
 
-      Visual Composer (IDE)  \                                /--> [ Interpreted ]
-      Manual Coding (DSLs)    \      +---------------+       /      JavaScript
-      Programmatic Macros      >---> |    LogicIR™   | -----+       Python / MicroPython
-      AI Synthesis (Agents)   /      +---------------+       \      Rust / Go
-                             /               |                \
-                            /                |                 \--> [ Compiled ]
-      [ The Architect's ]                    |                  \    C / C++ (Bare-metal)
-         [ Intent ]                          |                   \
-                                     [ The Sovereign ]            \--> [ Synthesized ]
-                                         [ Truth ]                    Verilog HDL (Silicon)
-                                                                      Schematic / Netlist
+                                                              /--> [ Interpreted ]
+                                                             /     JavaScript
+                                                            /      Python / MicroPython
+                                                           /
+  Visual Composer (IDE)  \                                /------> [ Native Runtime ]
+  Manual Coding (DSLs)    \      +---------------+       /         Rust / Go / WASM
+  Programmatic Macros      >---> |    LogicIR™   | ---+-+          C/C++ (Engine)
+  AI Synthesis (Agents)   /      +---------------+    |  \
+                         /               |            |   \------> [ Transpiled ]
+                        /                |            |    \       C/C++ (Bare-metal)
+                       /                 |            |     \
+  [ The Architect's ]                    |            |      \---> [ Synthesized ]
+     [ Intent ]                          |            |            Verilog HDL
+                                 [ The Sovereign ]    |            Schematic / Netlist
+                                     [ Truth ]        |
+                                                      \----------> [ Physical Domain ]
+                                                                   Laws of Nature
+                                                                   Computable Universe
 
-                    LogicUniverse™ powered by ZYModel Specification
+                  LogicUniverse™ powered by ZYModel Specification
 ```
 
 _LogicIR is the universal data topology of logic essence, governed by the ZYModel—mapping high-level intent into the deterministic physical reality of any execution environment._
 
 ## I. The Topology of Logic: The Prime Axiom
 
-The universe of logic is defined by a three-dimensional coordinate system. Every **Logic Unit (LU)**, regardless of its scale, exists within this orthogonal space, where each axis represents a pure, independent dimension of digital reality, governed by its own internal duality:
+The universe of logic is defined by a three-dimensional coordinate system. Every **Logic Unit (LU)**, regardless of its scale, exists within this orthogonal space, where each axis represents a pure, independent dimension of logical reality, governed by its own internal duality:
 
 > ### **The Prime Axiom**
 >
@@ -61,7 +68,7 @@ Every Logic Unit, regardless of its scale—from a sub-atomic NAND gate to a mac
 
 _Interaction (X) synchronizes reality, Manifestation (Y) anchors existence, and Sovereignty (Z) dictates essence. Together, they define the spatial destiny of logic._
 
-**The Three Dimensions of Digital Reality**
+**The Three Dimensions of Logical Reality**
 
 - **X-Axis (Interaction: Push/Pull):** The domain of **Pure Data**. It defines the reconciliation mechanism between **Internal and External states** at the boundary of the LU—the duality between **Asynchronous Reactive Logic** (+X: _Push: Emit/Subscribe_) and **Synchronous Latching Logic** (-X: _Pull: Sample/Latch_).
 - **Y-Axis (Manifestation: Time/Space):** The domain of **Existence**. It defines the operational reality—the duality between **Temporal Governance** (+Y: _Time: Stateful evolution_) and **Spatial Mapping** (-Y: _Space: Stateless transformation_).
@@ -90,7 +97,7 @@ For the sake of technical brevity, this tri-axial framework is formally designat
 
 The fundamental crisis of modern software engineering is a **dimensional collapse**. For decades, we have been confined to the **Turing Tape**—a one-dimensional instruction stream (1D). This linear constraint, further calcified by the **von Neumann Architecture**, forces a complex, multi-dimensional logic topology to be flattened into a fragile string of hex and text.
 
-- **The von Neumann Bottleneck of Logic:** While the von Neumann architecture separated CPU from Memory, it inadvertently unified **Logic** with **Sequence**. By forcing logic to exist only as a series of instructions fetched from a linear heap, we lost the ability to express the concurrent, multi-axial nature of digital reality.
+- **The von Neumann Bottleneck of Logic:** While the von Neumann architecture separated CPU from Memory, it inadvertently unified **Logic** with **Sequence**. By forcing logic to exist only as a series of instructions fetched from a linear heap, we lost the ability to express the concurrent, multi-axial nature of logical reality.
 - **The Entanglement of Axes:** In a non-orthogonal 1D space, every action is a composite vector. "Calling a function" is a tangled mess: it simultaneously triggers execution (Y), defines a synchronization step (X), and resolves a logic source (Z). Because these dimensions are not independent, changing any aspect of a logic's behavior inevitably ripples through others, leading to "hidden coupling."
 - **The Fragility of Mutation:** In a continuous stream, every character is critical. A single typo or misplaced semicolon can mutate the entire sequence downstream. This **"Linear Text Gap"** is the primary barrier to both human maintainability and autonomous machine reasoning.
 - **The Context Overflow:** Because traditional code is flat and non-local, an observer must ingest the entire "tape" to reconstruct the intended topology. This leads to the inevitable exhaustion of context windows and cognitive capacity as systems scale.
@@ -117,7 +124,7 @@ To escape the Tape, we must stop arguing over which projection is "better" and i
 
 By ensuring **Dimensional Orthogonality** (isolating X, Y, and Z axes) and **Scale Invariance** (applying the same signature from gates to clusters), we realize that the decoupling problem was never about better "interfaces"—it was about the lack of a geometric foundation.
 
-LogicUniverse does not seek to "solve" these ancient programming dilemmas; it seeks to **eliminate them through geometry**. By re-aligning digital reality with its inherent **tri-axial nature**, we realize that the complexity we once fought was merely a **shadow cast by a one-dimensional cage**. Logic was always meant to be this beautiful.
+LogicUniverse does not seek to "solve" these ancient programming dilemmas; it seeks to **eliminate them through geometry**. By re-aligning logical reality with its inherent **tri-axial nature**, we realize that the complexity we once fought was merely a **shadow cast by a one-dimensional cage**. Logic was always meant to be this beautiful.
 
 ---
 
@@ -366,17 +373,24 @@ In this universe, **logic is represented mathematically as pure data**. Because 
 
 ## XI. Current State (Q1 2026)
 
+> [!IMPORTANT]
+> **Experimental Nature & Paradigm Shift**  
+> LogicUniverse is currently a high-dimensional prototype designed to validate a radical paradigm shift in logical reasoning. We are focused on the **0-1 jump**: proving that a tri-axial fractal topology can govern deterministic logic across disparate domains.  
+> **This is not a production-ready product.** During this alpha phase, we prioritize **innovation over convention** and **development velocity over rigid standardization**. We provide no guarantees of stability, API persistence, or fitness for any specific use as we iterate through this dimensional upgrade.
+
 The **LogicUniverse** is currently in its active alpha phase, centering its efforts on the **Logic Geometry** stage of the roadmap—the formalization of static topological assembly.
 
 - **[LogicIR Spec](https://github.com/logicuniverse/LogicIR)**:
   **The Source of Truth** — Defining the deterministic, closed-world Netlist data structure.
-- **Engine Implementations:**
+- **Engine Implementations (Interpreted Targets):**
   - [LogicIR-JS](https://github.com/logicuniverse/LogicIR-JS): **Published** — Official Reference Engine for Web/Cloud.
   - [LogicIR-PY](https://github.com/logicuniverse/LogicIR-PY): **In Active Development** — Targeting AI Agents, Scientific Computing, and MicroPython/Embedded systems.
-  - [LogicIR-RS](https://github.com/logicuniverse/LogicIR-RS): **In Planning** — High-performance core for deterministic logic.
-  - [LogicIR-GO](https://github.com/logicuniverse/LogicIR-GO): **In Planning** — Cloud-native orchestration and logic slicing.
-
 - **Visual Logic IDE:** Internal development of the coordinate-based design environment (**Visual Composer**) equipped with a design-time algebraic type system.
+- **Native Host Runtime & Orchestration (Planning):**
+  - **LogicIR-CPP**: **In Planning** — High-performance native Engine.
+  - **LogicIR-WASM**: Portable high-performance runtime for browser and edge.
+  - **LogicIR-RS**: Deterministic Runtime Core.
+  - **LogicIR-GO**: Cloud-native Orchestrator & Logic-Slicing Runtime.
 - **The Projection Bridge (Planning):**
   - **LogicIR-to-Native**: High-performance C/C++ transpiler for bare-metal firmware, high-speed kernels, and standalone native binaries.
   - **LogicIR-to-Silicon**: Hardware synthesis (Verilog HDL) for direct FPGA logic mapping and ASIC design flow.
@@ -407,6 +421,8 @@ In crafting this **Tri-axial Fractal Topology**, we move beyond modern programmi
 - **Einstein (The Y-Axis of Spacetime):** Relativity’s unification of time and space informed the **Temporal/Spatial** axis—treating stateful evolution and stateless mapping as two observers of the same continuum.
 - **Maxwell (The Execution Plane):** Just as Maxwell's equations unified electricity and magnetism, this **four-quadrant geometry** maps disparate logical behaviors into a single, unified operational surface.
 - **Quantum Mechanics (The Z-Axis of Essence):** While Quantum Entanglement remains one of the most elusive mysteries in physics, it provided a profound structural inspiration for this model. In traditional software engineering, the "Distributed State Problem" is often treated as a synchronization struggle over a 1D tape. By observing how entangled particles maintain unity without direct connectivity, we hypothesized that such "spooky" correlations are actually vertical projections of a single, higher-dimensional entity. This insight led to the birth of the **Z-Axis**: a dimension fundamentally independent of the execution plane (X-Y). We do not claim to solve the mystery of physical entanglement; instead, we apply its logical signature to solve **Shared Essence** in digital systems. In this architecture, distant nodes on the execution plane do not "synchronize"—they are simply multi-point manifestations of the same Sovereign Essence piercing through the Z-Axis. Entanglement is redefined here not as an effect of data transmission, but as a manifestation of **High-Dimensional Unity**.
+
+**The Universal Symmetry:** Ultimately, the **ZYModel** is not merely an abstraction for software; it is a **Topological Reconstruction of Physical Causality**. By aligning logical operations with the same tri-axial symmetries found in nature, we bridge the gap between the bit-level deterministic logic of machines and the invariant laws of the physical cosmos.
 
 These scientific roots anchor the design in both mathematical rigor and physical intuition. We are not inventing a new complexity; we are rediscovering the inherent geometry of logic.
 
@@ -459,7 +475,7 @@ _The localized trademark `逻辑宇宙®` (No. 60720711) has been formalized and
 
 **Open Access & Prior Art**
 
-We believe logic essence should be a common heritage of digital reality. By publishing this specification, the ZYModel framework is dedicated as **Defensive Prior Art**, ensuring the core topological principles remain open and free from restrictive patenting by any party.
+We believe logic essence should be a common heritage of logical reality. By publishing this specification, the ZYModel framework is dedicated as **Defensive Prior Art**, ensuring the core topological principles remain open and free from restrictive patenting by any party.
 
 **Licensing & Use**
 
@@ -471,6 +487,15 @@ Any functional implementation, derivative work, or architectural subset that ado
 ---
 
 ## Release History
+
+### v1.0.0-alpha.8 (2026-03-15)
+
+- **Projection Target Bus Restructuring:** Performed a comprehensive architectural re-alignment of all planning targets, categorizing them into a logical hierarchy: **Reference Engines** (Interpreted), **Native Hosts** (Runtime Engines), **Bare-metal** (Transpiled), and **Physical Domain** (Ontological).
+- **Physical Domain Foundation:** Formally integrated "Laws of Nature" and the "Computable Universe" into the roadmap, extending logic topology from silicon-based execution to the ontological substrate of physical reality.
+- **Engine Contextualization:** Reclassified high-performance implementations (like `LogicIR-CPP` and `LogicIR-WASM`) as **Native Host Runtimes**, distinguishing them from reference interpreters and source-to-source transpilation.
+- **Logical Reality Pivot:** Systematically replaced the "digital reality" label with "**logical reality**" to unify the deterministic logic of machines with the causal laws of the physical cosmos.
+- **Topological Causality:** Advanced Section XIII to define the **ZYModel** as a topological reconstruction of physical causality, bridging the gap between bits and Newtonian/Quantum intuitions.
+- **Strategic Prototype Mandate:** Established the "**0-1 Jump**" experimental disclaimer, prioritizing paradigm revolution and development velocity over production stability.
 
 ### v1.0.0-alpha.7 (2026-03-12)
 
