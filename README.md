@@ -9,8 +9,8 @@
 **_Logic is not a sequence of instructions, but a spatial topology of existence._**
 
 ```text
-   [ INPUT SOURCES ]              [ CORE FABRIC ]              [ PROJECTION TARGETS ]
-  -------------------            -----------------          ----------------------------
+   [ INPUT SOURCES ]              [ CORE FABRIC ]                [ PROJECTION TARGETS ]
+  -------------------            -----------------          -------------------------------
 
                                                               /--> [ Interpreted ]
                                                              /     JavaScript
@@ -467,7 +467,11 @@ These scientific roots anchor the design in both mathematical rigor and physical
 
 ## XIII. The Path to a Computable Universe: Deductive Reality
 
-The **Tri-Axial Fractal Topology** is not merely a design pattern for software; it is a fundamental **Logical Grammar**. Our core premise is that if the physical universe is governed by consistent, deterministic laws, then Physics and Mathematics are themselves emergent expressions of an underlying Logical Topology. In this view, Software Engineering and Theoretical Physics are two observers of the same tri-axial reality.
+LogicUniverse is the first formal attempt to move beyond the **"Tape-based Civilization."**
+
+For millennia, the tragedy of the "Tape" has not been limited to programming; it has been the **universal prison of human cognition**. Our **Natural Languages** and even our **Mathematical Notations** are fundamentally confined to the 1D Turing Tape—one-dimensional sequences of symbols arranged in a line. We are a species attempting to capture a tri-axial, fractal, and concurrent reality through the bottleneck of serial text.
+
+The **ZYModel** is not merely a design pattern for software; it is a fundamental **Logical Grammar**. Our core premise is that if the physical universe is governed by consistent, deterministic laws, then Physics and Mathematics are themselves emergent expressions of an underlying Logical Topology. In this view, Software Engineering and Theoretical Physics are two observers of the same tri-axial reality.
 
 **The Role of LogicIR**
 
@@ -492,7 +496,7 @@ All extended claims in this framework arise strictly from the logical deduction 
 - **The Transcending of Continuity**: Continuity and infinitesimals are macroscopic approximations—shadows cast by a discrete underlying fabric. **Classical calculus, therefore, is not a fundamental language of nature, but a high-level statistical heuristic** that smooths over the discrete pulsing of logic transitions at scale.
 - **Topological Manifestation**: Matter, fields, interactions, and intelligence all emerge as higher-order manifestations of discrete fractal topology within tri-axial space.
 - **The Nature of Mathematics**: Mathematics must be reconstructed as **Discrete Dynamics**, shifting from the analysis of limits to the formal verification of **LogicIR** transitions within a **Finite Causal Topology**.
-- **The Nature of Complexity**: Computational classes like P and NP are reframed as the geometric accessibility of logic. P is logic flowing along the manifestation plane; NP is logic depth within the sovereign Z-axial stack. The fundamental question of CS becomes a problem of Topological Dimensionality Reduction.
+- **The Nature of Complexity**: P and NP are reframed as geometric accessibility. **P space is defined by Sampling Polarity (-X)**: where logic is pull-based and causation remains contractible to 1D sequence description. **NP emerges from Proactive Polarity (+X)**: independent signal-pushing creates a causal density that transcends sampling scanners—a physical displacement **scaled extensively by the sovereign depth of the Z-axial stack**.
 - **The Nature of Life**: Life is the specific, stable form in which complex topological structures sustain and perpetuate their own integrity across discrete spacetime cycles.
 - **The Physical Potency of Coordinates**: In the current **Geometry Phase**, axial coordinates remain qualitative descriptors of orthogonality. We anticipate that in the **Dynamics Phase**, coordinate points will transcend mere syntax to fulfill a quantitative physical purpose. At that stage, axial values and spatial distances will manifest as the **governing metrics of causation**.
 
@@ -560,8 +564,10 @@ _Construct, not write. Architect, not predict. Order over entropy._
 
 ## Release History
 
-### v1.0.0-alpha.14
+### v1.0.0-alpha.14 (2026-03-16)
 
+- **Linguistic Bottleneck Deduction**: Expanded Section XIII to identify **Natural Language** and **Mathematical Notation** as 1D "Tape-based" limitations, positioning the **ZYModel** as a native high-dimensional Logical Grammar for reality.
+- **P/NP Geometric Solution**: Formalized the physical distinction between **P (-X polarity)** and **NP (+X polarity)**, redefining complexity as a geometric phase-shift in signal proactivity and sovereign depth.
 - **Physical Potency Deduction**: Formalized the transition from Logic Geometry to **Logic Dynamics** within Section XIII, deducing that axial coordinates and spatial metrics must manifest as the **"Governing Metrics of Causation"** to ensure a computable reality.
 - **Ontological Consistency**: Synchronized the roadmap definitions with deductive conclusions, anchoring the ZYModel as a physical coordinate system for logical energy-levels rather than a semantic placeholder.
 
