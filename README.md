@@ -496,7 +496,7 @@ All extended claims in this framework arise strictly from the logical deduction 
 - **The Nature of Life**: Life is the specific, stable form in which complex topological structures sustain and perpetuate their own integrity across discrete spacetime cycles.
 - **The Physical Potency of Coordinates**: In the current **Geometry Phase**, axial coordinates remain qualitative descriptors of orthogonality. We anticipate that in the **Dynamics Phase**, coordinate points will transcend mere syntax to fulfill a quantitative physical purpose. At that stage, axial values and spatial distances will manifest as the **governing metrics of causation**.
 
-**None of this is speculative. It is a logical necessity dictated by the axiom.**
+**_None of this is speculative. It is a logical necessity dictated by the axiom._**
 
 If the cosmos conforms to these symmetries, then classical continuous models serve only as high-level heuristics. The purpose of LogicUniverse is to rigorously derive, from a single elegant axiom, a complete, constructible, and verifiable picture of the logical reality we inhabit.
 
@@ -562,7 +562,8 @@ _Construct, not write. Architect, not predict. Order over entropy._
 
 ### v1.0.0-alpha.14
 
-- **Physical Potency Deduction**: Extended Section XIII to deduce the role of coordinates in the future **"Logic Dynamics"** phase, projecting that spatial metrics will transcend syntax to manifest as the **governing metrics of causation**.
+- **Physical Potency Deduction**: Formalized the transition from Logic Geometry to **Logic Dynamics** within Section XIII, deducing that axial coordinates and spatial metrics must manifest as the **"Governing Metrics of Causation"** to ensure a computable reality.
+- **Ontological Consistency**: Synchronized the roadmap definitions with deductive conclusions, anchoring the ZYModel as a physical coordinate system for logical energy-levels rather than a semantic placeholder.
 
 ### v1.0.0-alpha.13 (2026-03-16)
 
