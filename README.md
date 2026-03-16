@@ -1,6 +1,6 @@
 # LogicUniverse
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.12-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.13-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 
@@ -559,6 +559,10 @@ _Construct, not write. Architect, not predict. Order over entropy._
 
 ## Release History
 
+### v1.0.0-alpha.13
+
+- **Architectural Soul**: Enhanced the final **Connection** section, transitioning from a project maintainer to a **"Custodian of Truth,"** seeking industrial patrons to manifest a common heritage of existence.
+
 ### v1.0.0-alpha.12 (2026-03-16)
 
 - **Industrialization Pivot**: Formally transitioned from the "Craftsman Era" of manual coding to the **Software Industrial Era**, introducing **Circuit-like Encapsulation** and **VLSI-grade** structural assembly.
@@ -640,3 +644,5 @@ The Big Bang — Initial release of the ZYModel Specification and the Tri-Axial 
 > **Connection**  
 > If this topological manifesto resonates with you, feel free to reach out to the origin:  
 > **[origin@logicuniverse.org](mailto:origin@logicuniverse.org)**
+>
+> _Logic should be a common heritage of existence. My goal is to keep LogicUniverse as an independent, neutral logic substrate for all. I am seeking industrial patrons—not employers—who share the belief that a deterministic logical reality should be accessible to every architect. If you wish to sustain this obsession, let us manifest it together._
