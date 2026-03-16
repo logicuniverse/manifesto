@@ -1,6 +1,6 @@
 # LogicUniverse
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.13-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.14-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 
@@ -494,6 +494,7 @@ All extended claims in this framework arise strictly from the logical deduction 
 - **The Nature of Mathematics**: Mathematics must be reconstructed as **Discrete Dynamics**, shifting from the analysis of limits to the formal verification of **LogicIR** transitions within a **Finite Causal Topology**.
 - **The Nature of Complexity**: Computational classes like P and NP are reframed as the geometric accessibility of logic. P is logic flowing along the manifestation plane; NP is logic depth within the sovereign Z-axial stack. The fundamental question of CS becomes a problem of Topological Dimensionality Reduction.
 - **The Nature of Life**: Life is the specific, stable form in which complex topological structures sustain and perpetuate their own integrity across discrete spacetime cycles.
+- **The Physical Potency of Coordinates**: In the current **Geometry Phase**, axial coordinates remain qualitative descriptors of orthogonality. We anticipate that in the **Dynamics Phase**, coordinate points will transcend mere syntax to fulfill a quantitative physical purpose. At that stage, axial values and spatial distances will manifest as the **governing metrics of causation**.
 
 **None of this is speculative. It is a logical necessity dictated by the axiom.**
 
@@ -558,6 +559,10 @@ _Construct, not write. Architect, not predict. Order over entropy._
 ---
 
 ## Release History
+
+### v1.0.0-alpha.14
+
+- **Physical Potency Deduction**: Extended Section XIII to deduce the role of coordinates in the future **"Logic Dynamics"** phase, projecting that spatial metrics will transcend syntax to manifest as the **governing metrics of causation**.
 
 ### v1.0.0-alpha.13 (2026-03-16)
 
