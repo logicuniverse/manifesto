@@ -559,9 +559,13 @@ _Construct, not write. Architect, not predict. Order over entropy._
 
 ## Release History
 
-### v1.0.0-alpha.12
+### v1.0.0-alpha.12 (2026-03-16)
 
-TODO
+- **Industrialization Pivot**: Formally transitioned from the "Craftsman Era" of manual coding to the **Software Industrial Era**, introducing **Circuit-like Encapsulation** and **VLSI-grade** structural assembly.
+- **Entity Manifestation**: Re-engineered logic from "fragile recipes" (instructions) to **"the dish"** (deterministic entities), defining software as a **circuit manifested in time.**
+- **Architectural Soul**: Integrated the definitive manifesto opening: **_"Logic, finally engineered by an Electronic Engineer,"_** anchoring the ZYModel in hardware-grade determinism and signal-flow modularity.
+- **Etymological Convergence**: Revealed the dual origin of **LogicIR™** (Logic + IR / Logi + Cir), bridging universal intermediate representation with fractal circuit netlists.
+- **Deductive Axiomatization**: Refined the "Path to a Computable Universe," establishing discrete spacetime and finite causal topology as inescapable logical deductions of the **ZYModel axiom**.
 
 ### v1.0.0-alpha.11 (2026-03-16)
 
