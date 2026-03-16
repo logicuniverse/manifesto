@@ -562,6 +562,7 @@ _Construct, not write. Architect, not predict. Order over entropy._
 ### v1.0.0-alpha.13
 
 - **Architectural Soul**: Enhanced the final **Connection** section, transitioning from a project maintainer to a **"Custodian of Truth,"** seeking industrial patrons to manifest a common heritage of existence.
+- **Lexical Calibration**: Finalized the ZYModel naming standards (Axis nomenclature, Node-Net parity), back-annotating the core engine to achieve total alignment between the Manifesto and the Codebase.
 
 ### v1.0.0-alpha.12 (2026-03-16)
 
