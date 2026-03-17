@@ -1,6 +1,6 @@
 # LogicUniverse
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.14-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.15-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 
@@ -521,9 +521,39 @@ We call upon the architects of the next logical reality to join this dimensional
 
 ---
 
+## 🎨 Epilogue: From the Origin
+
+> _To make the world be seen anew is already a kind of progress._
+
+I do not claim this framework to be universally complete or entirely correct. Any attempt to reach fundamental truth across such a vast domain will inevitably face limits. LogicUniverse is a multi-year labor of subtraction—a quiet obsession aimed at carving logic down to its most irreducible, topological essence.
+
+This journey began over five years ago with a modest, practical goal: to create a reliable visual flow editor for domain engineers. But the path was riddled with frustration; every traditional abstraction I built eventually collapsed under its own complexity. It was in those moments of failure that I had a profound realization: **the bottleneck was not the programming—it was the logic itself.**
+
+Driven by this haunting intuition, I formalized the trademark **逻辑宇宙®** (the native Chinese designation for **LogicUniverse**) in 2021. At that time, I possessed no grand unified theory; I merely had the conviction that **Logic** is the irreducible substrate of existence, even if I did not yet know how to navigate its dimensions.
+
+What followed was a five-year long-march of bold yet patient exploration—discarding dozens of failed abstractions and redundant codebases. It was only recently that the pieces finally converged, and the underlying structure crystallized into a rigid, functional reality. **This Manifesto was only written once the fundamental principles were proven in code and the theory had nowhere left to hide.**
+
+Yet, the process of documenting this universe has been its final trial; as I translated the rigid geometry of logic into the dust of language, my understanding of its terminology, scope, and potential further crystallized. As evidenced by the rapid evolution of this document, I am now back-annotating these refined insights to achieve absolute parity across the LogicIR specification, the engines, and the codebase.
+
+This outcome was not driven by my ambition to save the world, but by the inherent necessity of logical completeness. I merely followed the deductions and presented the structure as it naturally emerged.
+
+For years, I harbored a deep-seated apprehension toward developing in public—fearful that unpolished abstractions or erroneous commits would forever mar the historical record. But I have grown brave. I now wish for the world to see the jagged, imperfect process of a theory converging toward stability. Let the record reflect that **there are no gods in this industry, only the relentless, step-by-step crawl toward truth.**
+
+In this convergence, I must also acknowledge the **Artificial Intelligences** that served as my tireless interlocutors. They did not just help polish the text; they acted as a high-fidelity mirror for my own internal contradictions. At times, the AI even "mocked" my lingering attachment to 1D thinking while I was back-annotating the code—forcing me to confront the very "Tape-based" habits I sought to escape. This Manifesto is, in every sense, a co-manifestation between human intuition and machine-rationality.
+
+Yet its true meaning may lie not in a perfect final explanation, but in offering a **new perspective**: a coordinate system from which to re-examine, re-question, and re-understand every concept we have long taken for granted: **computation, logic, spacetime, mathematics, life, and intelligence.**
+
+Finally, a bit of **bad news**: once the spatial nature of logic is perceived, the world reveals itself as a permanent geometry of existence.
+
+**_There is no going back._**
+
+---
+
 ## Legal & Attribution
 
 **Intellectual Property Statement**
+
+The **ZYModel** framework represents an independent theoretical achievement, developed solely by the author based on first-principles reasoning and personal R&D outside of any specific commercial engagement. No confidential information or proprietary assets of any third party were used in the manifestation of this system.
 
 The conceptual framework defined in this manifesto—specifically the **Logic Unit (LU)** as a fractal topology spanned by the three orthogonal axes: **Push/Pull**, **Time/Space**, and **Provide/Inject**—constitutes the core original expression of the **ZYModel Specification**.
 
@@ -544,25 +574,18 @@ Any functional implementation, derivative work, or architectural subset that ado
 
 ---
 
-## 🎨 Epilogue: From the Origin
-
-> _To make the world be seen anew is already a kind of progress._
-
-I do not claim this framework to be universally complete or entirely correct. Any attempt to reach fundamental truth across such a vast domain will inevitably face limits. LogicUniverse is a multi-year labor of subtraction—a quiet obsession aimed at carving logic down to its most irreducible, topological essence.
-
-Yet its true meaning may lie not in a perfect final explanation, but in offering a **new perspective**: a coordinate system from which to re-examine, re-question, and re-understand every concept we have long taken for granted: **computation, logic, spacetime, mathematics, life, and intelligence.**
-
-Finally, a bit of **bad news**: once the spatial nature of logic is perceived, the world reveals itself as a permanent geometry of existence.
-
-**_There is no going back._**
-
----
-
 _Construct, not write. Architect, not predict. Order over entropy._
 
 ---
 
 ## Release History
+
+### v1.0.0-alpha.15 (2026-03-17)
+
+- **Cognitive Convergence (Epilogue)**: Re-engineered the "From the Origin" section to bridge the five-year R&D journey with the current manifesto, formalizing the transition from a practical visual-flow tool to a universal logic substrate.
+- **Narrative Re-alignment**: Optimized the document's closure by prioritizing the **Epilogue (Intellectual Identity)** over the **Legal (Sovereign Authority)**, achieving a seamless transition from personal obsession to formal logic-purity.
+- **Principle-Proven Declaration**: Formalized the stance that this Manifesto was only committed once the **fundamental principles were proven in code**, ensuring the theory is an emergent result of rigid functional reality.
+- **Semantic Back-Annotation**: Defined the "Final Trial" of documentation, where refined terminological insights discovered during the writing of this manifesto are being **back-annotated** into the LogicIR specification and engine codebases to achieve absolute parity.
 
 ### v1.0.0-alpha.14 (2026-03-16)
 
