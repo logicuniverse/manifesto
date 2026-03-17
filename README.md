@@ -1,6 +1,6 @@
 # LogicUniverse
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.16-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.17-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 
@@ -9,30 +9,30 @@
 **_Logic is not a sequence of instructions, but a spatial topology of existence._**
 
 ```text
-   [ INPUT SOURCES ]              [ CORE FABRIC ]                [ PROJECTION TARGETS ]
-  -------------------            -----------------          -------------------------------
+        [ INPUT SOURCES ]                [ CORE FABRIC ]                [ PROJECTION TARGETS ]
+  -----------------------------         -----------------          -------------------------------
 
-                                                              /--> [ Interpreted ]
-                                                             /     JavaScript
-                                                            /      Python / MicroPython
-                                                           /
-  Visual Composer (IDE)  \                                /------> [ Native Host Runtime ]
-  Manual Coding (DSLs)    \      +---------------+       /         Rust / Go / WASM
-  Programmatic Macros      >---> |    LogicIR™   | ---+-+          C/C++ (Engine)
-  AI Synthesis (Agents)   /      +---------------+    .  \
-                         /               |            .   \------> [ Transpiled ]
-                        /                |            .    \       C/C++ (Bare-metal)
-                       /                 |            .     \
-  [ The Architect's ]                    |            .      \---> [ Synthesized ]
-     [ Intent ]                          |            .            Verilog HDL
-                                 [ The Sovereign ]    .            Schematic / Netlist
-                                     [ Truth ]        .
-                                                      . . . . . .> [ Logical Reality ]
-                                                                   Laws of Nature & Math
-                                                                   Computable Universe
-                                                                   Stable Topology (Life)
+                                                                     /--> [ Interpreted ]
+                                                                    /     JavaScript
+                                                                   /      Python / MicroPython
+                                                                  /
+  LogicIR Composer (Visual IDE) \                                /------> [ Native Host Runtime ]
+  Manual Coding (DSLs)           \      +---------------+       /         Rust / Go / WASM
+  Programmatic Macros             >---> |    LogicIR™   | ---+-+          C/C++ (Engine)
+  AI Synthesis (Agents)          /      +---------------+    .  \
+                                /               |            .   \------> [ Transpiled ]
+                               /                |            .    \       C/C++ (Bare-metal)
+                              /                 |            .     \
+  [ The Architect's ]                           |            .      \---> [ Synthesized ]
+     [ Intent ]                                 |            .            Verilog HDL
+                                        [ The Sovereign ]    .            Schematic / Netlist
+                                            [ Truth ]        .
+                                                             . . . . . .> [ Logical Reality ]
+                                                                          Laws of Nature & Math
+                                                                          Computable Universe
+                                                                          Stable Topology (Life)
 
-                  LogicUniverse™ powered by ZYModel Specification
+                        LogicUniverse™ powered by ZYModel Specification
 ```
 
 _LogicIR is the universal data topology of logic essence, governed by the ZYModel—mapping high-level intent into the deterministic physical reality of any execution environment._
@@ -128,6 +128,10 @@ By ensuring **Dimensional Orthogonality** (isolating X, Y, and Z axes) and **Sca
 
 LogicUniverse does not seek to "solve" these ancient programming dilemmas; it seeks to **eliminate them through geometry**. By re-aligning logical reality with its inherent **tri-axial nature**, we realize that the complexity we once fought was merely a **shadow cast by a one-dimensional cage**. Logic was always meant to be this beautiful.
 
+**The Optical Gap of Logic**
+
+The collapse into 1D text is not merely a syntax constraint, but an observability catastrophe. Logic, in its native tri-axial form, remains invisible within linear code. Because the human brain must expend 80% of its cognitive bandwidth simply to "simulate" a non-existent spatial coordinate system from text, the remaining 20% is insufficient to govern complex systemic recursion. LogicUniverse restores the "Schematic Intuition" of the Electronic Engineer—where position is semantics, and the topology is the source of truth, not its documentation.
+
 ---
 
 ## III. The Execution Plane: The Four Quadrants of Logic
@@ -205,6 +209,9 @@ LogicIR can be generated through multiple pathways:
 - **Manual Assembly:** Human architects designing via visual IDEs or topological DSLs.
 - **Programmatic Generation:** High-level scripts or "Macros" (Standard LUs) that output sub-topologies.
 - **AI Synthesis:** Neural models generating atomic logic coordinates, not volatile text tokens.
+
+> [!TIP]  
+> _**Visual-Logical Isomorphism:** In LogicUniverse, the **LogicIR Composer** is not a "GUI wrapper" for code; it is the primary interface for **Topological Synthesis**. By mapping logic into an interactive **coordinate system**, we enable the observer to perceive the orthogonality of axes (X, Y, Z) through **fractal nesting**—revealing relationships that remain latent and entangled in 1D text. Crucially, the LogicIR fabric remains invariant across its origins—whether manifested via the Composer, synthesized by AI, or unfolded through Macros, all logic converges into a single, deterministic data topology._
 
 Once logic enters the LogicIR state, its origin becomes irrelevant. It exists as a pure, mathematical description—a "Topological Blueprint" ready for deterministic transformation and execution.
 
@@ -394,7 +401,7 @@ The **LogicUniverse** is currently in its active alpha phase, centering its effo
 - **Engine Implementations (Interpreted Targets):**
   - [LogicIR-JS](https://github.com/logicuniverse/LogicIR-JS): **Published** — Official Reference Engine for Web/Cloud.
   - [LogicIR-PY](https://github.com/logicuniverse/LogicIR-PY): **In Active Development** — Targeting AI Agents, Scientific Computing, and MicroPython/Embedded systems.
-- **LogicIR Composor:** Internal development of the coordinate-based design environment, equipped with a design-time algebraic type system for topological synthesis.
+- **LogicIR Composer (Visual IDE):** Internal development of the coordinate-based design environment, equipped with a design-time algebraic type system for topological synthesis.
 - **Native Host Runtime & Orchestration (Planning):**
   - **LogicIR-CPP**: **In Planning** — High-performance native Engine.
   - **LogicIR-WASM**: Portable high-performance runtime for browser and edge.
@@ -584,6 +591,11 @@ _Construct, not write. Architect, not predict. Order over entropy._
 ---
 
 ## Release History
+
+### v1.0.0-alpha.17 (2026-03-17)
+
+- **Cognitive Observability (Section II)**: Formalized the "Schematic Intuition" by defining visibility as a prerequisite for industrial scale—addressing the cognitive bandwidth gap in 1D text.
+- **Visual-Logical Isomorphism (Section V)**: Formalized the LogicIR Composer as a topological synthesis interface—establishing its role as a persistent observer of the tri-axial fabric, universally synchronized across manual, programmatic, and AI-synthesized origins.
 
 ### v1.0.0-alpha.16 (2026-03-17)
 
