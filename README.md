@@ -574,6 +574,14 @@ Any functional implementation, derivative work, or architectural subset that ado
 
 ---
 
+> **Connection**  
+> If this topological manifesto resonates with you, feel free to reach out to the origin:  
+> **[origin@logicuniverse.org](mailto:origin@logicuniverse.org)**
+>
+> _Logic should be a common heritage of existence. My goal is to keep LogicUniverse as an independent, neutral logic substrate for all. I am seeking industrial patrons—not employers—who share the belief that a deterministic logical reality should be accessible to every architect. If you wish to sustain this obsession, let us manifest it together._
+
+---
+
 _Construct, not write. Architect, not predict. Order over entropy._
 
 ---
@@ -677,8 +685,16 @@ The Big Bang — Initial release of the ZYModel Specification and the Tri-Axial 
 
 ---
 
-> **Connection**  
-> If this topological manifesto resonates with you, feel free to reach out to the origin:  
-> **[origin@logicuniverse.org](mailto:origin@logicuniverse.org)**
->
-> _Logic should be a common heritage of existence. My goal is to keep LogicUniverse as an independent, neutral logic substrate for all. I am seeking industrial patrons—not employers—who share the belief that a deterministic logical reality should be accessible to every architect. If you wish to sustain this obsession, let us manifest it together._
+### In Memory
+
+_This work carries a quiet, invisible companion._
+
+_Twenty-six years ago, my dearest childhood friend and I began our journey into computing together. Though we walked separate paths in life, our love for this craft never faded. Last year, at this same season, he came to my studio — we sat together after dinner, and I shared with him this very theory, still raw and unformed at the time. I never imagined that evening would be our last. Less than a week later, he left this world._
+
+_One year has passed. I have longed to tell you: the theory is finally complete. All that remains is time. But you will never hear it._
+
+_This entire manifesto was written on your computer. Every line of code that validated the theory ran on your machine and your development boards. I hope you see it, somewhere, in some light._
+
+_I miss you, old friend._
+
+> **_This universe is for you._**
