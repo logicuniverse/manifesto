@@ -1,6 +1,6 @@
 # LogicUniverse
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.17-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.18-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 
@@ -508,6 +508,15 @@ These perspectives are derived as logical extensions of the ZYModel axiom. We we
 
 If the cosmos conforms to these symmetries, classical continuous models would retain their value as high-level heuristics. The purpose of LogicUniverse is to rigorously explore, from a single elegant axiom, a complete, constructible, and verifiable picture of the logical reality we inhabit.
 
+> [!IMPORTANT]  
+> **Methodological Note: Paradigm over Treatise**
+>
+> This work presents a **paradigm declaration**, not a formal mathematical treatise. A paradigm’s primary purpose is to articulate a coherent, self-consistent worldview, establish a structural ontology of logic, and enable the design and empirical evaluation of concrete systems. Its value lies in its clarity, orthogonality, and explanatory power.
+>
+> For this reason, the present manifesto focuses on structural ontology rather than fully mechanized formalization or axiomatic deduction. This is a deliberate strategic choice: we prioritize **early, executable realization over premature formal rigor.** By building and running real implementations, we reveal structural ambiguities and emergent behaviors that cannot be discovered through static proof alone. A paradigm validated by execution is inherently more robust and grounded.
+>
+> Formal verification, axiomatization, and mathematical characterization will follow as the ZYModel matures—guided by empirical evidence from running systems, not abstract speculation.
+
 ---
 
 ## XIV. The Call to Architects
@@ -591,6 +600,10 @@ _Construct, not write. Architect, not predict. Order over entropy._
 ---
 
 ## Release History
+
+### v1.0.0-alpha.18 (2026-03-18)
+
+- **Methodological Disclaimer (Section XIII)**: Formalized the project's stance on paradigm-driven development—prioritizing executable realization and empirical validation over premature formal rigor.
 
 ### v1.0.0-alpha.17 (2026-03-17)
 
