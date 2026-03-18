@@ -602,6 +602,15 @@ _Construct, not write. Architect, not predict. Order over entropy._
 
 ## Release History
 
+> [!NOTE]  
+> **A Living Record of the Relentless Crawl**
+>
+> This Alpha history is presented not as a polished conclusion, but as the jagged, imperfect record of a theory converging toward stability. Every version represents a forced synchronization between raw, proven code and the struggle to formalize its logical essence into language.
+>
+> To the next generation of architects: Let this record prove that there are no gods in this industry, only the **relentless, step-by-step crawl toward truth.** We prioritize the courage to be real over the illusion of being perfect.
+>
+> _**Real over Perfect.**_
+
 ### v1.0.0-alpha.18 (2026-03-18)
 
 - **Methodological Sovereignty (Section XIII)**: Formally established the "Paradigm over Treatise" mandate—prioritizing structural viability and executable realization over premature formal rigor.
