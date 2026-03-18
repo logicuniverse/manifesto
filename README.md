@@ -39,7 +39,7 @@ _LogicIR is the universal data topology of logic essence, governed by the ZYMode
 
 ## I. The Topology of Logic: The Prime Axiom
 
-The universe of logic is defined by a three-dimensional coordinate system. Every **Logic Unit (LU)**, regardless of its scale, exists within this orthogonal space, where each axis represents a pure, independent dimension of logical reality, governed by its own internal duality:
+The universe of logic is defined by a three-dimensional coordinate system. Every **Logic Unit (LU)**, regardless of its scale, exists within this orthogonal space, where each axis represents a pure, independent dimension of **Logical Reality**, governed by its own internal duality:
 
 > ### **The Prime Axiom**
 >
@@ -105,8 +105,7 @@ The fundamental crisis of modern software engineering is a **dimensional collaps
 - **The Nominal Burden:** The classic computer science struggle of "naming things" is a symptom of 1D linear constraints. In a text-based stream, we invent variable names to bridge the gap between non-local fragments. Within a **LogicUniverse**, identity is defined by **Connection and Coordinate Proximity**. Like a high-fidelity circuit diagram, logic exists through nets—physical or virtual conduction paths between coordinates. Logic does not require a "name" to function; it only requires position and parity. We have spent decades naming "variables" that should have simply been "nets" connecting points in space.
 - **The Meta-Programming Illusion:** Traditional macros and meta-programming are fragile 1D text-manipulation hacks, often requiring a separate, opaque "meta-language." In **LogicUniverse**, there is no structural difference between "compile-time" and "run-time" logic. A **Macro** is simply a Standard Logic Unit executed during the **Transformation Pipeline** to resolve invariants and structural constants. By reusing the same LU protocol across different pipeline stages, we achieve massive, seamless logic reuse without the cognitive tax of traditional macros.
 - **The Side-Effect Paradox:** Modern paradigms either treat side effects as a chaotic nuisance or hide them behind complex, opaque abstractions. In **LogicUniverse**, side effects are stripped of their "accidental" nature. They are strictly channeled and governed through the **Z-Axis (Provide/Inject)**. By declaratively defining the vertical boundaries of these conduits, we isolate the **Execution Plane (X/Y)** from unintended ripples, transforming side effects into observable, intentional logic injections.
-- **The Distributed Illusion:** Traditional systems treat "distributed" as a complex layer of networking and synchronization. From a topological perspective, a distributed system can be conceptualized as a single Logic Unit physically split across locations. Given the X-Axis is designed for Pure Data, distribution need not be treated as an add-on feature—it can instead be viewed as a natural shape of a topology whose parts are not co-located. Distribution is not a layer; it is a Topological Slice of the axes manifested across physical boundaries.
-
+- **The Distributed Illusion:** Traditional systems treat "distributed" as a complex layer of networking and synchronization. From a topological perspective, a distributed system can be conceptualized as a single Logic Unit physically split across locations. Given the X-Axis is designed for Pure Data, distribution need not be treated as an add-on feature—it can instead be viewed as a natural shape of a topology whose parts are not co-located. Distribution is not a layer; it is a **Topological Slice** of the axes manifested across physical boundaries.
 - **The Observability Crisis:** Debugging in 1D text relies on lossy logs or intrusive breakpoints. In the **LogicUniverse**, observability is not a feature, but a geometric property. Each **Logic Unit** is a deterministic, pulse-governed entity. Every data exchange on the **X/Y Plane** is captured as a discrete structural event, rendering traditional "logging" obsolete. The runtime is, by design, a **Native Logic Analyzer**, recording every topological transition for perfect time-traveling reconstruction at zero observer overhead.
 
 **The Unified Field: Existing Paradigms as Projections**
@@ -170,9 +169,9 @@ In the **LogicUniverse**, logic essence is organized into **Services**—soverei
 An **Abstract Logic Unit Template (Abstract LUT)** is the formal definition of a logic requirement within a host LU. Crucially, these templates are not empty "voids"—they manifest as **LUI Sets** at their designated **Geometric Coordinates** upon the host’s creation.
 
 - **Coordinate Pre-Allocation:** At the moment of an LU's inception, its Abstract LUTs exist as manifested entities on the Execution Plane. They define the _where_ and _when_ (X/Y) of a logic's behavior, while their _what_ (Z) remains a geometric variable.
-- **Topological Inversion (Fulfillment):** The host LU does not "invoke" logic. Instead, it maintains a **Topological Slot** that expects essence. This fulfillment is bi-directional and policy-driven:
-  - **Internal Provide (+Z):** A **Sub-LU Closure** can fulfill the coordinate, acting as the **Innate Essence**.
-  - **External Inject (-Z):** An **Injected Service (sourced from the external environment or parent LU)** can fulfill the coordinate, acting as the **Exogenous Essence**.
+- **Topological Inversion (Fulfillment):** The host LU does not "invoke" logic. Instead, it maintains a **Topological Slot** (the fundamental 'Logic Slot' of the ZYModel) that expects essence. This fulfillment is bi-directional and policy-driven:
+  - **Internal Provide (+Z):** An innate **Sub-LU Closure Set** fulfills the coordinate, serving as the **Innate Essence**.
+  - **External Inject (-Z):** An exogenous **LUI Set** (the manifestation of an **injected Service**) can fulfill the coordinate, acting as the **Exogenous Essence**.
 - **Sovereignty Selection (Shadowing):** The Z-Axis allows for **Bi-directional Shadowing**. The final manifested logic is a result of **Topological Occupancy Priority**, governed by the system's sovereignty policy:
   - **Exogenous Dominance (Injection):** The External Inject overrides the Internal Provide (Standard Dependency Injection).
   - **Innate Dominance (Hard-coding):** The Internal Provide guards against and rejects external injection, ensuring local architectural integrity.
@@ -383,7 +382,7 @@ Logic is not a static artifact but a self-optimizing organism. In our universe, 
   The survival of logic structures. At this ultimate stage, logic transcends programmed instructions to undergo a continuous process of **Topological Selection**.
   - **Mutation**: New logic topologies emerge spontaneously from unexpected data pressures or environmental noise.
   - **Selection**: Mutations are subjected to "fitness tests" within the discrete spacetime environment. Only structures that optimize execution efficiency or sustain topological stability (Life) are retained and propagated.
-  - **Result**: Through the cycle of mutation and selection, we speculate logic could potentially evolve toward higher-order intelligence and autonomous logical reality. From this topological perspective, intelligence might not be a purely engineered algorithm, but a plausible outcome of logic sustaining its own dynamics over time.
+  - **Result**: Through the cycle of mutation and selection, we posit that logic may evolve toward higher-order intelligence and autonomous **Logical Reality**. From this topological perspective, intelligence might not be a purely engineered algorithm, but a plausible outcome of logic sustaining its own dynamics over time.
 
 ---
 
@@ -506,7 +505,7 @@ Based on the orthogonality of the three axes and the requirement for finite, con
 
 These perspectives are derived as logical extensions of the ZYModel axiom. We welcome verification, refinement, or refutation through code implementations, experimental data, and theoretical discourse.
 
-If the cosmos conforms to these symmetries, classical continuous models would retain their value as high-level heuristics. The purpose of LogicUniverse is to rigorously explore, from a single elegant axiom, a complete, constructible, and verifiable picture of the logical reality we inhabit.
+If the cosmos conforms to these symmetries, classical continuous models would retain their value as high-level heuristics. The purpose of LogicUniverse is to rigorously explore, from a single elegant axiom, a complete, constructible, and verifiable picture of the **Logical Reality** we inhabit.
 
 > [!IMPORTANT]  
 > **Methodological Note: Paradigm over Treatise**
@@ -605,9 +604,10 @@ _Construct, not write. Architect, not predict. Order over entropy._
 
 ### v1.0.0-alpha.18 (2026-03-18)
 
-- **Methodological Sovereign (Section XIII)**: Formally established the "Paradigm over Treatise" mandate—prioritizing structural viability and executable realization over premature formal rigor.
+- **Methodological Sovereignty (Section XIII)**: Formally established the "Paradigm over Treatise" mandate—prioritizing structural viability and executable realization over premature formal rigor.
 - **Semantic Calibration**: Refined core terminology across the manifesto—introducing "Logic-as-Data" standards, re-characterizing the von Neumann Bottleneck as a conflation of logic and sequence, and anchoring AI synthesis within the "topological physics of causality."
 - **Quantum & Complexity Nuance (Section XII & XIII)**: Recalibrated speculative claims into structural analogies and exploratory perspectives, ensuring a balance between bold theoretical vision and academic rigor.
+- **Axiomatic Terminology & Symmetry (Section IV)**: Standardized the Z-axis fulfillment protocol through the formalization of the "Topological Slot," ensuring clear cardinality mapping between "Sub-LU Closure Sets" and manifested "LUI Sets" (the product of injected Services).
 
 ### v1.0.0-alpha.17 (2026-03-17)
 
