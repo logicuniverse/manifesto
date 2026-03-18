@@ -511,9 +511,11 @@ If the cosmos conforms to these symmetries, classical continuous models would re
 > [!IMPORTANT]  
 > **Methodological Note: Paradigm over Treatise**
 >
-> This work presents a **paradigm declaration**, not a formal mathematical treatise. A paradigm’s primary purpose is to articulate a coherent, self-consistent worldview, establish a structural ontology of logic, and enable the design and empirical evaluation of concrete systems. Its value lies in its clarity, orthogonality, and explanatory power.
+> This work presents a **paradigm declaration**, not a formal mathematical treatise. The purpose of a paradigm is to articulate a coherent, self-consistent worldview, establish a structural ontology of logic, and enable the design, implementation, and empirical evaluation of concrete systems. Its value lies in clarity, orthogonality, explanatory power, and realizability.
 >
-> For this reason, the present manifesto focuses on structural ontology rather than fully mechanized formalization or axiomatic deduction. This is a deliberate strategic choice: we prioritize **early, executable realization over premature formal rigor.** By building and running real implementations, we reveal structural ambiguities and emergent behaviors that cannot be discovered through static proof alone. A paradigm validated by execution is inherently more robust and grounded.
+> **The ultimate measure of a logical topology is its capacity to sustain and scale complex intent without structural collapse. We prioritize structural viability over symbolic perfection.**
+>
+> For this reason, this manifesto centers on structural ontology, not fully mechanized formalization or axiomatic deduction. This is a deliberate strategic choice: we prioritize **early, executable realization over premature formal rigor.** By building and running real systems, we uncover structural ambiguities, emergent constraints, and practical limitations that cannot be revealed through static proof alone. A paradigm validated by execution is inherently more robust and grounded.
 >
 > Formal verification, axiomatization, and mathematical characterization will follow as the ZYModel matures—guided by empirical evidence from running systems, not abstract speculation.
 
@@ -603,7 +605,7 @@ _Construct, not write. Architect, not predict. Order over entropy._
 
 ### v1.0.0-alpha.18 (2026-03-18)
 
-- **Methodological Disclaimer (Section XIII)**: Formalized the project's stance on paradigm-driven development—prioritizing executable realization and empirical validation over premature formal rigor.
+- **Methodology & Priority (Section XIII)**: Established the "Paradigm over Treatise" stance, formally prioritizing "Structural Viability over Symbolic Perfection" as the definitive metric for evaluating the tri-axial model's success.
 
 ### v1.0.0-alpha.17 (2026-03-17)
 
