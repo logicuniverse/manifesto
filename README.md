@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 
-### Beyond the Tape: A Tri-Axial Fractal Topology for Deterministic Logic as Data
+### Beyond the Tape: A Tri-Axial Fractal Topology for Deterministic Logic-as-Data
 
 **_Logic is not a sequence of instructions, but a spatial topology of existence._**
 
@@ -45,7 +45,7 @@ The universe of logic is defined by a three-dimensional coordinate system. Every
 >
 > **A Logic Unit (LU) is a fractal topology spanned by three orthogonal axes: Push/Pull (X), Time/Space (Y), and Provide/Inject (Z).**
 
-Every Logic Unit, regardless of its scale—from a sub-atomic NAND gate to a macro-scale clearing system—exists at the intersection of these three pure, independent dimensions:
+Every Logic Unit, regardless of scale—from a sub-atomic NAND gate to a macro-scale system—exists at the intersection of these three pure, independent dimensions:
 
 **The Universal Coordinate System**
 
@@ -98,7 +98,7 @@ For the sake of technical brevity, this tri-axial framework is formally designat
 
 The fundamental crisis of modern software engineering is a **dimensional collapse**. For decades, we have been confined to the **Turing Tape**—a one-dimensional instruction stream (1D). This linear constraint, further calcified by the **von Neumann Architecture**, forces a complex, multi-dimensional logic topology to be flattened into a fragile string of hex and text.
 
-- **The von Neumann Bottleneck of Logic:** While the von Neumann architecture separated CPU from Memory, it inadvertently unified **Logic** with **Sequence**. By forcing logic to exist only as a series of instructions fetched from a linear heap, we lost the ability to express the concurrent, multi-axial nature of logical reality.
+- **The von Neumann Bottleneck of Logic:** While the von Neumann architecture separated CPU from Memory, it conflated **Logic** with **Sequence**. By forcing logic to exist only as a series of instructions fetched from a linear heap, we lost the ability to express the concurrent, multi-axial nature of logical reality.
 - **The Entanglement of Axes:** In a non-orthogonal 1D space, every action is a composite vector. "Calling a function" is a tangled mess: it simultaneously triggers execution (Y), defines a synchronization step (X), and resolves a logic source (Z). Because these dimensions are not independent, changing any aspect of a logic's behavior inevitably ripples through others, leading to "hidden coupling."
 - **The Fragility of Mutation:** In a continuous stream, every character is critical. A single typo or misplaced semicolon can mutate the entire sequence downstream. This **"Linear Text Gap"** is the primary barrier to both human maintainability and autonomous machine reasoning.
 - **The Context Overflow:** Because traditional code is flat and non-local, an observer must ingest the entire "tape" to reconstruct the intended topology. This leads to the inevitable exhaustion of context windows and cognitive capacity as systems scale.
@@ -145,7 +145,7 @@ By mapping these two orthogonal dimensions, we define the four fundamental arche
 
 - **Stateful LU (+X, +Y):** Persistent **Temporal** existence. It evolves across time (+Y) and actively subscribes to external Push signals (+X). It is a proactive entity within the topology that drives its internal state evolution through asynchronous triggers.
 
-- **Composable LU (+X, -Y):** Proactive **Spatial** scaffold. It reacts to Push signals (+X) to trigger its mapping logic but maintains no temporal persistence (-Y). It acts as an immediate reactive relay, coordinating and transforming data across the topology without anchoring it in time.
+- **Composable LU (+X, -Y):** Proactive **Spatial** scaffold. It reacts to Push signals (+X) to trigger its mapping logic but maintains no temporal persistence (-Y). It acts as an immediate reactive relay: coordinating, transforming data across the topology, without temporal anchoring.
 
 **The Operational Landscape**
 The Execution Plane provides the "flesh" of logic. Every LUI occupies a definitive territory within these four quadrants, determining how it reconciles data at its boundary and how it persists in the operational realm. This plane defines the totality of a system's **behavioral footprint**.
@@ -162,7 +162,7 @@ While the **Execution Plane (X/Y)** defines the behavioral footprint of a system
 
 In the **LogicUniverse**, logic essence is organized into **Services**—sovereign **sets of LUs** representing a functional domain. When a Service is projected through the Z-Axis, its manifestation is an **LUI Set**.
 
-- **The Multiplicity of Existence:** Whether a Service manifests as a single atomic instance or as an elastic set of multiple instances is a property defined by the Service itself. The Z-Axis remains agnostic to this multiplicity, focusing entirely on the integrity of the logic essence being transferred.
+- **The Multiplicity of Existence:** Whether a Service manifests as a single atomic instance or an elastic set of instances is a property defined by the Service itself. The Z-Axis remains agnostic to this multiplicity, focusing entirely on the integrity of the logic essence being transferred.
 - **Topological Autonomy:** A Service is the sovereign unit of exchange. Its internal complexity and execution policies remain encapsulated, allowing it to function as a unified entity within the host's coordinate.
 
 **Abstract LUTs: Sovereign Fulfillment via Topology**
@@ -186,7 +186,7 @@ An **Abstract Logic Unit Template (Abstract LUT)** is the formal definition of a
 - **Perspective Symmetry:** Inherently, **Provide (+Z)** and **Inject (-Z)** are the same physical phenomenon viewed from opposite sides of the Execution Plane. What the parent LU "Provides" (+Z) is experienced by the child LU as an "Injection" (-Z).
 - **Inject (-Z):** From the host's perspective, the Z-Axis is a **Sink**, allowing external essence to pierce through its coordinates and substitute or fulfill its topology.
 - **Provide (+Z):** From the logic essence's perspective, the Z-Axis is a **Source**, allowing it to project its sovereignty (either internally from a Sub-LU or externally from a Service) to fulfill an Abstract LUT.
-- **Coordinate Transformation:** Coupling logic is reframed as a transformation of the Z-coordinate. By substituting the Z-Axis source, the observer changes the "What" (Essence) while maintaining the absolute structural and temporal determinacy of the "How/When" (X/Y).
+- **Coordinate Transformation:** Logical coupling is reframed as a transformation of the Z-coordinate. By substituting the Z-Axis source, the observer changes the "What" (Essence) while maintaining the absolute structural and temporal determinacy of the "How/When" (X/Y).
 
 **The Sovereignty of Logic**
 
@@ -213,7 +213,7 @@ LogicIR can be generated through multiple pathways:
 > [!TIP]  
 > _**Visual-Logical Isomorphism:** In LogicUniverse, the **LogicIR Composer** is not a "GUI wrapper" for code; it is the primary interface for **Topological Synthesis**. By mapping logic into an interactive **coordinate system**, we enable the observer to perceive the orthogonality of axes (X, Y, Z) through **fractal nesting**—revealing relationships that remain latent and entangled in 1D text. Crucially, the LogicIR fabric remains invariant across its origins—whether manifested via the Composer, synthesized by AI, or unfolded through Macros, all logic converges into a single, deterministic data topology._
 
-Once logic enters the LogicIR state, its origin becomes irrelevant. It exists as a pure, mathematical description—a "Topological Blueprint" ready for deterministic transformation and execution.
+Once logic is encapsulated in LogicIR, its origin becomes irrelevant. It exists as a pure, mathematical description: a topological blueprint, ready for deterministic transformation and execution.
 
 **Structure & Semantics**
 
@@ -267,7 +267,7 @@ The data-centric nature of LogicIR transforms Quality Assurance from "writing te
 Execution is the act of **Projecting** LogicIR onto a physical or virtual medium. Because LogicIR contains the totality of logical intent, it offers three primary modes of manifestation:
 
 - **Native Interpretation:** LogicIR can be directly interpreted by a LogicIR-compliant engine. The exact same logic topology remains invariant whether it is projected onto **JavaScript** (Web/Cloud), **Python** (Scientific Computing), or **MicroPython** (Embedded Systems). The engine simply "renders" the universal logic fabric in real-time within the host environment.
-- **Universal Compilation & Transpilation:** Because LogicIR is a complete, original description of logic, it serves as a "Master Source." It can be deterministically compiled into high-performance binary executables or transpiled into source code for any traditional language (C, Rust, Go, etc.), preserving the structural integrity of the topology while optimizing for specific platform constraints. Unlike 1D code with unpredictable heap allocations, LogicIR’s closed-world topology enables the compiler to more accurately calculate the memory lifecycle of every Net and State. This holds the potential for Zero-GC (Garbage Collection) execution, precise stack allocation, and static buffer reuse, with early explorations suggesting it could deliver higher performance and lower resource footprints than manually optimized traditional code in specific high-density logic scenarios.
+- **Universal Compilation & Transpilation:** Because LogicIR is a complete, original description of logic, it serves as a "Master Source." It can be deterministically compiled into high-performance binary executables or transpiled into source code for any traditional language (C, Rust, Go, etc.), preserving the structural integrity of the topology while optimizing for specific platform constraints. Unlike 1D code, which relies on unpredictable heap allocation, LogicIR’s closed-world topology enables the compiler to more accurately calculate the memory lifecycle of every Net and State. This holds the potential for Zero-GC (Garbage Collection) execution, precise stack allocation, and static buffer reuse, with early explorations suggesting it could deliver higher performance and lower resource footprints than manually optimized traditional code in specific high-density logic scenarios.
 - **Hardware Synthesis (FPGA/ASIC):** Beyond software, LogicIR’s netlist-based architecture allows it to describe hardware logic directly. This enables the same universal logic tools to be used for designing both software systems and physical hardware circuits, providing a unified design language for **FPGA** and **ASIC** development.
 
 In this paradigm, there is no "Binary" in the traditional, lossy sense—only the **deterministic projection** of LogicIR into a specific execution environment.
@@ -283,14 +283,14 @@ In this paradigm, there is no "Binary" in the traditional, lossy sense—only th
 
 ## VI. Distributed Manifestation: Axial Slicing & Projection
 
-In the **LogicUniverse**, a distributed system is not an additional architectural layer or a network engineering problem; it is a **Topological Slice** of a unified LogicIR. Distribution is the operational act of partitioning a macro-topology across physical boundaries by projecting internal Nets into boundary interfaces.
+In the **LogicUniverse**, a distributed system is not an additional architectural layer or a network engineering problem; it is a **Topological Slice** of a unified LogicIR. Distribution is the operational act of partitioning a macro-topology across physical boundaries by projecting internal nets into boundary interfaces.
 
 **Spatial Distribution: Partitioning across Nodes**
 
 Spatial distribution occurs when a macro-LU is split across different physical environments (processes, containers, or hardware nodes). This is achieved through a **Spatial Cut** of the topology:
 
 - **Automatic Interface Projection:** Any internal Net that crosses the physical boundary is automatically transformed into a pair of **Push-based (+X) Ports**: an **Emit** port on the source slice and a **Subscribe** port on the target slice.
-- **Spatial-Blind Logic:** The logic inside each slice remains entirely unaware of the physical separation. It interacts with these projected ports as if they were local, continuous Nets, ensuring that the logic remains invariant regardless of the deployment scale.
+- **Spatial-Blind Logic:** The logic inside each slice remains entirely unaware of the physical separation. It interacts with these projected ports as if they were local, continuous nets, ensuring that the logic remains invariant regardless of the deployment scale.
 
 **Temporal Distribution: Partitioning across Time**
 
@@ -340,7 +340,7 @@ As a **Reactive Intelligence Node**, AI is integrated directly into the **Execut
 The ultimate evolution is the development of models trained directly on the **LogicIR** fabric.
 
 - **Cross-Axial Optimization:** AI can detect structural inefficiencies by analyzing the convergence of Data (X) and Time (Y) across the Z-axis. It identifies "Topological Deadlocks" or "Logic Gaps" invisible in 1D code but manifest as geometric anomalies in the LogicIR.
-- **From Syntax to Causality:** By training on structured logic transformations, AI begins to perceive the **Latent Space of Geometry**. It learns to predict the next **Topological Operator** instead of the next character, effectively mastering the **Physics of Causality**.
+- **From Syntax to Causality:** By training on structured logic transformations, AI begins to perceive the **Latent Space of Geometry**. It learns to predict the next **Topological Operator** instead of the next character, effectively mastering the topological physics of causality.
 - **The Universal Logic Metric:** Using the **Algebraic Type System** as a loss function, AI-generated logic is formally verified during inference. This ensures every "thought" is topologically valid and dimensionally consistent, making the **LogicUniverse** the first truly verifiable foundation for autonomous machine reasoning.
 
 **_AI is not the dreamer of tokens, but the navigator of the topological grid. From syntax, we derive causality; from topology, we manifest intelligence._**
@@ -363,7 +363,7 @@ A standard Logic Unit can be channeled back into 1D environments through two pri
 
 - **The Native Interpreter:** By integrating this engine as a lightweight dependency, legacy ecosystems can natively interpret **LogicIR**. This allows existing platforms to dynamically load and execute topologies, enabling incremental migration and the injection of deterministic logic into brownfield projects.
 
-This is the inherent compatibility and systemic power of a high-dimensional topology over a collapsed one-dimensional world.
+This is the inherent compatibility and expressive power of a high-dimensional topology over a collapsed one-dimensional world.
 
 **_We do not replace history; we provide it with a coordinate system._**
 
@@ -383,7 +383,7 @@ Logic is not a static artifact but a self-optimizing organism. In our universe, 
   The survival of logic structures. At this ultimate stage, logic transcends programmed instructions to undergo a continuous process of **Topological Selection**.
   - **Mutation**: New logic topologies emerge spontaneously from unexpected data pressures or environmental noise.
   - **Selection**: Mutations are subjected to "fitness tests" within the discrete spacetime environment. Only structures that optimize execution efficiency or sustain topological stability (Life) are retained and propagated.
-  - **Result**: Through the cycle of mutation and selection, we speculate logic could potentially evolve toward **Higher-Order Intelligence** and autonomous logical reality. From this topological perspective, intelligence might not be a purely engineered algorithm, but a plausible outcome of logic sustaining its own dynamics over time.
+  - **Result**: Through the cycle of mutation and selection, we speculate logic could potentially evolve toward higher-order intelligence and autonomous logical reality. From this topological perspective, intelligence might not be a purely engineered algorithm, but a plausible outcome of logic sustaining its own dynamics over time.
 
 ---
 
@@ -391,7 +391,7 @@ Logic is not a static artifact but a self-optimizing organism. In our universe, 
 
 > [!IMPORTANT]  
 > **Experimental Nature & Paradigm Shift**  
-> LogicUniverse is currently a high-dimensional prototype designed to validate a radical paradigm shift in the ontology of logic. We are focused on the **0-1 jump**: proving that a tri-axial fractal topology can govern deterministic logic across disparate domains.  
+> LogicUniverse is currently a high-dimensional prototype designed to validate a radical paradigm shift in the ontology of logic. We are focused on the **0-to-1 jump**: proving that a tri-axial fractal topology can govern deterministic logic across disparate domains.  
 > **This is not a production-ready product.** During this alpha phase, we prioritize **innovation over convention** and **development velocity over rigid standardization**. We provide no guarantees of stability, API persistence, or fitness for any particular purpose as we iterate through this multi-axial upgrade.
 
 The **LogicUniverse** is currently in its active alpha phase, centering its efforts on the **Logic Geometry** stage of the roadmap—the formalization of static topological assembly.
@@ -457,7 +457,7 @@ In crafting this **Tri-axial Fractal Topology**, we move beyond modern programmi
 - **Newton (The X-Axis of Force):** Classical mechanics and the dynamics of action/reaction inspired the **Push/Pull** duality. Data is treated as a dynamic force interacting across boundaries.
 - **Einstein (The Y-Axis of Spacetime):** Relativity’s unification of time and space informed the **Temporal/Spatial** axis—treating stateful evolution and stateless mapping as two observers of the same continuum.
 - **Maxwell (The Execution Plane):** Just as Maxwell's equations unified electricity and magnetism, this **four-quadrant geometry** maps disparate logical behaviors into a single, unified operational surface.
-- **Quantum Mechanics (The Z-Axis of Essence):** While Quantum Entanglement remains one of the most elusive mysteries in physics, it provided a profound structural inspiration for this model. In traditional software engineering, the "Distributed State Problem" is often treated as a synchronization struggle over a 1D tape. By observing how entangled particles maintain unity without direct connectivity, we drew a structural analogy: such "spooky" correlations could be understood as vertical projections of a single, higher-dimensional entity. This intuition informed the design of the **Z-Axis**—a dimension fundamentally independent of the execution plane (X-Y). We do not claim to solve the mystery of physical entanglement; instead, we apply its logical signature to solve **Shared Essence** in digital systems. In this architecture, distant **LUIs** on the execution plane do not "synchronize"—they are simply multi-point manifestations of the same Sovereign Essence piercing through the Z-Axis. Entanglement is redefined here not as an effect of data transmission, but as a manifestation of **High-Dimensional Unity**.
+- **Quantum Mechanics (The Z-Axis of Essence):** While Quantum Entanglement remains one of the most elusive mysteries in physics, it provided a profound structural inspiration for this model. In traditional software engineering, the "Distributed State Problem" is often treated as a synchronization struggle over a 1D tape. By observing how entangled particles maintain unity without direct connectivity, we drew a structural analogy: such "spooky" correlations could be understood as vertical projections of a single, higher-dimensional entity. This intuition informed the design of the **Z-Axis**—a dimension fundamentally independent of the execution plane (X-Y). We do not claim to solve physical entanglement; we draw structural inspiration from it to model shared essence in digital systems. In this architecture, distant **LUIs** on the execution plane do not "synchronize"—they are simply multi-point manifestations of the same Sovereign Essence piercing through the Z-Axis. Entanglement is redefined here not as an effect of data transmission, but as a manifestation of **High-Dimensional Unity**.
 
 **The Universal Symmetry:** Ultimately, the **ZYModel** is not merely an abstraction for software; it is a **Topological Reconstruction of Physical Causality**. By aligning logical operations with the same tri-axial symmetries found in nature, we bridge the gap between the bit-level deterministic logic of machines and the invariant laws of the physical cosmos.
 
@@ -605,7 +605,9 @@ _Construct, not write. Architect, not predict. Order over entropy._
 
 ### v1.0.0-alpha.18 (2026-03-18)
 
-- **Methodology & Priority (Section XIII)**: Established the "Paradigm over Treatise" stance, formally prioritizing "Structural Viability over Symbolic Perfection" as the definitive metric for evaluating the tri-axial model's success.
+- **Methodological Sovereign (Section XIII)**: Formally established the "Paradigm over Treatise" mandate—prioritizing structural viability and executable realization over premature formal rigor.
+- **Semantic Calibration**: Refined core terminology across the manifesto—introducing "Logic-as-Data" standards, re-characterizing the von Neumann Bottleneck as a conflation of logic and sequence, and anchoring AI synthesis within the "topological physics of causality."
+- **Quantum & Complexity Nuance (Section XII & XIII)**: Recalibrated speculative claims into structural analogies and exploratory perspectives, ensuring a balance between bold theoretical vision and academic rigor.
 
 ### v1.0.0-alpha.17 (2026-03-17)
 
