@@ -1,6 +1,6 @@
 # LogicUniverse
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.19-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.20-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 
@@ -32,7 +32,7 @@
                                                                           Computable Universe
                                                                           Topological Life
 
-                        LogicUniverse™ powered by ZYModel Specification
+                        LogicUniverse™ powered by ZYModel™ Specification
 ```
 
 _LogicIR is the universal data topology of logic essence, governed by the ZYModel—mapping high-level intent into the deterministic physical reality of any execution environment._
@@ -45,7 +45,7 @@ The universe of logic is defined by a three-dimensional coordinate system. Every
 >
 > **A Logic Unit (LU) is a fractal topology spanned by three orthogonal axes: Push/Pull (X), Time/Space (Y), and Provide/Inject (Z).**
 
-Every Logic Unit, regardless of scale—from a sub-atomic NAND gate to a macro-scale system—exists at the intersection of these three pure, independent dimensions:
+Every Logic Unit, regardless of scale—from a subatomic NAND gate to a macro-scale system—resides at the intersection of these three pure, independent dimensions:
 
 **The Universal Coordinate System**
 
@@ -73,7 +73,7 @@ _Interaction (X) synchronizes reality, Manifestation (Y) anchors existence, and 
 
 - **X-Axis (Interaction: Push/Pull):** The domain of **Pure Data**. It defines the reconciliation mechanism between **Internal and External states** at the boundary of the LU—the duality between **Asynchronous Reactive Logic** (+X: _Push: Emit/Subscribe_) and **Synchronous Latching Logic** (-X: _Pull: Sample/Latch_).
 - **Y-Axis (Manifestation: Time/Space):** The domain of **Existence**. It defines the operational reality—the duality between **Temporal Governance** (+Y: _Time: Stateful evolution_) and **Spatial Mapping** (-Y: _Space: Stateless transformation_).
-- **Z-Axis (Sovereignty:Provide/Inject):** The domain of **Logic Essence**. It acts as the vertical conduit for the bi-directional exchange of sovereign logic—piercing physically orthogonal to the **Execution Plane (formed by the X and Y axes)** to serve as both the Source (+Z: _Provide: Source of essence_) and the Sink (-Z: _Inject: Filling of slots_).
+- **Z-Axis (Sovereignty:Provide/Inject):** The domain of **Logic Essence**. It acts as the vertical conduit for the bi-directional exchange of sovereign logic—piercing orthogonal through the **Execution Plane (formed by the X and Y axes)**, acting as both the Source (+Z: _Provide: Source of essence_) and the Sink (-Z: _Inject: Filling of slots_).
 
 **The Principle of Fractality**
 
@@ -101,16 +101,16 @@ The fundamental crisis of modern software engineering is a **dimensional collaps
 - **The von Neumann Bottleneck of Logic:** While the von Neumann architecture separated CPU from Memory, it conflated **Logic** with **Sequence**. By forcing logic to exist only as a series of instructions fetched from a linear heap, we lost the ability to express the concurrent, multi-axial nature of logical reality.
 - **The Entanglement of Axes:** In a non-orthogonal 1D space, every action is a composite vector. "Calling a function" is a tangled mess: it simultaneously triggers execution (Y), defines a synchronization step (X), and resolves a logic source (Z). Because these dimensions are not independent, changing any aspect of a logic's behavior inevitably ripples through others, leading to "hidden coupling."
 - **The Fragility of Mutation:** In a continuous stream, every character is critical. A single typo or misplaced semicolon can mutate the entire sequence downstream. This **"Linear Text Gap"** is the primary barrier to both human maintainability and autonomous machine reasoning.
-- **The Context Overflow:** Because traditional code is flat and non-local, an observer must ingest the entire "tape" to reconstruct the intended topology. This leads to the inevitable exhaustion of context windows and cognitive capacity as systems scale.
+- **The Context Overflow:** Because traditional code is flat and non-local, an observer must parse the entire "tape" to reconstruct the intended topology. This leads to the inevitable exhaustion of context windows and cognitive capacity as systems scale.
 - **The Nominal Burden:** The classic computer science struggle of "naming things" is a symptom of 1D linear constraints. In a text-based stream, we invent variable names to bridge the gap between non-local fragments. Within a **LogicUniverse**, identity is defined by **Connection and Coordinate Proximity**. Like a high-fidelity circuit diagram, logic exists through nets—physical or virtual conduction paths between coordinates. Logic does not require a "name" to function; it only requires position and parity. We have spent decades naming "variables" that should have simply been "nets" connecting points in space.
 - **The Meta-Programming Illusion:** Traditional macros and meta-programming are fragile 1D text-manipulation hacks, often requiring a separate, opaque "meta-language." In **LogicUniverse**, there is no structural difference between "compile-time" and "run-time" logic. A **Macro** is simply a Standard Logic Unit executed during the **Transformation Pipeline** to resolve invariants and structural constants. By reusing the same LU protocol across different pipeline stages, we achieve massive, seamless logic reuse without the cognitive tax of traditional macros.
 - **The Side-Effect Paradox:** Modern paradigms either treat side effects as a chaotic nuisance or hide them behind complex, opaque abstractions. In **LogicUniverse**, side effects are stripped of their "accidental" nature. They are strictly channeled and governed through the **Z-Axis (Provide/Inject)**. By declaratively defining the vertical boundaries of these conduits, we isolate the **Execution Plane (X/Y)** from unintended ripples, transforming side effects into observable, intentional logic injections.
 - **The Distributed Illusion:** Traditional systems treat "distributed" as a complex layer of networking and synchronization. From a topological perspective, a distributed system can be conceptualized as a single Logic Unit physically split across locations. Given the X-Axis is designed for Pure Data, distribution need not be treated as an add-on feature—it can instead be viewed as a natural shape of a topology whose parts are not co-located. Distribution is not a layer; it is a **Topological Slice** of the axes manifested across physical boundaries.
-- **The Observability Crisis:** Debugging in 1D text relies on lossy logs or intrusive breakpoints. In the **LogicUniverse**, observability is not a feature, but a geometric property. Each **Logic Unit** is a deterministic, pulse-governed entity. Every data exchange on the **X/Y Plane** is captured as a discrete structural event, rendering traditional "logging" obsolete. The runtime is, by design, a **Native Logic Analyzer**, recording every topological transition for perfect time-traveling reconstruction at zero observer overhead.
+- **The Observability Crisis:** Debugging in 1D text relies on lossy logs or intrusive breakpoints. In the **LogicUniverse**, observability is not a feature but a geometric property. Each **Logic Unit** is a deterministic, pulse-governed entity. Every data exchange on the **X/Y Plane** is captured as a discrete structural event, rendering traditional "logging" obsolete. The runtime is, by design, a **Native Logic Analyzer**, recording every topological transition for perfect time-traveling reconstruction at zero observer overhead.
 
 **The Unified Field: Existing Paradigms as Projections**
 
-The industry's failure to achieve true decoupling stems from attempting to solve 3D problems with 1D tools. By providing a **Universal Coordinate System**, LogicUniverse recognizes existing paradigms as partial **Projections** onto our tri-axial space:
+The industry's failure to achieve true decoupling stems from trying to solve 3D problems with 1D tools. By providing a **Universal Coordinate System**, LogicUniverse recognizes existing paradigms as partial **Projections** onto our tri-axial space:
 
 - **Functional Programming (FP):** A projection onto the **(-X, -Y)** quadrant. It excels in pure spatial mapping but often lacks the native vocabulary for proactive interaction (+X), leading to complex "Effect" wrappers to bridge the gap.
 - **Procedural Programming:** A projection onto the **(-X, +Y)** quadrant. It focuses on stepping through the temporal axis via manual sampling and gated execution, treating logic as a sequence of state transitions.
@@ -203,7 +203,7 @@ In the **LogicUniverse**, all logic—regardless of its origin—is ultimately e
 
 **Unified Origin**
 
-LogicIR can be generated through multiple pathways:
+LogicIR can be generated via multiple pathways:
 
 - **Manual Assembly:** Human architects designing via visual IDEs or topological DSLs.
 - **Programmatic Generation:** High-level scripts or "Macros" (Standard LUs) that output sub-topologies.
@@ -274,7 +274,7 @@ In this paradigm, there is no "Binary" in the traditional, lossy sense—only th
 **_Everything is LU. Everything is data. Everything is a pipeline stage._**
 
 > [!TIP]  
-> _**Etymological Note:** While **LogicIR™** serves as the definitive **Logic Intermediate Representation**, its naming also encapsulates the core architectural intent: the **Logic-Circuit (Logi+Cir)**—a fractal netlist of deterministic coordinates._
+> _**Etymological Note:** While **LogicIR** serves as the definitive **Logic Intermediate Representation**, its naming also encapsulates the core architectural intent: the **Logic-Circuit (Logi+Cir)**—a fractal netlist of deterministic coordinates._
 >
 > _Logic is not written; it is synthesized as a circuit._
 
@@ -495,7 +495,7 @@ The **ZYModel** framework represents an independent theoretical achievement, dev
 
 The conceptual framework defined in this manifesto—specifically the **Logic Unit (LU)** as a fractal topology spanned by the three orthogonal axes: **Push/Pull**, **Time/Space**, and **Provide/Inject**—constitutes the core original expression of the **ZYModel Specification**.
 
-**`LogicUniverse™` and `LogicIR™` are trademarks of Zhang, Yang (张洋).**
+**`LogicUniverse™`, `LogicIR™` and `ZYModel™` are trademarks of Zhang, Yang (张洋).**
 
 _The localized trademark `逻辑宇宙®` (No. 60720711) has been formalized and protected since 2022._
 
@@ -609,7 +609,7 @@ The **LogicUniverse** is currently in its active alpha phase, centering its effo
   - [LogicIR-PY](https://github.com/logicuniverse/LogicIR-PY): **In Planning** — Targeting AI Agents and Embedded systems. Implementation will follow the final stabilization of the JS reference core.
 - **LogicIR Composer (Visual IDE):** Internal development of the coordinate-based design environment, equipped with a design-time algebraic type system for topological synthesis.
 - **Native Host Runtime & Orchestration (Planning):**
-  - **LogicIR-CPP**: **In Planning** — High-performance native Engine.
+  - **LogicIR-CPP**: High-performance native Engine.
   - **LogicIR-WASM**: Portable high-performance runtime for browser and edge.
   - **LogicIR-RS**: Deterministic Runtime Core.
   - **LogicIR-GO**: Cloud-native Orchestrator & Logic-Slicing Runtime.
@@ -630,6 +630,11 @@ The **LogicUniverse** is currently in its active alpha phase, centering its effo
 > To the next generation of architects: Let this record prove that there are no gods in this industry, only the **relentless, step-by-step crawl toward truth.** We prioritize the courage to be real over the illusion of being perfect.
 >
 > _**Real over Perfect.**_
+
+### v1.0.0-alpha.20 (2026-03-19)
+
+- **Legal & Branding Update**: Standardized ZYModel™ trademark attribution and updated intellectual property statements.
+- **Linguistic Polish**: Performed a comprehensive grammar and terminology polish for improved technical precision.
 
 ### v1.0.0-alpha.19 (2026-03-19)
 
