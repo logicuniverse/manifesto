@@ -565,17 +565,26 @@ Finally, a bit of **bad news**: once the spatial nature of logic is perceived, t
 
 ---
 
-<div >
-  <h3 style="color: #888; font-weight: normal; letter-spacing: 1px;">In Memory</h3>
-  <p style="color: #777; font-size: 0.95em; line-height: 1.6; font-style: italic;">
-    This work carries a quiet, invisible companion.<br/>
-    Twenty-six years ago, my dearest childhood friend and I began our journey into computing together. Though we walked separate paths in life, our love for this craft never faded. Last year, at this same season, he came to my studio — we sat together after dinner, and I shared with him this very theory, still raw and unformed at the time. I never imagined that evening would be our last. Less than a week later, he left this world.<br/>
-    One year has passed. I have longed to tell you: the theory is finally complete. All that remains is time. But you will never hear it.<br/>
-    This entire manifesto was written on your computer. Every line of code that validated the theory ran on your machine and your development boards. I hope you see it, somewhere, in some light.<br/>
-    I miss you, old friend.<br/><br/>
-    <strong>This universe is for you.</strong>
-  </p>
-</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+
+### In Memory
+
+_This work carries a quiet, invisible companion._
+
+_Twenty-six years ago, my dearest childhood friend and I began our journey into computing together. Though we walked separate paths in life, our love for this craft never faded. Last year, at this same season, he came to my studio — we sat together after dinner, and I shared with him this very theory, still raw and unformed at the time. I never imagined that evening would be our last. Less than a week later, he left this world._
+
+_One year has passed. I have longed to tell you: the theory is finally complete. All that remains is time. But you will never hear it._
+
+_This entire manifesto was written on your computer. Every line of code that validated the theory ran on your machine and your development boards. I hope you see it, somewhere, in some light._
+
+_I miss you, old friend._
+
+_**This universe is for you.**_
+
 <br />
 <br />
 <br />
@@ -594,10 +603,10 @@ Finally, a bit of **bad news**: once the spatial nature of logic is perceived, t
 The **LogicUniverse** is currently in its active alpha phase, centering its efforts on the **Logic Geometry** stage of the roadmap—the formalization of static topological assembly.
 
 - **[LogicIR Spec](https://github.com/logicuniverse/LogicIR)**:
-  **The Source of Truth** — Defining the deterministic, closed-world Netlist data structure.
+  **The Source of Truth** — Defining the deterministic, closed-world Netlist data structure. Currently undergoing **Active Recalibration** to ensure core topological alignment with the latest theoretical expansion
 - **Engine Implementations (Interpreted Targets):**
-  - [LogicIR-JS](https://github.com/logicuniverse/LogicIR-JS): **Published** — Official Reference Engine for Web/Cloud.
-  - [LogicIR-PY](https://github.com/logicuniverse/LogicIR-PY): **In Active Development** — Targeting AI Agents, Scientific Computing, and MicroPython/Embedded systems.
+  - [LogicIR-JS](https://github.com/logicuniverse/LogicIR-JS): **In Refinement** — The Reference Engine for Web/Cloud. Current architecture is synchronized with the core theory via the `develop` branch (Back-annotation in progress).
+  - [LogicIR-PY](https://github.com/logicuniverse/LogicIR-PY): **In Planning** — Targeting AI Agents and Embedded systems. Implementation will follow the final stabilization of the JS reference core.
 - **LogicIR Composer (Visual IDE):** Internal development of the coordinate-based design environment, equipped with a design-time algebraic type system for topological synthesis.
 - **Native Host Runtime & Orchestration (Planning):**
   - **LogicIR-CPP**: **In Planning** — High-performance native Engine.
