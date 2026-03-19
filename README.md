@@ -697,17 +697,19 @@ This journey began over five years ago with a modest, practical goal: to create 
 
 Driven by this haunting intuition, I formalized the trademark **逻辑宇宙®** (the native Chinese designation for **LogicUniverse**) in 2021. At that time, I possessed no grand unified theory; I merely had the conviction that **Logic** is the irreducible substrate of existence, even if I did not yet know how to navigate its dimensions.
 
-What followed was a five-year long-march of bold yet patient exploration—discarding dozens of failed abstractions and redundant codebases. It was only recently that the pieces finally converged, and the underlying structure crystallized into a rigid, functional reality. **This Manifesto was only written once the fundamental principles were proven in code and the theory had nowhere left to hide.**
+What followed was a five-year long-march of bold yet patient exploration—discarding dozens of failed abstractions and redundant codebases. I chose to sustain this obsession entirely through my own personal resources, far from the mandates of commercial interest or the impatience of external capital. I discovered that the path to truth is never a free passage; it requires a literal and metaphorical **admission fee**. Many possess the intellect to perceive the symmetry of logic, but few possess the courage to pay its price. By funding this universe from my own life, I secured the absolute, sovereign freedom to fail, to retract, and to refine—until the architecture was not just functional, but inevitable. Truth is reserved for the brave; it remains invisible to those unwilling to bear the risk of its discovery. **I did not just write this logic; I paid for its right to exist.**
 
-Yet, the process of documenting this universe has been its final trial; as I translated the rigid geometry of logic into the dust of language, my understanding of its terminology, scope, and potential further crystallized. As evidenced by the rapid evolution of this document, I am now back-annotating these refined insights to achieve absolute parity across the LogicIR specification, the engines, and the codebase.
+During those years of solitary exploration, I moved without a map. I did not know what the final answer would be, nor when—if ever—it would be reached. Yet, I felt a persistent, resonant frequency echoing from the void ahead. I never sought to impose control or force a conclusion; instead, I abandoned myself to that steady yet ethereal direction, simply following the inherent pulse of logic as it led the way. I never doubted the path—I only labored to remain worthy of its destination.
 
-This outcome was not driven by my ambition to save the world, but by the inherent necessity of logical completeness. I merely followed the deductions and presented the structure as it naturally emerged.
+It was only recently that the pieces finally converged, and the underlying structure crystallized into a rigid, functional reality. **This Manifesto was only written once the fundamental principles were proven in code and the theory had nowhere left to hide.**
 
-For years, I harbored a deep-seated apprehension toward developing in public—fearful that unpolished abstractions or erroneous commits would forever mar the historical record. But I have grown brave. I now wish for the world to see the jagged, imperfect process of a theory converging toward stability. Let the record reflect that **there are no gods in this industry, only the relentless, step-by-step crawl toward truth.**
+Yet, the process of documenting this universe has been its final trial; as I translated the rigid geometry of logic into the dust of language, my understanding of its terminology, scope, and potential further crystallized. As evidenced by the rapid evolution of this document, I am now back-annotating these refined insights to achieve parity across the LogicIR specification, the engines, and the codebase.
+
+This outcome was driven by the necessity of logical completeness, not an ambition to save the world. For years, I harbored a deep-seated apprehension toward developing in public—fearful that unpolished abstractions or erroneous commits would forever mar the historical record. But I have grown brave. I now wish for the world to see the jagged, imperfect process of a theory converging toward stability. Let the record reflect that **there are no gods in this industry, only the relentless, step-by-step crawl toward truth.**
 
 In this convergence, I must also acknowledge the **Artificial Intelligences** that served as my tireless interlocutors. They did not just help polish the text; they acted as a high-fidelity mirror for my own internal contradictions. At times, the AI even "mocked" my lingering attachment to 1D thinking while I was back-annotating the code—forcing me to confront the very "Tape-based" habits I sought to escape. This Manifesto is, in every sense, a co-manifestation between human intuition and machine-rationality.
 
-Yet its true meaning may lie not in a perfect final explanation, but in offering a **new perspective**: a coordinate system from which to re-examine, re-question, and re-understand every concept we have long taken for granted: **computation, logic, spacetime, mathematics, life, and intelligence.**
+Yet its true meaning may lie not in a perfect final explanation, but in offering a **new perspective**: a coordinate system from which to re-examine, re-question, and re-understand every concept we have long taken for granted: **computation, logic, spacetime, mathematics, intelligence and life.**
 
 Finally, a bit of **bad news**: once the spatial nature of logic is perceived, the world reveals itself as a permanent geometry of existence.
 
@@ -715,16 +717,33 @@ Finally, a bit of **bad news**: once the spatial nature of logic is perceived, t
 
 ---
 
-### In Memory
+<br />
+<br />
+<br />
+<br />
+<br />
 
-_This work carries a quiet, invisible companion._
+<br />
+<br />
+<br />
+<br />
+<br />
 
-_Twenty-six years ago, my dearest childhood friend and I began our journey into computing together. Though we walked separate paths in life, our love for this craft never faded. Last year, at this same season, he came to my studio — we sat together after dinner, and I shared with him this very theory, still raw and unformed at the time. I never imagined that evening would be our last. Less than a week later, he left this world._
+---
 
-_One year has passed. I have longed to tell you: the theory is finally complete. All that remains is time. But you will never hear it._
-
-_This entire manifesto was written on your computer. Every line of code that validated the theory ran on your machine and your development boards. I hope you see it, somewhere, in some light._
-
-_I miss you, old friend._
-
-**_This universe is for you._**
+<div >
+  <h3 style="color: #888; font-weight: normal; letter-spacing: 1px;">In Memory</h3>
+  <p style="color: #777; font-size: 0.95em; line-height: 1.6; font-style: italic;">
+    This work carries a quiet, invisible companion.<br/>
+    Twenty-six years ago, my dearest childhood friend and I began our journey into computing together. Though we walked separate paths in life, our love for this craft never faded. Last year, at this same season, he came to my studio — we sat together after dinner, and I shared with him this very theory, still raw and unformed at the time. I never imagined that evening would be our last. Less than a week later, he left this world.<br/>
+    One year has passed. I have longed to tell you: the theory is finally complete. All that remains is time. But you will never hear it.<br/>
+    This entire manifesto was written on your computer. Every line of code that validated the theory ran on your machine and your development boards. I hope you see it, somewhere, in some light.<br/>
+    I miss you, old friend.<br/><br/>
+    <strong>This universe is for you.</strong>
+  </p>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
