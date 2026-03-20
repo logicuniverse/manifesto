@@ -420,7 +420,7 @@ The pursuit of elegance and simplicity in this design is a tribute to the timele
 
 ---
 
-## XI. Beyound The Tape: The Call to Architects
+## XI. Beyond The Tape: The Call to Architects
 
 > **_Informed by Hardware, Manifested through Software, Re-imagining Everything._**
 
@@ -430,7 +430,7 @@ For millennia, the constraints of the "Tape" have extended far beyond programmin
 
 With the **ZYModel** as our formal grammar and **LogicIR** as our definitive medium, we possess, for the first time, the necessary architecture to accurately describe, execute, and formally verify logic beyond the one-dimensional constraints of the tape.
 
-This is no longer an intellectual conjecture; it is a proven engineering reality.
+This is no longer an intellectual conjecture; it is a validated engineering reality.
 
 **_Logic is no longer an instruction list to be read; it is a circuit to be manifested._**
 
