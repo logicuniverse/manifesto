@@ -575,9 +575,9 @@ Finally, a bit of **bad news**: once the spatial nature of logic is perceived, t
 
 _This work carries a quiet, invisible companion._
 
-_Twenty-six years ago, my dearest childhood friend and I began our journey into computing together. Though we walked separate paths in life, our love for this craft never faded. Last year, at this same season, he came to my studio — we sat together after dinner, and I shared with him this very theory, still raw and unformed at the time. I never imagined that evening would be our last. Less than a week later, he left this world._
+_Twenty-six years ago, my dearest childhood friend and I began our journey into computing together. He was the witness to my very first line of code, the origin of my curiosity. Though we walked separate paths in life, our love for this craft never faded. Last year, at this same season, he came to my studio — we sat together after dinner, and I shared with him this very theory, still raw and unformed at the time. I never imagined that evening would be our last. Less than a week later, he left this world._
 
-_One year has passed. I have longed to tell you: the theory is finally complete. All that remains is time. But you will never hear it._
+_One year has passed. I have longed to tell you: the theory is finally complete. From the first spark we shared as children to this final universal topology, the circle is closed. But you will never hear it._
 
 _This entire manifesto was written on your computer. Every line of code that validated the theory ran on your machine and your development boards. I hope you see it, somewhere, in some light._
 
