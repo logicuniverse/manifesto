@@ -3,6 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0--alpha.20-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19133236.svg)](https://doi.org/10.5281/zenodo.19133236)
 
 ### Beyond the Tape: A Tri-Axial Fractal Topology for Deterministic Logic-as-Data
 
@@ -503,11 +504,15 @@ _The localized trademark `逻辑宇宙®` (No. 60720711) has been formalized and
 
 We believe logic essence should be a common heritage of logical reality. By publishing this specification, the ZYModel framework is dedicated as **Defensive Prior Art**, ensuring the core topological principles remain open and free from restrictive patenting by any party.
 
-Individual releases of the ZYModel™ Specification and its core theoretical manifesto are archived on Zenodo for long-term preservation and defensive prior art.
-
 **Licensing & Use**
 
 Any functional implementation, derivative work, or architectural subset that adopts this specific tripartite logical structure is recognized as an implementation of the **ZYModel Specification**. It is a core community standard that such implementations honor the attribution requirements of the **Creative Commons Attribution 4.0 International (CC-BY-4.0) License**.
+
+**Formal Archival & Citation**
+
+This manifesto and the underlying ZYModel™ Specification are permanently archived for long-term preservation. To ensure you are referencing the most recent evolution of the logic fabric, please use the **Concept DOI** which invariably resolves to the latest version:
+
+**Concept DOI:** [10.5281/zenodo.19133236](https://doi.org/10.5281/zenodo.19133236)
 
 **Recommended Attribution:**  
 "This implementation leverages the ZYModel Specification created by [Zhang, Yang](https://logicuniverse.org), licensed under CC-BY-4.0."
