@@ -1,6 +1,6 @@
 # LogicUniverse
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.20-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.21-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19133236.svg)](https://doi.org/10.5281/zenodo.19133236)
@@ -37,6 +37,8 @@
 ```
 
 _LogicIR is the universal data topology of logic essence, governed by the ZYModel—mapping high-level intent into the deterministic physical reality of any execution environment._
+
+> The following sections detail the core axiomatic system of LogicUniverse. Serving as the foundational First Principles of Tri-Axial Fractal Topology, these axioms redefine the geometric essence of computational logic. This framework systematically critiques the one-dimensional (1D) programming paradigm, maps existing paradigms into our coordinate system, and demonstrates the framework's explanatory power and industrial implementation value.
 
 ## I. The Topology of Logic: The Prime Axiom
 
@@ -420,7 +422,7 @@ The pursuit of elegance and simplicity in this design is a tribute to the timele
 
 ---
 
-## XI. Beyound The Tape: The Call to Architects
+## XI. Beyond The Tape: The Call to Architects
 
 > **_Informed by Hardware, Manifested through Software, Re-imagining Everything._**
 
@@ -451,18 +453,21 @@ All capabilities converge into **LogicIR**: transforming logic into a first-clas
 
 ### B. Outward Exploration: Mapping Manifestation (The Y-Axis)
 
-Upon this solid engineering foundation, we offer a set of tempered, falsifiable scientific perspectives—open inquiries based entirely on operational models. If the underlying fabric of mathematics and physics follows the same fractal topological rules as the ZYModel, we gain a series of sharp, new vantage points to observe classical dilemmas:
+Upon this solid engineering foundation, we offer a set of tempered, falsifiable scientific perspectives—open inquiries rooted entirely in operational models. If the underlying fabric of mathematics and physics adheres to the same fractal topological rules as the ZYModel, we gain a series of sharp, new vantage points from which to examine classical dilemmas:
 
-- **The nature of continuity**: Does fractal recursion suggest a fundamentally discrete reality, where "continuity" is merely a macroscopic statistical approximation?
-- **The P/NP bottleneck**: Can the complexity gap be unified as a topological shift between the Push/Pull polarities of the X-Axis?
-- **The act of observation**: Can physical "measurement" be understood as a Pull-based (-X) interaction triggering lazy evaluation, collapsing latent potential into a deterministic vector?
-- **Theoretical Unification**: Can spacetime, causality, and entanglement be seen as different projections of a tri-axial topology across varying scales?
+- **The Nature of Continuity**: The ZYModel posits a **fundamentally discrete reality** for logic. Within this framework, "continuity" is a macroscopic statistical approximation—a high-resolution illusion. This discrete foundation establishes the **Topological Planck Scale**: the irreducible limits of spatial resolution (-Y) and execution cycles (+Y).
+- **The Clock of Causality**: The inherent execution rules of a discrete topology dictate a maximum propagation speed for information across the Execution Plane (X/Y). This speed is the **Upper Bandwidth of Causality**, the fundamental clock rate of the computable universe.
+- **The Invariants of Scale**: The orthogonality of the three axes, the **coordinate uniqueness** of each Logic Unit (LU), and the sovereign unity of the Z-Axis are invariant topological laws across all fractal scales.
 
-These are not mere philosophical riddles. Within the framework of the ZYModel, classical natural laws emerge as **deterministic performance signatures** of the underlying logic engine. By treating the cosmos as a computable topology, we have already begun to derive structural isomorphisms for concepts once deemed mystical: from **Gravity as macroscopic synchronization overhead** to **Time Dilation as a structural compute-budget tradeoff.**
+We propose a bold hypothesis: **The physical world is a low-dimensional projection of this underlying fractal topological essence.** In the LogicUniverse, classical natural laws emerge as the observable performance signatures of the underlying engine.
+
+Based on these deterministic topological features and this core hypothesis, we frame a series of **Open Research Questions** anchored in the ZYModel axioms. These inquiries revisit the ultimate dilemmas of Quantum Mechanics, Special Relativity, and Computational Theory through the lens of a topological coordinate system.
+
+_(For the full list of these exploratory research questions, see **Appendix: The Topological Projections of Reality**.)_
 
 We do not claim to have "solved" physics, nor do we assert definitive explanations of physical reality. We do only one pragmatic thing: **provide a computable, constructible, and falsifiable formalization tool.**
 
-**The path is open.** To this end, we will establish an **Independent Exploration Laboratory** dedicated to building computable "Logic Universe Simulators." Here, the boundary between conjecture and fact is governed by the compiler: every hypothesis must manifest as code; every structure must be executable; every conclusion must be reproducible.
+**The path is open.** To this end, we will establish an **Independent Exploration Laboratory** dedicated to building computable "Logic Universe Simulators." Here, the boundary between conjecture and fact is governed by the compiler: every hypothesis must be manifested as code; every structure must be executable; every conclusion must be reproducible.
 
 **Join the Exploration:** If you are an explorer focused on the horizon of computation, this is your instrument.
 
