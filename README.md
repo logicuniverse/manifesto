@@ -1,4 +1,4 @@
-# LogicUniverse
+# LogicUniverse Manifesto
 
 ![Version](https://img.shields.io/badge/version-1.0.0--alpha.21-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
