@@ -463,7 +463,7 @@ We propose a bold hypothesis: **The physical world is a low-dimensional projecti
 
 Based on these deterministic topological features and this core hypothesis, we frame a series of **Open Research Questions** anchored in the ZYModel axioms. These inquiries revisit the ultimate dilemmas of Quantum Mechanics, Special Relativity, and Computational Theory through the lens of a topological coordinate system.
 
-_(For the full list of these exploratory research questions, see **Appendix: The Topological Projections of Reality**.)_
+_(For the full list of these exploratory research questions, see **[Appendix: The Topological Projections of Reality](#appendix-the-topological-projections-of-reality)**.)_
 
 We do not claim to have "solved" physics, nor do we assert definitive explanations of physical reality. We do only one pragmatic thing: **provide a computable, constructible, and falsifiable formalization tool.**
 
@@ -605,6 +605,42 @@ _**This universe is for you.**_
 
 ---
 
+## Appendix: The Topological Projections of Reality
+
+> _"If the logic fabric of the ZYModel is universal, then the laws of nature are the observable performance signatures of the underlying engine. We propose the following open inquiries as a bridge between computation and logical reality."_
+
+#### I. The Discrete Granularity
+
+- **The Nature of Planck Scale**: Does the ZYModel’s discrete coordinate system define the irreducible granularity of space and time? Is the "Planck length" simply the minimum addressable unit of a topological Net, and the "Planck time" the fundamental clock cycle of the Execution Plane (+Y)?
+- **The Illusion of Continuity**: Is physical "continuity" merely a macroscopic statistical approximation—a high-resolution rendering of discrete logical events?
+
+#### II. The Propagation of Causality
+
+- **The Nature of Light Speed (C)**: Is the speed of light the maximum inter-coordinate propagation bandwidth of the Execution Plane (X/Y)? Does it represent the fundamental clock rate of causality itself?
+- **Relativistic Effects as Budget Trade-offs**: Can **Time Dilation** and **Length Contraction** be re-interpreted as structural compute-budget trade-offs? In regions of high interaction (mass/velocity), does the engine slow the local temporal cycle (+Y) and contract the spatial topology (-Y) to ensure topological invariants remain resolved?
+
+#### III. The Dynamics of Interaction
+
+- **The Nature of Wave-Particle Duality**: Can the dual behavior of quantum entities be re-interpreted as the **Operational Polarity** of the LU? Is the proactive **Push-mode (+X)** propagation experienced as a "Wave" (Signal Propagation), while the synchronous **Latch/Pull-mode (-X)** event is experienced as a "Particle" (State Localization)?
+- **Observation as Lazy Evaluation**: Is **Wavefunction Collapse** a Pull-based (-X) interaction triggering **Lazy Evaluation**? Does the act of measurement force a latent, proactive Push-state to resolve into a deterministic, latched vector?
+- **The Uncertainty Principle**: Is the **Uncertainty Principle** an inherent topological trade-off arising from the **orthogonal axes**, manifesting as a resolution limit of the Pull-mode (-X) interface, rather than a mere limitation of experimental technology?
+
+#### IV. The Symmetry of Essence
+
+- **The Nature of Entanglement**: Is **Quantum Entanglement** the manifestation of **High-Dimensional Sovereign Unity**? Are "entangled" particles distant LUI sets pierced by the same **Z-Axis Service**, appearing non-locally correlated only to a low-dimensional observer?
+- **The Exclusion Principle**: Does the **Pauli Exclusion Principle** manifest as the **Coordinate Uniqueness** of the LU—the law that no two logic units with identical polarity and state can occupy the same topological coordinate?
+
+#### V. The Macroscopic Manifestation
+
+- **The Nature of Gravity**: Can **Gravity** be re-interpreted as the macroscopic **Synchronization Overhead** of a distributed topology? Is the "curvature of spacetime" the systemic latency required to maintain logical consistency across dense clusters of LUIs?
+- **The Mass-Energy Equivalence**: Is **Mass-Energy Equivalence** the deterministic conversion between **Topological Dynamics** (Energy) and **Stabilized Topological Structures** (Mass) within the Logical Reality?
+
+#### VI. The Complexity of Logic
+
+- **The P/NP Gap**: Can the **P/NP Complexity Gap** be unified as a topological phase-shift between the Push/Pull polarities of the **X-Axis**—distinguishing between the parallel verification flow of Push-mode (+X) and the serial resolution cost of Pull-mode (-X)?
+
+---
+
 ## Current State (Q1 2026)
 
 > [!IMPORTANT]  
@@ -642,6 +678,14 @@ The **LogicUniverse** is currently in its active alpha phase, centering its effo
 > To the next generation of architects: Let this record prove that there are no gods in this industry, only the **relentless, step-by-step crawl toward truth.** We prioritize the courage to be real over the illusion of being perfect.
 >
 > _**Real over Perfect.**_
+
+### v1.0.0-alpha.21 (2026-03-21)
+
+- **Formal Archival & DOI**: Integrated **Concept DOI (10.5281/zenodo.19133236)** for permanent academic citation and long-term preservation of the ZYModel™ Specification.
+- **Scientific Foundation (Appendix)**: Formalized the structural inquiries into an official **Appendix: The Topological Projections of Reality**, re-interpreting Planck Scale, Causality, and Wave-Particle Duality as topological signatures.
+- **Discrete Reality Axiom**: Formally established the **Fundamentally Discrete Reality** of logic within Section XI, defining the "Topological Planck Scale" and the "Upper Bandwidth of Causality."
+- **Axiomatic Refinement**: Polished the relationship between "Services" and "LUI Sets" to ensure absolute semantic parity across the manifesto and LogicIR specifications.
+- **Narrative Overhaul**: Added a "First Principles" guide to the opening sections to refine the tri-axial critique of 1D programming.
 
 ### v1.0.0-alpha.20 (2026-03-19)
 
