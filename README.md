@@ -607,7 +607,7 @@ _**This universe is for you.**_
 
 # Appendix: Heuristic Analogies & Thought Experiments
 
-> "If the logical fabric of the ZYModel is universal, then the laws of nature emerge as observable performance signatures of the underlying engine. We propose the following inquiries not as formal proofs, but as a bridge between computation, mathematical formalism, and logical reality."
+> If the logical fabric of the ZYModel is universal, then the laws of nature emerge as observable performance signatures of the underlying engine. We propose the following inquiries not as formal proofs, but as a bridge between computation, mathematical formalism, and logical reality.
 
 This appendix provides a series of observational assertions and open thought experiments. It aims to analyze the deep-seated constraints of existing mathematical and physical paradigms through the lens of **Tri-Axial Fractal Topology**, identifying the "dimensional mismatch" between our descriptive tools and the high-dimensional essence of logic.
 
