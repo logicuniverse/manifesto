@@ -1,6 +1,6 @@
 # LogicUniverse Manifesto
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.21-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.22-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19133236.svg)](https://doi.org/10.5281/zenodo.19133236)
@@ -274,7 +274,7 @@ Execution is the act of **Projecting** LogicIR onto a physical or virtual medium
 
 In this paradigm, there is no "Binary" in the traditional, lossy sense—only the **deterministic projection** of LogicIR into a specific execution environment.
 
-**_Everything is LU. Everything is data. Everything is a pipeline stage._**
+**_Everything is LU. Everything is Data. Everything is Geometry._**
 
 > [!TIP]  
 > _**Etymological Note:** While **LogicIR** serves as the definitive **Logic Intermediate Representation**, its naming also encapsulates the core architectural intent: the **Logic-Circuit (Logi+Cir)**—a fractal netlist of deterministic coordinates._
@@ -463,7 +463,7 @@ We propose a bold hypothesis: **The physical world is a low-dimensional projecti
 
 Based on these deterministic topological features and this core hypothesis, we frame a series of **Open Research Questions** anchored in the ZYModel axioms. These inquiries revisit the ultimate dilemmas of Quantum Mechanics, Special Relativity, and Computational Theory through the lens of a topological coordinate system.
 
-_(For the full list of these exploratory research questions, see **[Appendix: The Topological Projections of Reality](#appendix-the-topological-projections-of-reality)**.)_
+_(For the full list of these exploratory research questions, see **[Appendix: Heuristic Analogies & Thought Experiments](#appendix-heuristic-analogies--thought-experiments)**.)_
 
 We do not claim to have "solved" physics, nor do we assert definitive explanations of physical reality. We do only one pragmatic thing: **provide a computable, constructible, and falsifiable formalization tool.**
 
@@ -533,23 +533,23 @@ This manifesto and the underlying ZYModel™ Specification are permanently archi
 
 I do not claim this framework to be universally complete or entirely correct. Any attempt to reach fundamental truth across such a vast domain will inevitably face limits. LogicUniverse is a multi-year labor of subtraction—a quiet obsession aimed at carving logic down to its most irreducible, topological essence.
 
-This journey began over five years ago with a modest, practical goal: to create a reliable visual flow editor for domain engineers. But the path was riddled with frustration; every traditional abstraction I built eventually collapsed under its own complexity. It was in those moments of failure that I had a profound realization: **the bottleneck was not the programming—it was the logic itself.**
+This journey began with a modest, practical goal: to create a reliable visual flow editor for domain engineers. But the path was riddled with frustration; every traditional abstraction I built eventually collapsed under its own complexity. It was in those moments of failure that I had a profound realization: **the bottleneck was not the programming—it was the logic itself.**
 
-Driven by this haunting intuition, I formalized the trademark **逻辑宇宙®** (the native Chinese designation for **LogicUniverse**) in 2021. At that time, I possessed no grand unified theory; I merely had the conviction that **Logic** is the irreducible substrate of existence, even if I did not yet know how to navigate its dimensions.
+Driven by this intuition, I formalized the trademark **逻辑宇宙®** in 2021. At that time, I possessed no grand theory; only the conviction that logic is the irreducible substrate of existence.
 
-What followed was a five-year long-march of bold yet patient exploration—discarding dozens of failed abstractions and redundant codebases. I chose to sustain this obsession entirely through my own personal resources, far from the mandates of commercial interest or the impatience of external capital. I discovered that the path to truth is never a free passage; it requires a literal and metaphorical **admission fee**. Many possess the intellect to perceive the symmetry of logic, but few possess the courage to pay its price. By funding this universe from my own life, I secured the absolute, sovereign freedom to fail, to retract, and to refine—until the architecture was not just functional, but inevitable. Truth is reserved for the brave; it remains invisible to those unwilling to bear the risk of its discovery. **I did not just write this logic; I paid for its right to exist.**
+What followed was a five-year "Long March" of subtraction. I chose to sustain this obsession entirely through my own resources, shielding the work from the impatience of external capital. **Truth is seldom a free passage; it requires an admission fee.** By funding this universe from my own life, I secured the sovereign freedom to fail, to retract, and to refine—until the architecture was not just functional, but inevitable. I did not just write this logic; I earned the right to see it.
 
-During those years of solitary exploration, I moved without a map. I did not know what the final answer would be, nor when—if ever—it would be reached. Yet, I felt a persistent, resonant frequency echoing from the void ahead. I never sought to impose control or force a conclusion; instead, I abandoned myself to that steady yet ethereal direction, simply following the inherent pulse of logic as it led the way. I never doubted the path—I only labored to remain worthy of its destination.
-
-It was only recently that the pieces finally converged, and the underlying structure crystallized into a rigid, functional reality. **This Manifesto was only written once the fundamental principles were proven in code and the theory had nowhere left to hide.**
+During those years, I moved without a map, following a persistent resonance from the void. I never sought to impose a conclusion; I simply labored to remain worthy of the destination. **This Manifesto was only written once the principles were proven in code and the theory had nowhere left to hide.**
 
 Yet, the process of documenting this universe has been its final trial; as I translated the rigid geometry of logic into the dust of language, my understanding of its terminology, scope, and potential further crystallized. As evidenced by the rapid evolution of this document, I am now back-annotating these refined insights to achieve parity across the LogicIR specification, the engines, and the codebase.
 
 This outcome was driven by the necessity of logical completeness, not an ambition to save the world. For years, I harbored a deep-seated apprehension toward developing in public—fearful that unpolished abstractions or erroneous commits would forever mar the historical record. But I have grown brave. I now wish for the world to see the jagged, imperfect process of a theory converging toward stability. Let the record reflect that **there are no gods in this industry, only the relentless, step-by-step crawl toward truth.**
 
+I am acutely aware that weaving physics and fundamental mathematics into a manifesto for computational logic may appear both arrogant and naive to a specialized observer. Traditional boundaries encourage us to remain in our respective "Tapes," yet the structural inspirations I drew from physical reality were too resonant to ignore. I offer these tri-axial perspectives not as solutions, but as a proactive lens—a provocation to re-examine long-standing anomalies. In the eyes of a professional researcher, my inferences may appear laughably foolish. Yet, if even a single fragment—half a sentence—of this vision sparks a breakthrough for someone else, I am more than willing to bear the ridicule. Just as I navigated the initial voids of this theory without a map, I would far rather risk the label of a "madman" in pursuit of a unified reality than remain a cautious architect of a fragmented one.
+
 In this convergence, I must also acknowledge the **Artificial Intelligences** that served as my tireless interlocutors. They did not just help polish the text; they acted as a high-fidelity mirror for my own internal contradictions. At times, the AI even "mocked" my lingering attachment to 1D thinking while I was back-annotating the code—forcing me to confront the very "Tape-based" habits I sought to escape. This Manifesto is, in every sense, a co-manifestation between human intuition and machine-rationality.
 
-Yet its true meaning may lie not in a perfect final explanation, but in offering a **new perspective**: a coordinate system from which to re-examine, re-question, and re-understand every concept we have long taken for granted: **computation, logic, spacetime, mathematics, intelligence and life.**
+Yet its true meaning may lie not in a perfect final explanation, but in offering a **new perspective**: a coordinate system from which to re-examine, re-question, and re-understand every concept we have long taken for granted: **computation, logic, spacetime, mathematics, intelligence, and life.**
 
 > **Connection**  
 > If this topological manifesto resonates with you, feel free to reach out to **The Origin**:  
@@ -605,41 +605,112 @@ _**This universe is for you.**_
 
 ---
 
-## Appendix: The Topological Projections of Reality
+# Appendix: Heuristic Analogies & Thought Experiments
 
-> _"If the logic fabric of the ZYModel is universal, then the laws of nature are the observable performance signatures of the underlying engine. We propose the following open inquiries as a bridge between computation and logical reality."_
+> "If the logical fabric of the ZYModel is universal, then the laws of nature emerge as observable performance signatures of the underlying engine. We propose the following inquiries not as formal proofs, but as a bridge between computation, mathematical formalism, and logical reality."
 
-#### I. The Discrete Granularity
-
-- **The Nature of Planck Scale**: Does the ZYModel’s discrete coordinate system define the irreducible granularity of space and time? Is the "Planck length" simply the minimum addressable unit of a topological Net, and the "Planck time" the fundamental clock cycle of the Execution Plane (+Y)?
-- **The Illusion of Continuity**: Is physical "continuity" merely a macroscopic statistical approximation—a high-resolution rendering of discrete logical events?
-
-#### II. The Propagation of Causality
-
-- **The Nature of Light Speed (C)**: Is the speed of light the maximum inter-coordinate propagation bandwidth of the Execution Plane (X/Y)? Does it represent the fundamental clock rate of causality itself?
-- **Relativistic Effects as Budget Trade-offs**: Can **Time Dilation** and **Length Contraction** be re-interpreted as structural compute-budget trade-offs? In regions of high interaction (mass/velocity), does the engine slow the local temporal cycle (+Y) and contract the spatial topology (-Y) to ensure topological invariants remain resolved?
-
-#### III. The Dynamics of Interaction
-
-- **The Nature of Wave-Particle Duality**: Can the dual behavior of quantum entities be re-interpreted as the **Operational Polarity** of the LU? Is the proactive **Push-mode (+X)** propagation experienced as a "Wave" (Signal Propagation), while the synchronous **Latch/Pull-mode (-X)** event is experienced as a "Particle" (State Localization)?
-- **Observation as Lazy Evaluation**: Is **Wavefunction Collapse** a Pull-based (-X) interaction triggering **Lazy Evaluation**? Does the act of measurement force a latent, proactive Push-state to resolve into a deterministic, latched vector?
-- **The Uncertainty Principle**: Is the **Uncertainty Principle** an inherent topological trade-off arising from the **orthogonal axes**, manifesting as a resolution limit of the Pull-mode (-X) interface, rather than a mere limitation of experimental technology?
-
-#### IV. The Symmetry of Essence
-
-- **The Nature of Entanglement**: Is **Quantum Entanglement** the manifestation of **High-Dimensional Sovereign Unity**? Are "entangled" particles distant LUI sets pierced by the same **Z-Axis Service**, appearing non-locally correlated only to a low-dimensional observer?
-- **The Exclusion Principle**: Does the **Pauli Exclusion Principle** manifest as the **Coordinate Uniqueness** of the LU—the law that no two logic units with identical polarity and state can occupy the same topological coordinate?
-
-#### V. The Macroscopic Manifestation
-
-- **The Nature of Gravity**: Can **Gravity** be re-interpreted as the macroscopic **Synchronization Overhead** of a distributed topology? Is the "curvature of spacetime" the systemic latency required to maintain logical consistency across dense clusters of LUIs?
-- **The Mass-Energy Equivalence**: Is **Mass-Energy Equivalence** the deterministic conversion between **Topological Dynamics** (Energy) and **Stabilized Topological Structures** (Mass) within the Logical Reality?
-
-#### VI. The Complexity of Logic
-
-- **The P/NP Gap**: Can the **P/NP Complexity Gap** be unified as a topological phase-shift between the Push/Pull polarities of the **X-Axis**—distinguishing between the parallel verification flow of Push-mode (+X) and the serial resolution cost of Pull-mode (-X)?
+This appendix provides a series of observational assertions and open thought experiments. It aims to analyze the deep-seated constraints of existing mathematical and physical paradigms through the lens of **Tri-Axial Fractal Topology**, identifying the "dimensional mismatch" between our descriptive tools and the high-dimensional essence of logic.
 
 ---
+
+## I. Mathematical Formalism: The 1D Symbolic Confinement
+
+### Core Observational Premise
+
+While mathematics is regarded as the foundation of rigorous logic, its **descriptive medium** remains confined to a "one-dimensional tape" of linear symbolic sequences. Modern software, despite its constraints, has begun to transcend this via execution, concurrency, and reactive topologies. In contrast, the formal system of mathematics remains largely locked in a paradigm of **pull-based serial formalism**, where every proof is a sequential string of symbols dependent on temporal steps.
+
+### High-Dimensional Objects vs. Low-Dimensional Methodology
+
+The primary constraint of mathematics is not in its _objects_ of study (e.g., n-dimensional manifolds, abstract Hilbert spaces), but in its **methodology**. While mathematics conceptualizes high-dimensional objects, it remains tethered to a 1D descriptive methodology. This creates a fundamental gap: the limits of the **research tool** (linear notation and sequential deduction) are often mistaken for the hard limits of **logical truth** itself.
+
+### The Quadrant Asymmetry of Formal Logic
+
+In the ZYModel coordinate system, current mathematical methodology exists almost exclusively within a single logical territory: the **Upper-Left Quadrant (-X: Pull, +Y: Time)** of the Execution Plane.
+
+- **-X (Pull-based Extraction)**: Mathematical deduction is fundamentally "extractive"—given premise A, we pull out conclusion B. It relies on the sequential sampling of truths.
+- **+Y (Temporal Sequence)**: Mathematical proof is an ordered sequence (step-by-step), representing a temporal evolution of logic rather than its spatial existence.
+
+By being confined to this single quadrant, mathematics remains blind to the vast logical territories offered by the ZYModel:
+
+1. **The Unmapped +X (Push/Active Interaction)**: Mathematics lacks a native language for **proactive signal-driven logic**. It struggles to model systems where logic 'pushes' its influence across a topology as a concurrent cascade.
+2. **The Unmapped -Y (Stateless Space)**: Traditional formulas are 'histories' of logic. Mathematics lacks the vocabulary for **purely spatial, stateless transformations** where the topology _is_ the result, independent of the sequence of deduction steps.
+3. **The Hidden Z-Axis (Sovereignty)**: Without a vertical axis of essence, mathematics treats all symbols as flat inhabitants of the same plane, leading to the categorical entanglement (e.g., Russell's Paradox) arising from the lack of sovereign depth.
+
+### The Opening of the View
+
+The transition to the ZYModel is not an incremental improvement; it is a **Topological Expansion**. By unlocking the **three dormant quadrants** (+X/+Y, +X/-Y, -X/-Y) and the orthogonal Z-Axis, we move beyond the "1D logical string" of the human symbolic tradition into a **3D Logical Space**. This reveals vast, unexplored territories where logic can be synthesized as a circuit, projected as a manifold, and fractalized as a living system.
+
+### Open Mathematical Thought Experiments
+
+- **Symmetric Axial Transformations**: Does a fundamental **Axial Rotation** exist in 3D logical space? Can problems that are computationally intractable in a serial Pull-mode (-X/+Y) be 'rotated' into a highly-efficient parallel Push-mode (+X/-Y), effectively trading temporal iteration for spatial topology?
+- **The Illusion of Continuity**: Is mathematical continuity (calculus) a macroscopic approximation of an underlying discrete fractal topological logic?
+- **Paradoxes as Dimensional Artifacts**: Are Gödel’s Incompleteness, the P/NP problem, and infinity paradoxes inherent flaws in logic, or simply artifacts of 1D methodological limitations?
+- **Topological Proofs**: Can we move beyond 1D symbolic induction toward a holistic "Spatial Proof" based on multi-axial topological consistency?
+
+---
+
+## II. Physical Topology: The Ontological Dimensional Mismatch
+
+### Core Dilemma: Tool-Object Dissonance
+
+Theoretical physics relies on mathematics as its primary descriptive engine. However, the 1D symbolic defect of mathematics is inherited by physics, creating a **dimensional mismatch**. Physics attempts to describe high-dimensional, discrete, and topological reality using low-dimensional, linear, and continuous tools. This mismatch may be the root cause of the persistent friction between Quantum Mechanics and General Relativity.
+
+### The Fractal Universe Hypothesis
+
+Within ZYModel’s fractal topology, **our observable universe manifests not as a root logic unit, but as a parameterized Logic Unit Instance (LUI) instantiated from a higher-level logic.**
+Physical constants and spacetime structures can be interpreted as **parameters passed to this LUI** during its initialization in the logical hierarchy.
+
+Crucially, **there is no absolute zero-point or ultimate root**; the hierarchy is recursively fractal. Every LU is a LUI of its parent, and every LUI contains its own internal universe of LUs.
+
+#### II-I. Granularity vs. Continuity
+
+- **The Logical Planck Scale**: Are Planck length and Planck time the minimum addressable units of a topological Net and the fundamental clock cycle of the Execution Plane (+Y), respectively?
+- **Statistical Rendering**: Is "continuity" a high-resolution rendering of discrete logical events, appearing smooth only at macroscopic scales?
+
+#### II-II. Causality and the Speed of Information
+
+- **Universal Bandwidth (c)**: Is the speed of light not an arbitrary physical constant, but the **maximum inter-coordinate propagation bandwidth** of the logic engine?
+- **Relativity as Resource Management**: Are time dilation and length contraction systemic trade-offs to maintain topological invariance? Does the engine slow local temporal cycles (+Y) and compress spatial topology (-Y) in regions of high logical density (mass/velocity)?
+
+#### II-III. Quantum Interaction: Polarity and Observation
+
+- **Wave-Particle Duality**: Is this a manifestation of **Operational Polarity**? Does +X Push-mode propagate as a "wave" (signal distribution), while -X Pull-mode manifests as a "particle" (state localization/latching)?
+- **Lazy Evaluation**: Is wavefunction collapse a form of "lazy evaluation" triggered by a -X Pull observation?
+- **Orthogonal Uncertainty**: Is the Uncertainty Principle an inherent resolution limit arising from the orthogonality of the tri-axial system?
+
+#### II-IV. Sovereign Unity and Entanglement
+
+- **Z-Axis Symmetry**: Is Quantum Entanglement the manifestation of **High-Dimensional Sovereign Unity**? Are "entangled" particles simply distant LUIs on the execution plane that are pierced by the same **Z-axis Sovereign Service**?
+- **Coordinate Uniqueness**: Does the Pauli Exclusion Principle reflect the law of **Topological Occupancy**, where no two LUs with identical polarity and state can share the same coordinate?
+
+---
+
+## III. The Emergence of Logical Topology: A Unified Path
+
+### The Possibility of a New Foundational Discipline
+
+Based on the axiomatic framework of the ZYModel, we explore the possibility of a new foundational discipline: **Logical Topology**. This field would investigate the **spatial arrangement, connectivity, and multi-axial evolution of logic essence** across all scales of reality.
+
+Unlike classical logic, which focuses on the truth-values of linear propositions, **Logical Topology** would treat logic as a **geometric entity** existing within a tri-axial fractal coordinate system, bridging the currently fragmented domains of computation, mathematics, and physics.
+
+### The Ground of Existence: Compulsory Executability
+
+For such a discipline to be viable, its foundational tenure must be rooted in **compulsory executability**. In this paradigm, logic is not a static description; it is an **operational reality**.
+
+- **Existential Determinism**: We propose that a logic unit which cannot be executed (i.e., lacks computable determinism) has no topological coordinate and therefore does not exist within the Logical Universe. In Logical Topology, **execution is the only proof of logical presence.**
+- **Axiomatic Consistency**: The ZYModel provides a self-contained, minimalist, and engineerable tri-axial system proven through executable **LogicIR**. Logic is understood only through its successful projection onto an execution plane.
+- **Functional Isomorphism**: This framework bridges the gap between the discrete nature of bits and the continuous descriptions of physics by treating all existence as a hierarchy of operational cycles (LUs).
+- **Fractal Scalability**: It supports infinite recursion without requiring an absolute origin, allowing logical reality to manifest as self-similar execution patterns across all scales.
+
+### Core Significance: The Unification of Science
+
+If Logical Topology can be established as a formal discipline, it offers a unified ontology where Computing, Mathematics, and Physics are simply different expressions of the same Tri-Axial Fractal Logic:
+
+1. **Mathematical Rectification**: Reconstructing symbolic systems beyond 1D constraints into executable topological schemas.
+2. **Physical Integration**: Resolving dimensional mismatches to bridge Quantum and Relativistic scales by modeling them as emergent execution behaviors.
+3. **Software Industrialization**: Transitioning development into a standardized, VLSI-grade engineering discipline where logic is synthesized as a circuit, not just written as a script.
+
+**The ZYModel suggests that the complexity we observe in the universe is not a chaotic mystery, but a beautiful, geometric consequence of a high-dimensional logical architecture.**
 
 ## Current State (Q1 2026)
 
@@ -678,6 +749,15 @@ The **LogicUniverse** is currently in its active alpha phase, centering its effo
 > To the next generation of architects: Let this record prove that there are no gods in this industry, only the **relentless, step-by-step crawl toward truth.** We prioritize the courage to be real over the illusion of being perfect.
 >
 > _**Real over Perfect.**_
+
+### v1.0.0-alpha.22 (2026-03-22)
+
+- **Epilogue Refinement**: Integrated a proactive defense of the cross-disciplinary perspectives (Physics/Mathematics)—vocalizing the architect’s resolve to follow the logic even at the cost of being labeled a "madman."
+- **Appendix Refinement**: Re-framed the physical projections as Heuristic Analogies & Thought Experiments—strengthening the defense of the cross-disciplinary vision while vocalizing the architect's resolve to follow the logic.
+- **Topological Rectification of Foundational Sciences**: Expanded the Appendix to formally define the "1D Symbolic Cage" of current mathematical and physical paradigms.
+- **Axial Rotation Dynamics**: Introduced the concept of heuristic axial transformations—Trading temporal iteration for spatial topology to resolve historically intractable computational and logical enigmas.
+- **Compulsory Executability Axiom**: Established "Computable Determinism" as the ontological foundation of Logical Topology, defining execution as the only proof of logical presence.
+- **Quadrant Asymmetry Deduction**: Quantified the limitations of traditional formalism as a single-quadrant (-X/+Y) confinement, revealing the untapped potential of the three dormant logical quadrants.
 
 ### v1.0.0-alpha.21 (2026-03-21)
 
