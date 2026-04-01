@@ -1,6 +1,6 @@
 # LogicUniverse Manifesto
 
-![Version](https://img.shields.io/badge/version-1.0.0--alpha.22-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--alpha.23-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Paradigm](https://img.shields.io/badge/paradigm-Tri--Axial--Fractal--Topology-orange)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19133236.svg)](https://doi.org/10.5281/zenodo.19133236)
@@ -28,10 +28,10 @@
      [ Intent ]                                 |           x             Verilog HDL
                                         [ The Sovereign ]   x             Schematic / Netlist
                                             [ Truth ]       x
-                                                            x x x x x x > [ Logical Reality ]
-                                                                          Deterministic Laws
-                                                                          Computable Universe
-                                                                          Topological Life
+                                                            x x x x x x > [ Ontological Projections ]
+                                                                          Computable Universe (Origin)
+                                                                          Physical Vacuum (DCVT)
+                                                                          Discrete Math (DCVT-Math)
 
                         LogicUniverse™ powered by ZYModel™ Specification
 ```
